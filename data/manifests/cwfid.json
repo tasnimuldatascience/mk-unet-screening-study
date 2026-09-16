@@ -1,0 +1,557 @@
+{
+  "dataset": "cwfid",
+  "counts": {
+    "train": 31,
+    "val": 8,
+    "test": 21
+  },
+  "notes": [
+    "Official split has overlapping IDs [28]; removed from training, retained in test.",
+    "CWFID masks encode vegetation as black (0), soil as white (255); explicitly inverted for training.",
+    "Validation: eight images from remaining official training set, shuffle seed 42.",
+    "Binary vegetation masks merge crop and weed; no crop/weed discrimination claim.",
+    "Single-field benchmark: test images do not establish unseen-farm generalization."
+  ],
+  "samples": [
+    {
+      "id": "002",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/002_image.png",
+      "mask": "data/raw/cwfid/masks/002_mask.png",
+      "image_sha256": "165ecc79c9bd9533016b16e5d141680b031f7e01063e762282dd0f059a0835ba",
+      "mask_sha256": "afd2af8ec299fc0fd40682760055b8a818ec9c92991e7f103cf7b2b243acf4db"
+    },
+    {
+      "id": "005",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/005_image.png",
+      "mask": "data/raw/cwfid/masks/005_mask.png",
+      "image_sha256": "8e6ceda9e4e1af217cd1baa232c91b2ee0e3b1017e8e6e29c4e4572d617e2f4c",
+      "mask_sha256": "a509ab0c3316c62bc3b22c3154c67d86dbb0716b2bff9708266c1f6e8e124303"
+    },
+    {
+      "id": "006",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/006_image.png",
+      "mask": "data/raw/cwfid/masks/006_mask.png",
+      "image_sha256": "78a445bff869cd775775a8c2730284eb539d09943fb769125ec36fb36e77446b",
+      "mask_sha256": "4420ec18772634598f4fa824460367358ba17f83af831a0a28d201e1d59e8f6d"
+    },
+    {
+      "id": "008",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/008_image.png",
+      "mask": "data/raw/cwfid/masks/008_mask.png",
+      "image_sha256": "874c139ea966afac89cf82cf467c87be2646f704c34e02450437d9a044901e11",
+      "mask_sha256": "c590ebcc9ce79b1f8751d9e0275ae5c3640910e59a96d72c0108bfe552ac2701"
+    },
+    {
+      "id": "011",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/011_image.png",
+      "mask": "data/raw/cwfid/masks/011_mask.png",
+      "image_sha256": "4b59bd122681f0bf2eda3c2135a559ebf0a0e5af81af997be28761ff507dafa6",
+      "mask_sha256": "455f1f9dcd7a5e56947dd7f7136184cb00f4f971b13a8a0914f6febcb400e9a4"
+    },
+    {
+      "id": "012",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/012_image.png",
+      "mask": "data/raw/cwfid/masks/012_mask.png",
+      "image_sha256": "c575c44c061a0c17cf971f1c945c15acac11b9741fdfdfbda7c671e9c4805b5e",
+      "mask_sha256": "f212de0118339992374110b9afa61b6d081d233414aa512f9650d554fcd19b16"
+    },
+    {
+      "id": "014",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/014_image.png",
+      "mask": "data/raw/cwfid/masks/014_mask.png",
+      "image_sha256": "8192cf52680aa058efe9e83f9fc48f0bff91148746e5fadd639aa0b76845339f",
+      "mask_sha256": "4bc2282b57e4cae05d22574f92cb1e4e556d296a9e4986fa0103d8ff9298d9af"
+    },
+    {
+      "id": "016",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/016_image.png",
+      "mask": "data/raw/cwfid/masks/016_mask.png",
+      "image_sha256": "779a95c22c15a6102c4b2219b93c5dcad517ab180188ab57303ad1045c35d218",
+      "mask_sha256": "c2bde8537b5d20ba461ae76777fb880e9e459093b62c7900fe0e79db61446305"
+    },
+    {
+      "id": "017",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/017_image.png",
+      "mask": "data/raw/cwfid/masks/017_mask.png",
+      "image_sha256": "801bcf2d3057ec2863f334033d9233daffe7fc91549a684220859c362d0da170",
+      "mask_sha256": "811cdff12472d1ad7c64a74bb102fc4850085a4e934c6159a4b2d4c9699f6ac2"
+    },
+    {
+      "id": "020",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/020_image.png",
+      "mask": "data/raw/cwfid/masks/020_mask.png",
+      "image_sha256": "f38fd3433d0e07b8a5dfac535ddcf6c0293a91984ab6e72871dbb2b7ba06c02b",
+      "mask_sha256": "d998702caaeb561ce8f60137750551ceaf65bff80eda3aa71a431a0bfe96ed40"
+    },
+    {
+      "id": "023",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/023_image.png",
+      "mask": "data/raw/cwfid/masks/023_mask.png",
+      "image_sha256": "5a5a10801905b0832ce4b4bbd2fe0a19d93eb87ec4f03555bc4b8d8b8cc63fad",
+      "mask_sha256": "8a1baea620ccdf4ef46a57d607ae5b38da99d080d5d0803f94afe9f97e122ae1"
+    },
+    {
+      "id": "024",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/024_image.png",
+      "mask": "data/raw/cwfid/masks/024_mask.png",
+      "image_sha256": "6254358545cd1a145fdaf5467af5d59145dfcc55662cea2ce19c6b65d94d6f59",
+      "mask_sha256": "44c2f46fe131f9fbbe2663fd110d09acc604515ab5be1810c1353d5141db915c"
+    },
+    {
+      "id": "025",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/025_image.png",
+      "mask": "data/raw/cwfid/masks/025_mask.png",
+      "image_sha256": "46c3f29dbcf050e6db603d0cbff8faa3c28e21a2d3990463538582c3b8d7a32c",
+      "mask_sha256": "92dd98788dcd5e187314062be1b8f143a2c7a324306bf139a9fa6cdc71d5db75"
+    },
+    {
+      "id": "027",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/027_image.png",
+      "mask": "data/raw/cwfid/masks/027_mask.png",
+      "image_sha256": "bfa602c2012fdfad3a59474ffb22f8c46910a55a624fa4b8c0553960bb93364b",
+      "mask_sha256": "552ae573645cdd5c9e80ac29a7941fbbb4b389e9e076423b5701404fbad13f17"
+    },
+    {
+      "id": "031",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/031_image.png",
+      "mask": "data/raw/cwfid/masks/031_mask.png",
+      "image_sha256": "47e00d6e0e132e56bafb5d0a8f8b3e978d16af162bac27754c92a456673f7a32",
+      "mask_sha256": "dd5d74654cf3efbbe956a5994b46f53ed84f4ce02cadc344540a4e69503f8847"
+    },
+    {
+      "id": "033",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/033_image.png",
+      "mask": "data/raw/cwfid/masks/033_mask.png",
+      "image_sha256": "715995db4cf0a26b7ca9e0020809ec4628e59d32ede6b7e9e491c64a6b23ea97",
+      "mask_sha256": "4bb9d6958071cf2af06f227a826cf88403f867d504ae5f9480235bffa787bd7f"
+    },
+    {
+      "id": "034",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/034_image.png",
+      "mask": "data/raw/cwfid/masks/034_mask.png",
+      "image_sha256": "3a74b45b32389f54897f6d73730133734842b2175fc909f451f3034bcc824273",
+      "mask_sha256": "f538bc77e7e8c1806d9d500fce6630c38b45ce59489a1ba358bb13c504e74de6"
+    },
+    {
+      "id": "036",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/036_image.png",
+      "mask": "data/raw/cwfid/masks/036_mask.png",
+      "image_sha256": "ce698d3a849403b11ed0359e7142c4def0a3d42fed56b19e1ee96a5e0f8d57c4",
+      "mask_sha256": "728e20998efce62b5c98c75b9ccb777e9c31bf84c0fab626038e368c17c60996"
+    },
+    {
+      "id": "037",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/037_image.png",
+      "mask": "data/raw/cwfid/masks/037_mask.png",
+      "image_sha256": "7324deea745cdaf74f28efa87468fc583158b760826b5e4884e6cd0b58fff456",
+      "mask_sha256": "c4135c1fdff6a3715f3b0e1c81cf6ee6acc6644abe02b9fc547a1fb1511ae2af"
+    },
+    {
+      "id": "038",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/038_image.png",
+      "mask": "data/raw/cwfid/masks/038_mask.png",
+      "image_sha256": "39e869468d3a2b3ac2381ec7229706c72b226e5a4beb02b1b0b06d5e360db99a",
+      "mask_sha256": "35bd778ca6bba109c89e109a523f4de14a658fabff3bde3f2c368f246c62be5a"
+    },
+    {
+      "id": "041",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/041_image.png",
+      "mask": "data/raw/cwfid/masks/041_mask.png",
+      "image_sha256": "05eb4e9e2a9e1e37ed53bdf0331ca96de750802cc37f9cd8a1c786fd88044fb0",
+      "mask_sha256": "2b49648b6ec6e1186bedd56ffc8dc72f535fc16e07873b9d2685202bc5654a15"
+    },
+    {
+      "id": "042",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/042_image.png",
+      "mask": "data/raw/cwfid/masks/042_mask.png",
+      "image_sha256": "666645814ff1b549de0893e0981b37bc56631b6a9fa3479a666d7c8822f936f0",
+      "mask_sha256": "c4de44d3358e15a39f143200b5c83b5eb3a1e72f762219bff7f6c95d3d4ff85d"
+    },
+    {
+      "id": "043",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/043_image.png",
+      "mask": "data/raw/cwfid/masks/043_mask.png",
+      "image_sha256": "6282240c74215382e99b58b5116e6ae001b62b42b1521aa3b8eac70f7ee29789",
+      "mask_sha256": "f5dc4106fb7c72d749ade1c1d94c2519c534de287a83d1eec1b4f19e58d02324"
+    },
+    {
+      "id": "045",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/045_image.png",
+      "mask": "data/raw/cwfid/masks/045_mask.png",
+      "image_sha256": "2910766efa8b880b115eb5561603e1fdfdfef0e7fe695cef7aa5a2a8c769884c",
+      "mask_sha256": "290f7132ed5ee32c8970c09eb74ad4396d57a4eadc23828ed9bb8c4f8c94e0ea"
+    },
+    {
+      "id": "049",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/049_image.png",
+      "mask": "data/raw/cwfid/masks/049_mask.png",
+      "image_sha256": "5e1abed947b774f51519660cd2ca49937ad3fec1c1773bf5fd87cbbb5e424075",
+      "mask_sha256": "8c3293ca48826c022fa3dfa02922a4c8b8af0c5f74c8b330f507d963cd61bc5e"
+    },
+    {
+      "id": "051",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/051_image.png",
+      "mask": "data/raw/cwfid/masks/051_mask.png",
+      "image_sha256": "ed54e410c0ee7f06976a5f625340a6a7c627fd9caea2595677d98235fbd93670",
+      "mask_sha256": "717be5ecf996d1558cded0903af3ce4a91818b497f88fbb885e7bad019724e4a"
+    },
+    {
+      "id": "052",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/052_image.png",
+      "mask": "data/raw/cwfid/masks/052_mask.png",
+      "image_sha256": "b83ec6edb0dc0976722d6bdfc4e1d98431a2fd75f81a481fd7e35f4db499cbdf",
+      "mask_sha256": "aff0221e61ff9b25318ae93bbd7c6ec85de4c5d520ba259973c5c9f3fc1a7fb2"
+    },
+    {
+      "id": "055",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/055_image.png",
+      "mask": "data/raw/cwfid/masks/055_mask.png",
+      "image_sha256": "0421c84bdc96ecc64c05df38dd3c58f82586b271c3e43c7bbacb95948fa38b57",
+      "mask_sha256": "8a121030a0ca1e4608ec66a1b398838a0896439dbbe14ef28aba6ba328cb085c"
+    },
+    {
+      "id": "057",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/057_image.png",
+      "mask": "data/raw/cwfid/masks/057_mask.png",
+      "image_sha256": "ad634c9fad966fdc31f16ce0efd82546bd23b1ccdfab8a28c85485b285511254",
+      "mask_sha256": "2b0f286d067f842b6077e3ab8f7bdafdf58097c3a7c9af4b49fbbcf50b24de67"
+    },
+    {
+      "id": "058",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/058_image.png",
+      "mask": "data/raw/cwfid/masks/058_mask.png",
+      "image_sha256": "625948a51c869515fa8cf9f9028dbd31ca98477b0654655bb4fdca55fc021b1e",
+      "mask_sha256": "bc65d2efb8291e702e3efd7d728ada21dba6d5793b75edfbbc8d3e8662e0d0bd"
+    },
+    {
+      "id": "059",
+      "split": "train",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/059_image.png",
+      "mask": "data/raw/cwfid/masks/059_mask.png",
+      "image_sha256": "c81cef012ce8f1b5faacf07b418afc74af79bfd7e99ba7ab5c045b7812c6b077",
+      "mask_sha256": "35ffcb165537f680a0251f5cfce2b8e32507593491fd091e8f823f3c8f042e8c"
+    },
+    {
+      "id": "007",
+      "split": "val",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/007_image.png",
+      "mask": "data/raw/cwfid/masks/007_mask.png",
+      "image_sha256": "48d27074e1959c1fdf08ffd96389141f112e694926edbf25cc0a8e1ea0420569",
+      "mask_sha256": "346824f097180d43ae5941e3fc1fc11bf0ecf137dae6c7b726d5795c81556663"
+    },
+    {
+      "id": "018",
+      "split": "val",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/018_image.png",
+      "mask": "data/raw/cwfid/masks/018_mask.png",
+      "image_sha256": "5fc290963ea1ebf25a5386b9f1150309a59d5b426d17fe4022b498b3ea1fbe3d",
+      "mask_sha256": "7c1ebed4b9931ba04ed0bf379988e58149c3550b2b56b58590a0e26d059ac073"
+    },
+    {
+      "id": "019",
+      "split": "val",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/019_image.png",
+      "mask": "data/raw/cwfid/masks/019_mask.png",
+      "image_sha256": "5dab87a8b9caef5fea5303048c71c5d26a05fc576349acdcec35c47b5eb3a388",
+      "mask_sha256": "658f0b0b38565538bfa11da614cfa607c90ebad84703321d15c7b1983b4fe150"
+    },
+    {
+      "id": "040",
+      "split": "val",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/040_image.png",
+      "mask": "data/raw/cwfid/masks/040_mask.png",
+      "image_sha256": "82c5a85846a33a8349acb7169651c58ab9a28cf2065e9f49d407764e61e5c9bc",
+      "mask_sha256": "26aee9be974be3f57d97a93dd78d2e0fa6770679cebc1b46865cbd571de45d1c"
+    },
+    {
+      "id": "046",
+      "split": "val",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/046_image.png",
+      "mask": "data/raw/cwfid/masks/046_mask.png",
+      "image_sha256": "ab479362110fe73502874e95605a232dbdd0cc2945a2090ef185fdc1a2e7173b",
+      "mask_sha256": "efe0975d430801228883b5263f805faf3f8e34fae60db79db77696e841600fa2"
+    },
+    {
+      "id": "050",
+      "split": "val",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/050_image.png",
+      "mask": "data/raw/cwfid/masks/050_mask.png",
+      "image_sha256": "91d668900281b7540b41deef363560233a0c040b79c37df5e592656ad7df022c",
+      "mask_sha256": "0c41ab9efcdfe69247e1f97e6d1ae1adc60573992ec0da7edaa50bbd74474167"
+    },
+    {
+      "id": "053",
+      "split": "val",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/053_image.png",
+      "mask": "data/raw/cwfid/masks/053_mask.png",
+      "image_sha256": "30415febd8b9714e6dfce2a3237aee045631d1e318206dc592e231b38a0d9ec4",
+      "mask_sha256": "d72b9767bacde7efdc5a2cb854b276d962ef6e1365e44eb885107103d71261f9"
+    },
+    {
+      "id": "056",
+      "split": "val",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/056_image.png",
+      "mask": "data/raw/cwfid/masks/056_mask.png",
+      "image_sha256": "1ba8d90c1e490c58d4e2c6e5c678667476f8e69923eea4abc2b2cbf5af5fe25a",
+      "mask_sha256": "8e13d25ba39269065711a81023d7f542b07bfc88effbb5e4e611d3df05fa3192"
+    },
+    {
+      "id": "001",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/001_image.png",
+      "mask": "data/raw/cwfid/masks/001_mask.png",
+      "image_sha256": "75b13f084cee31f2554c1f488491f359b55a7af5d2b8250ac7f008639b21297f",
+      "mask_sha256": "d0f7770a6778dc865ed3f1086bbf2d79afda0d7d1606ca101280ecb5ab285d36"
+    },
+    {
+      "id": "003",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/003_image.png",
+      "mask": "data/raw/cwfid/masks/003_mask.png",
+      "image_sha256": "74a8a704ed817109f1ddec06d64215656595ada63e894bbad574c1a589a889eb",
+      "mask_sha256": "7f4c0fbef0c8b6147a1984bddf72024231ab7a7b7d35de1360d5225ded04cd3b"
+    },
+    {
+      "id": "004",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/004_image.png",
+      "mask": "data/raw/cwfid/masks/004_mask.png",
+      "image_sha256": "d708ac97e271fbcc42fdc3473391b64b446297022ea0dff1412bdc7f1090559b",
+      "mask_sha256": "d39fec9fd01e6ea9622955e8123f4f561429888bad1ccea4751e96eaecd316eb"
+    },
+    {
+      "id": "009",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/009_image.png",
+      "mask": "data/raw/cwfid/masks/009_mask.png",
+      "image_sha256": "8a89e93d754c6a08c1d0ccd55e139deb1198f4a6213399b97abcc0f7c2c2f6d4",
+      "mask_sha256": "03ac56c280d3e6301207712e7b1430f04155b1b446e807320205b27eef9a9cd7"
+    },
+    {
+      "id": "010",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/010_image.png",
+      "mask": "data/raw/cwfid/masks/010_mask.png",
+      "image_sha256": "05126439aeff5a20680b2c827c5afb7bce71e1f1313fe13f7a02a5a7c4af1915",
+      "mask_sha256": "2e4e0573f94b4e2013ad1755df8c44d5ea7b95451a4af40a0a4609c35e07bfd7"
+    },
+    {
+      "id": "013",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/013_image.png",
+      "mask": "data/raw/cwfid/masks/013_mask.png",
+      "image_sha256": "4a0888e091f595d41f64ed42e7010b977c5050589d167696757411e253e13e20",
+      "mask_sha256": "79a0407d8c983b6cfc5d5f7bb1a8eb4c6e6c65a79ee60e4233002a75d7fb7b02"
+    },
+    {
+      "id": "015",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/015_image.png",
+      "mask": "data/raw/cwfid/masks/015_mask.png",
+      "image_sha256": "202c7f8cd9c3f4e7b120b824c093ce23850a1f4646fc47d63675bc73b37c8e56",
+      "mask_sha256": "9b6f137a48e73c055188d883b7e2fe9344b2f3d2bba75a5f0c55b9d76476b58b"
+    },
+    {
+      "id": "021",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/021_image.png",
+      "mask": "data/raw/cwfid/masks/021_mask.png",
+      "image_sha256": "0a54ac7ebe69583cb1f466763d15a105346079a1dd4d1b0e17b2149cfb37c5b2",
+      "mask_sha256": "4c67c26823074a3152ccaa9a83ab205f6f7b6fcc7a205512c3afe9c455473078"
+    },
+    {
+      "id": "022",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/022_image.png",
+      "mask": "data/raw/cwfid/masks/022_mask.png",
+      "image_sha256": "0a907dc475d21c27b909f46b0c80f28aa64cdee0e1ffc4e03ef47905c98dcc25",
+      "mask_sha256": "daa0c5cff6e28a9611bd35a6543749aed1cd421daf24016832801308c6b2ab5a"
+    },
+    {
+      "id": "026",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/026_image.png",
+      "mask": "data/raw/cwfid/masks/026_mask.png",
+      "image_sha256": "66172266843600f3eb8ac3773aa0ad1f74b3a3aee487aff45495d180637e3cdd",
+      "mask_sha256": "f84b0f3484754730fb1530161b46fc180ad5e995a61b3783fd5870fac52b1c6e"
+    },
+    {
+      "id": "028",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/028_image.png",
+      "mask": "data/raw/cwfid/masks/028_mask.png",
+      "image_sha256": "dbc7399c50b1e7b301edb8bba41e3146b03d926056e49a35a195f55af67e0896",
+      "mask_sha256": "3f54ee6c5d9cf3518d7872637d716ebc461c9f4d014465e9258a7a4f6261585c"
+    },
+    {
+      "id": "029",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/029_image.png",
+      "mask": "data/raw/cwfid/masks/029_mask.png",
+      "image_sha256": "e76469d7a15f472f78c30948dec4a3df66038884b73127c2c1e8d46a82f66557",
+      "mask_sha256": "04cabeb00f8e24cad570457db23d96d3ae1d3446d4d65a53ed6e4d6f78bb0d28"
+    },
+    {
+      "id": "030",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/030_image.png",
+      "mask": "data/raw/cwfid/masks/030_mask.png",
+      "image_sha256": "61b910bebb9dac03c8c446f1da8debf085ad6c2bd53ce4184ee7dfa85007cf05",
+      "mask_sha256": "c28ef78678b3a348a134c753adc36a3d9df27b396883632403bfcb75bbbc7d94"
+    },
+    {
+      "id": "032",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/032_image.png",
+      "mask": "data/raw/cwfid/masks/032_mask.png",
+      "image_sha256": "ccc9c0cfe9325eda20f27875465dd1dc4b5c8865dd9d77ef9e2fac672f1de089",
+      "mask_sha256": "5aa80106be43e6e1f9f79c3479175441201a12b322ecb00fd7842f193410e8f3"
+    },
+    {
+      "id": "035",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/035_image.png",
+      "mask": "data/raw/cwfid/masks/035_mask.png",
+      "image_sha256": "c48a016cf6cee6612748fbaa4a49cb54d578115492c7bd771552e46531d0859b",
+      "mask_sha256": "188ac0f54e1154cfe15d522d1bb8e452aa43bd7bad17f6ade1bf0116be26008a"
+    },
+    {
+      "id": "039",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/039_image.png",
+      "mask": "data/raw/cwfid/masks/039_mask.png",
+      "image_sha256": "2ffbb6247ae5c7d0acd7fc615c264f4e682df93e49bbb804e6b1642d19e345df",
+      "mask_sha256": "11f7ea08c562c9ea5f4cc0320ea2dee4f6da0c966360cc78ed9c5ae94bb3e3a8"
+    },
+    {
+      "id": "044",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/044_image.png",
+      "mask": "data/raw/cwfid/masks/044_mask.png",
+      "image_sha256": "dfab4a755d675c17567d9a74ac6d5023bc64aab7f13b0bf2749c5a11c011e2b9",
+      "mask_sha256": "c7a0f6f70a9554e2ae2d4b3abc5f32b3b567024bba7939cc172115b4ff4379c5"
+    },
+    {
+      "id": "047",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/047_image.png",
+      "mask": "data/raw/cwfid/masks/047_mask.png",
+      "image_sha256": "64d48da40edc4ff44988e2cf1abc5a466f36d278bb07c0b91cfd07889b6fb71c",
+      "mask_sha256": "655573ed6b3f9c8e49f04607115107ddf41352ad787064237cb3b19a5883af26"
+    },
+    {
+      "id": "048",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/048_image.png",
+      "mask": "data/raw/cwfid/masks/048_mask.png",
+      "image_sha256": "8ad88e23c85d5e582c267b14f4b8209460fc95ca42a7b7b49dadd76dab51f434",
+      "mask_sha256": "5521cf814781974d7b8c7d36995c91183c2eff96201b9e4b63f4cc0fe7baa7a7"
+    },
+    {
+      "id": "054",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/054_image.png",
+      "mask": "data/raw/cwfid/masks/054_mask.png",
+      "image_sha256": "15da86568933da2478b6c822a859c3078a14c3d2a70ea8fd89ed6aba7839099d",
+      "mask_sha256": "9335a7245cc1d693a24054347fc96ab96330f6b4560ce0814c9c216b22160b8d"
+    },
+    {
+      "id": "060",
+      "split": "test",
+      "foreground": "black",
+      "image": "data/raw/cwfid/images/060_image.png",
+      "mask": "data/raw/cwfid/masks/060_mask.png",
+      "image_sha256": "f76a60e49c91c763fa65f1cd511ed50f19053483a4f7724b314cd2851dd9e791",
+      "mask_sha256": "e64eef5aaef322bd8532023dde6dfed691e3866efcac0c82f4bd8b19229c34ab"
+    }
+  ]
+}

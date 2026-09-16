@@ -1,0 +1,15 @@
+{
+  "manifest": "data/manifests/clinicdb.json",
+  "output": "runs/clinicdb_reference_seed42",
+  "seed": 42,
+  "epochs": 200,
+  "size": 352,
+  "batch_size": 16,
+  "lr": 0.0001,
+  "weight_decay": 0.0001,
+  "clip": 0.5,
+  "scales": [0.75, 1.0, 1.25],
+  "augment": false,
+  "scheduler": "none",
+  "amp": true
+}

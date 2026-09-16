@@ -1,0 +1,28 @@
+{
+  "config": {
+    "manifest": "data/manifests/cwfid.json",
+    "output": "runs/cwfid_domain_seed42",
+    "seed": 42,
+    "epochs": 200,
+    "size": 352,
+    "batch_size": 8,
+    "lr": 0.0001,
+    "weight_decay": 0.0001,
+    "clip": 0.5,
+    "scales": [
+      0.75,
+      1.0,
+      1.25
+    ],
+    "augment": false,
+    "scheduler": "none",
+    "amp": false
+  },
+  "manifest_sha256": "937555ecc441464d6f4994d121e18d42f1d82dce6d04b015e04d029854e9512e",
+  "python": "3.13.5",
+  "torch": "2.11.0+cu128",
+  "device": "NVIDIA GeForce RTX 5070 Laptop GPU",
+  "upstream_commit": "2fa8b230a057602539af7655203ad434bf56a5b6",
+  "model_sha256": "b9ba5ade1b116aef3a40ca35d756dcc15de9336c743a2022f90475bd4dec7031",
+  "parameters": 315566
+}

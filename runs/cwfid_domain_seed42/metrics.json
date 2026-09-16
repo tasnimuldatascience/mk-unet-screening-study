@@ -1,0 +1,31 @@
+{
+  "status": "completed",
+  "best_epoch": 128,
+  "best_val_dice": 0.8930041631669413,
+  "epochs": 200,
+  "elapsed_seconds": 409.93815369999993,
+  "test": {
+    "normalized": {
+      "n": 21,
+      "dice": 0.8798404667458994,
+      "iou": 0.7858559258990477,
+      "dice_bootstrap95": [
+        0.87264782598032,
+        0.8866164250361014
+      ],
+      "uncertainty_unit": "image; correlated frames may make CI optimistic"
+    },
+    "fixed_threshold": {
+      "n": 21,
+      "dice": 0.8798404667458994,
+      "iou": 0.7858559258990477,
+      "dice_bootstrap95": [
+        0.87264782598032,
+        0.8866164250361014
+      ],
+      "uncertainty_unit": "image; correlated frames may make CI optimistic"
+    }
+  },
+  "checkpoint_sha256": "d14c0540b114204bc2e4c173b24995e7d84a7a486abc55fd8cf2551ae48af7f9",
+  "manifest_sha256": "937555ecc441464d6f4994d121e18d42f1d82dce6d04b015e04d029854e9512e"
+}

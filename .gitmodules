@@ -1,0 +1,4 @@
+[submodule "vendor/MK-UNet"]
+	path = vendor/MK-UNet
+	url = https://github.com/SLDGroup/MK-UNet.git
+	ignore = untracked

@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+data/raw/
+data/downloads/
+runs/**/best.pt
+runs/**/last.pt
+runs/**/last.tmp
+runs/**/test/predictions/
+tmp/
+*.pyc
+output/example_prediction/
+output/*.txt
+Student_Screening_Guidelines.pdf
+PAUSED.md
+sources/mkunet_paper.txt
+sources/clinicdb_training.log

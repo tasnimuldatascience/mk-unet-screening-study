@@ -1,0 +1,7 @@
+{
+  "url": "https://www.kaggle.com/api/v1/datasets/download/balraj98/cvcclinicdb",
+  "archive_sha256": "c76eafae71960364b647442d3d620b9312d201059a712d257fa55e652ac45386",
+  "overlap_pixel_identical": 454,
+  "restored_files": 770,
+  "split_source": "Official MK-UNet Drive index; filenames and split membership preserved"
+}

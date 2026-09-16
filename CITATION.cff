@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, cite it and the original papers listed in README.md."
+title: "Reproducible MK-UNet Screening Study"
+type: software
+authors:
+  - family-names: "Hasan"
+    given-names: "Tasnimul"
+repository-code: "https://github.com/tasnimuldatascience/mk-unet-screening-study"
+license: MIT
+date-released: 2026-09-16
+version: 1.0.0

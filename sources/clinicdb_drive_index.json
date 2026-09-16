@@ -1,0 +1,4910 @@
+[
+  {
+    "id": "1bEuvbk2vx7b6yVqmyF6OVTdr8VhXFpc_",
+    "path": "data/raw/clinicdb/test/images/117.png"
+  },
+  {
+    "id": "1d0SIxvEZ8GwS7ZO_Ar5IIgH7meZIL9-Z",
+    "path": "data/raw/clinicdb/test/images/125.png"
+  },
+  {
+    "id": "1YeEA4-h9T59jtDyb7yVavMx82pcyoFat",
+    "path": "data/raw/clinicdb/test/images/128.png"
+  },
+  {
+    "id": "17cpEzPFHK7fj62HVPbElWPiDic9VIRT_",
+    "path": "data/raw/clinicdb/test/images/129.png"
+  },
+  {
+    "id": "1cHw7r_6ee5DQS8nuT1EfBuDZhYhf1Yni",
+    "path": "data/raw/clinicdb/test/images/139.png"
+  },
+  {
+    "id": "1s9FkzzQ7QjM8_2Dj_wGVF9NaNDavK34o",
+    "path": "data/raw/clinicdb/test/images/156.png"
+  },
+  {
+    "id": "19XJBtOY3GZ5loxGH2mhBeGF8bjUDZESL",
+    "path": "data/raw/clinicdb/test/images/159.png"
+  },
+  {
+    "id": "1Kjmpf_QbQdxF3F77c-t8e1T3qcmY6RC4",
+    "path": "data/raw/clinicdb/test/images/167.png"
+  },
+  {
+    "id": "1S9WTzT3YhxfNDRGOLCYMoNjJ18yzoySP",
+    "path": "data/raw/clinicdb/test/images/169.png"
+  },
+  {
+    "id": "1iZFPJjL-4kw6dqArikayKpAMoO6aCS_e",
+    "path": "data/raw/clinicdb/test/images/171.png"
+  },
+  {
+    "id": "1sAaLwt2aBfIoOsd4MWd09Gj6-2XBqCmb",
+    "path": "data/raw/clinicdb/test/images/182.png"
+  },
+  {
+    "id": "1cWjE2kQXSSpXmEInh6Gj5aZk7LWUPgAY",
+    "path": "data/raw/clinicdb/test/images/193.png"
+  },
+  {
+    "id": "1JFQV-wOrG3tDe4VkDzb8cMqRksr1fW-4",
+    "path": "data/raw/clinicdb/test/images/199.png"
+  },
+  {
+    "id": "1kvMWWsh3xafXF69azVzKjEIk7ky2wXvs",
+    "path": "data/raw/clinicdb/test/images/212.png"
+  },
+  {
+    "id": "15q756c34UJHbrrw5dGgKBmyNuAuMf3sZ",
+    "path": "data/raw/clinicdb/test/images/220.png"
+  },
+  {
+    "id": "1oIvDTZSvvkDOkmrTRv52pl2bqans3f3q",
+    "path": "data/raw/clinicdb/test/images/222.png"
+  },
+  {
+    "id": "1JIm5U9wbc9rV6QvXvUKLwIQiQc51NiDr",
+    "path": "data/raw/clinicdb/test/images/223.png"
+  },
+  {
+    "id": "1p9-lfSy3OLLndjQ_4TbyHT477f3_OJfw",
+    "path": "data/raw/clinicdb/test/images/225.png"
+  },
+  {
+    "id": "1hRNIM10B0IOcH5SvqoKVBFpJ7e_fjn1P",
+    "path": "data/raw/clinicdb/test/images/232.png"
+  },
+  {
+    "id": "1VgIBLHHlWsyb-JzbIn1xl_syNg64J_8J",
+    "path": "data/raw/clinicdb/test/images/248.png"
+  },
+  {
+    "id": "1m30kHwTHzSnGjpHBG1inSLueTt18xZI-",
+    "path": "data/raw/clinicdb/test/images/263.png"
+  },
+  {
+    "id": "18BHvtxwhj8wJbXWZLZyYD7xXd8HOkMI5",
+    "path": "data/raw/clinicdb/test/images/27.png"
+  },
+  {
+    "id": "12G0xKJEYOZDmyXim68sR2SpukdBDGAWi",
+    "path": "data/raw/clinicdb/test/images/287.png"
+  },
+  {
+    "id": "1fjwce22FQIjWkm-sDLArGSm9ZM3zqyI2",
+    "path": "data/raw/clinicdb/test/images/29.png"
+  },
+  {
+    "id": "1uhisx1I36FzNUo6gwS2Ab3mCPMUkwsgh",
+    "path": "data/raw/clinicdb/test/images/317.png"
+  },
+  {
+    "id": "1fhkZ0F7ba7VHWuPJ3ECjaiBbyB7DVVSL",
+    "path": "data/raw/clinicdb/test/images/321.png"
+  },
+  {
+    "id": "1xwA4e0Li6ddVWRwQ4Lja2wacUI-qHNG6",
+    "path": "data/raw/clinicdb/test/images/327.png"
+  },
+  {
+    "id": "1MbC1pNYvgWGmO9y1SFoJthKd1ldZdcCj",
+    "path": "data/raw/clinicdb/test/images/328.png"
+  },
+  {
+    "id": "1Lpa49tEyg4scJ9yKZhOjkHtKtcrkFCjN",
+    "path": "data/raw/clinicdb/test/images/340.png"
+  },
+  {
+    "id": "1i-bU5NKIWBmtIlXwdisAE-zA8aY_S_pj",
+    "path": "data/raw/clinicdb/test/images/352.png"
+  },
+  {
+    "id": "1YGgcGsi6P4EAY3kWmadazsMoxELgd3_S",
+    "path": "data/raw/clinicdb/test/images/359.png"
+  },
+  {
+    "id": "1XgGVTTiCkrJeUkdfA_OFZ-0v_hjten19",
+    "path": "data/raw/clinicdb/test/images/360.png"
+  },
+  {
+    "id": "1QEHi_zAGYR0AVwX_tP0T6uaLhJr4GXh_",
+    "path": "data/raw/clinicdb/test/images/363.png"
+  },
+  {
+    "id": "1SBsoiwK5rnl2bzoxwiO_gK2zL7NDDIOn",
+    "path": "data/raw/clinicdb/test/images/378.png"
+  },
+  {
+    "id": "13hXQ2QTkxHHdBmsFOgHXtXjhULOBCHNt",
+    "path": "data/raw/clinicdb/test/images/390.png"
+  },
+  {
+    "id": "1Bt5vYxM8jAfoOac9qd7QTvaVunv-fu-0",
+    "path": "data/raw/clinicdb/test/images/394.png"
+  },
+  {
+    "id": "1a8kx7YH9q-GZaX3n0gTf9sIl_2IN6HIl",
+    "path": "data/raw/clinicdb/test/images/40.png"
+  },
+  {
+    "id": "1MVZF1KOopbe5zDXqs-OQUAxf4JGNxVYE",
+    "path": "data/raw/clinicdb/test/images/416.png"
+  },
+  {
+    "id": "15DOK6rfw-hWiMXtWIWrFV3hpRiWx8lR6",
+    "path": "data/raw/clinicdb/test/images/425.png"
+  },
+  {
+    "id": "1F_kQIPE_WUSB4U2-d7NlPnxe7iPKkBQI",
+    "path": "data/raw/clinicdb/test/images/440.png"
+  },
+  {
+    "id": "1NZk9IKP52x8Qfndl_kzZ8w4bfRUMtlia",
+    "path": "data/raw/clinicdb/test/images/441.png"
+  },
+  {
+    "id": "17Mhgx3siYxu_s7ITqYY3urHeuhFwEy9G",
+    "path": "data/raw/clinicdb/test/images/451.png"
+  },
+  {
+    "id": "1A4ENSXz38sf1iJy99QL81pos01FngKeM",
+    "path": "data/raw/clinicdb/test/images/468.png"
+  },
+  {
+    "id": "18f8O3OUZpUX-dahlBLIJljJqNkxmvwkd",
+    "path": "data/raw/clinicdb/test/images/487.png"
+  },
+  {
+    "id": "1MMRTnrfaRjBoaL8fvLsF9snw_PVPwd_Y",
+    "path": "data/raw/clinicdb/test/images/488.png"
+  },
+  {
+    "id": "1aF8u2tBprYmPFB11tMFu56lgGmxrI2r3",
+    "path": "data/raw/clinicdb/test/images/494.png"
+  },
+  {
+    "id": "1tdwgSofCHxbp2_cztXsAavvLFVWCaS8l",
+    "path": "data/raw/clinicdb/test/images/5.png"
+  },
+  {
+    "id": "18ORS6nCIWBhRpzOAj2GM4ne-dIE0N_q-",
+    "path": "data/raw/clinicdb/test/images/505.png"
+  },
+  {
+    "id": "181AxeP3Oja6ih5Ql14IX1HQnZT3qjvad",
+    "path": "data/raw/clinicdb/test/images/513.png"
+  },
+  {
+    "id": "16VQ7Y-4P2uVH4DlorGhmWl6I28waVxyB",
+    "path": "data/raw/clinicdb/test/images/528.png"
+  },
+  {
+    "id": "11YzsTG-fSBlV21bEWnLFSCC89AfnsUru",
+    "path": "data/raw/clinicdb/test/images/539.png"
+  },
+  {
+    "id": "1-xaXbrhA9P7ZYhDYpjUyYmhvRSUtAttu",
+    "path": "data/raw/clinicdb/test/images/572.png"
+  },
+  {
+    "id": "1i80e2fWVr4ou65K_LhWpvnoSLM8SxUmh",
+    "path": "data/raw/clinicdb/test/images/575.png"
+  },
+  {
+    "id": "1bPCpqJa1LANIrfTrpsBdsNbPdd1HBHBI",
+    "path": "data/raw/clinicdb/test/images/59.png"
+  },
+  {
+    "id": "1MA-UXEtOVnJQ-DyvAJQyxbJ2vsBwZTSM",
+    "path": "data/raw/clinicdb/test/images/590.png"
+  },
+  {
+    "id": "18h8nTGall9jfyxylW0fI9bUFmS8q4M77",
+    "path": "data/raw/clinicdb/test/images/591.png"
+  },
+  {
+    "id": "1Qq_n_HHntkvln1uFptyt5FVG37KZoDbg",
+    "path": "data/raw/clinicdb/test/images/593.png"
+  },
+  {
+    "id": "1uLBaEBMxhkUBFw32gaGvjuyuzcaAGCFy",
+    "path": "data/raw/clinicdb/test/images/594.png"
+  },
+  {
+    "id": "17My6LTScDTFwiY6Zv7Y0NIzHrbifctTQ",
+    "path": "data/raw/clinicdb/test/images/608.png"
+  },
+  {
+    "id": "1YseEo1uEtVoTUKI-m8mRSd59ZjixBf4T",
+    "path": "data/raw/clinicdb/test/images/64.png"
+  },
+  {
+    "id": "1Lch9pkld6rfS4ISt83ihirfic4z5opBB",
+    "path": "data/raw/clinicdb/test/images/8.png"
+  },
+  {
+    "id": "1SKhhnHJs5HrI4F444vFN8RIXnDD3jfLZ",
+    "path": "data/raw/clinicdb/test/images/89.png"
+  },
+  {
+    "id": "1cV-4OBTqvATk7LdlhATHEuOFDLK-edgL",
+    "path": "data/raw/clinicdb/test/masks/117.png"
+  },
+  {
+    "id": "1J9YAZupwnPZLhI69cOnOEYULt3wmYrBG",
+    "path": "data/raw/clinicdb/test/masks/125.png"
+  },
+  {
+    "id": "1TnGjrfgD2Jy1JH7UJ3ALDwFS8oULjFKi",
+    "path": "data/raw/clinicdb/test/masks/128.png"
+  },
+  {
+    "id": "17IC5z9YVOOIaNKvFqAkR8EpXmEkrbsP7",
+    "path": "data/raw/clinicdb/test/masks/129.png"
+  },
+  {
+    "id": "1jdXstF_DnZ1kpQL2b5453ggjaY58oV3K",
+    "path": "data/raw/clinicdb/test/masks/139.png"
+  },
+  {
+    "id": "12PDwhFPPYhLvVYxrd5d_pm34rqPWkEym",
+    "path": "data/raw/clinicdb/test/masks/156.png"
+  },
+  {
+    "id": "1L7VfTsZGsGSMcySxPBatKK3y5V9xoKE7",
+    "path": "data/raw/clinicdb/test/masks/159.png"
+  },
+  {
+    "id": "1h7V2xYXh2UwQPuOb1oKrasMBvXxGBoVl",
+    "path": "data/raw/clinicdb/test/masks/167.png"
+  },
+  {
+    "id": "1N8gqrIyCLjgn4KEa5hcluPj9Ia0d80bS",
+    "path": "data/raw/clinicdb/test/masks/169.png"
+  },
+  {
+    "id": "1YSZYBt8SaDS00Wlk866svmaMlxYv3s28",
+    "path": "data/raw/clinicdb/test/masks/171.png"
+  },
+  {
+    "id": "1PPCxlaOai9FaOVIji73AePSCel-Liiqy",
+    "path": "data/raw/clinicdb/test/masks/182.png"
+  },
+  {
+    "id": "1Bm78jX4cig5gpBaK6r-T99mP0bFcFm8Y",
+    "path": "data/raw/clinicdb/test/masks/193.png"
+  },
+  {
+    "id": "1T9q4oFVNKBobeA1kEky0Fvvwy6nAbJYC",
+    "path": "data/raw/clinicdb/test/masks/199.png"
+  },
+  {
+    "id": "1GK_E9vmZ1I35dMqB4AGtFNJL0fa8Uux6",
+    "path": "data/raw/clinicdb/test/masks/212.png"
+  },
+  {
+    "id": "1lQ3H39tRUjMu9e105Rom7QiuVlUwqClw",
+    "path": "data/raw/clinicdb/test/masks/220.png"
+  },
+  {
+    "id": "12Yz3elBkK3Yv3joe0VWhXJP9sx6mAzw9",
+    "path": "data/raw/clinicdb/test/masks/222.png"
+  },
+  {
+    "id": "1oIseHcv7jStUpOKQj1bicNqCOBj7Rvbq",
+    "path": "data/raw/clinicdb/test/masks/223.png"
+  },
+  {
+    "id": "1mEjkheUOSZxuzlz5bOW2FfHdxSOo3Z7G",
+    "path": "data/raw/clinicdb/test/masks/225.png"
+  },
+  {
+    "id": "1uuOxPedlEQ-P_FktONI1P2WxFj7PF7-L",
+    "path": "data/raw/clinicdb/test/masks/232.png"
+  },
+  {
+    "id": "10peUNvBTtsCZOCCvoD3NDAc-mAZtha1N",
+    "path": "data/raw/clinicdb/test/masks/248.png"
+  },
+  {
+    "id": "16ZnzBr20eLUyzPm19sT24LElspqBk9YW",
+    "path": "data/raw/clinicdb/test/masks/263.png"
+  },
+  {
+    "id": "1ly2ZwxHlPjv5i7HmLMoWeEyVxVgHOORH",
+    "path": "data/raw/clinicdb/test/masks/27.png"
+  },
+  {
+    "id": "1RbE59PvOH2QrHBLDvVsGB8KNN-VKogHm",
+    "path": "data/raw/clinicdb/test/masks/287.png"
+  },
+  {
+    "id": "1a4sVhPoKO0xp-FGbMQu2VvyYsW9--ssi",
+    "path": "data/raw/clinicdb/test/masks/29.png"
+  },
+  {
+    "id": "1FzGbPTuy6UFrWK_vNX7rqQ84SqUUAo8X",
+    "path": "data/raw/clinicdb/test/masks/317.png"
+  },
+  {
+    "id": "1a04tc8XTAnq4aiA_56AjccIOggu6z1Ky",
+    "path": "data/raw/clinicdb/test/masks/321.png"
+  },
+  {
+    "id": "1eqTm5HLsjlHEnR9mgrcMnLg9YF6xqqib",
+    "path": "data/raw/clinicdb/test/masks/327.png"
+  },
+  {
+    "id": "1s7Deh5-5v25_ApfRkzYne_DToZWP_iy0",
+    "path": "data/raw/clinicdb/test/masks/328.png"
+  },
+  {
+    "id": "1Izu-7W_OfPj3My8ASP4CIhR9XJKwAxHQ",
+    "path": "data/raw/clinicdb/test/masks/340.png"
+  },
+  {
+    "id": "1cClGDMJLQSqT28apG1GVuLFIH2jhhrRR",
+    "path": "data/raw/clinicdb/test/masks/352.png"
+  },
+  {
+    "id": "1-j5UCpVz1t2YUV3q5VjzVRDGFZHeaHB3",
+    "path": "data/raw/clinicdb/test/masks/359.png"
+  },
+  {
+    "id": "1VrQcVnk6lrHRexxTr4aAAnIy_IQk49wy",
+    "path": "data/raw/clinicdb/test/masks/360.png"
+  },
+  {
+    "id": "16TJa8Va2YSHFf1KsLTvVV-4KPNe5cMYs",
+    "path": "data/raw/clinicdb/test/masks/363.png"
+  },
+  {
+    "id": "1YZIlrJRxBG7ZMULOIGBdf5NRsbC7fi1F",
+    "path": "data/raw/clinicdb/test/masks/378.png"
+  },
+  {
+    "id": "1oMVOmbYL4ou7oerEaShokjlrTfMi6oyG",
+    "path": "data/raw/clinicdb/test/masks/390.png"
+  },
+  {
+    "id": "1C_59pkO54QceyuwWOiBxK-8DIxWr5ul1",
+    "path": "data/raw/clinicdb/test/masks/394.png"
+  },
+  {
+    "id": "1YGRdoMqPhdqijN-PbJPXlJv88EIGX97N",
+    "path": "data/raw/clinicdb/test/masks/40.png"
+  },
+  {
+    "id": "1HY8ULjLoppn_PSnwSvojkzWrL2Pd4WW1",
+    "path": "data/raw/clinicdb/test/masks/416.png"
+  },
+  {
+    "id": "1kwlBqfuIlOtMfUMtP4kfUH4FWD7hrunl",
+    "path": "data/raw/clinicdb/test/masks/425.png"
+  },
+  {
+    "id": "1DnkpIJfTLp0LEtQWj8GrsTDS5Jwkt0GG",
+    "path": "data/raw/clinicdb/test/masks/440.png"
+  },
+  {
+    "id": "1caGOoCUQaV5Oou4P8OEG2HeU9KlQLIfu",
+    "path": "data/raw/clinicdb/test/masks/441.png"
+  },
+  {
+    "id": "1YYS8aWnOgH4cy8sS3VMynJN3PPXXCxz1",
+    "path": "data/raw/clinicdb/test/masks/451.png"
+  },
+  {
+    "id": "1EQrJbQCFtgtqiovmFp6v8j_RlHu773XJ",
+    "path": "data/raw/clinicdb/test/masks/468.png"
+  },
+  {
+    "id": "1F0V0jtKGVJLpbsL8bTPcftgIyYx3HEfm",
+    "path": "data/raw/clinicdb/test/masks/487.png"
+  },
+  {
+    "id": "1BQRedelIjth-gRkU6IAG4Avm2ghxYRmp",
+    "path": "data/raw/clinicdb/test/masks/488.png"
+  },
+  {
+    "id": "1_xp3ovr8-rNvVpPd0-6AocGDWf9U_xIm",
+    "path": "data/raw/clinicdb/test/masks/494.png"
+  },
+  {
+    "id": "1w32m_VZm9DCESGNlF9Y583aAiztwTag1",
+    "path": "data/raw/clinicdb/test/masks/5.png"
+  },
+  {
+    "id": "18dIHHh_uwWsvblnZdzdjBPR40AI_RXNn",
+    "path": "data/raw/clinicdb/test/masks/505.png"
+  },
+  {
+    "id": "1OEb8r6JEW8ReFCMR9qA3D6jBTmDjJH1o",
+    "path": "data/raw/clinicdb/test/masks/513.png"
+  },
+  {
+    "id": "1ldy3zv-0GEix4TGAk4oxL7ZwfPJP9AuW",
+    "path": "data/raw/clinicdb/test/masks/528.png"
+  },
+  {
+    "id": "1TDIWswL54bJjznFVbyDjR1BY0sVDQwpa",
+    "path": "data/raw/clinicdb/test/masks/539.png"
+  },
+  {
+    "id": "1NVr0Ucjnjp8YL3aOXuWxt5tJKszYJqKp",
+    "path": "data/raw/clinicdb/test/masks/572.png"
+  },
+  {
+    "id": "1dH51Ll8ZV8owoimMi1SwhtCJHm5rd2Qt",
+    "path": "data/raw/clinicdb/test/masks/575.png"
+  },
+  {
+    "id": "1Kq2k4gVuNgWUW-dkyy3L5DeObpDDgYUD",
+    "path": "data/raw/clinicdb/test/masks/59.png"
+  },
+  {
+    "id": "13OvSlKsKojSaMZBgnJQnKUg7gt0pixka",
+    "path": "data/raw/clinicdb/test/masks/590.png"
+  },
+  {
+    "id": "1dHSsIA2Gx-NYnMH4fOwK6gnPoA4rRx8v",
+    "path": "data/raw/clinicdb/test/masks/591.png"
+  },
+  {
+    "id": "1gYNXw5upu85CI9ukTqdegp9PJ3UPwbes",
+    "path": "data/raw/clinicdb/test/masks/593.png"
+  },
+  {
+    "id": "1T7jqQDxVjr0wkjCcud0SN6iD-_VaWKfC",
+    "path": "data/raw/clinicdb/test/masks/594.png"
+  },
+  {
+    "id": "1bD9wXZyeB3FYdVc2q9IcN3ZN2IQePEbh",
+    "path": "data/raw/clinicdb/test/masks/608.png"
+  },
+  {
+    "id": "1iWtMDlbMnGIf_VETG7E5sMSmMo9bz2Jp",
+    "path": "data/raw/clinicdb/test/masks/64.png"
+  },
+  {
+    "id": "1Hup3wql7KKvBq9QiHlu1O-bIQ9EOtyj1",
+    "path": "data/raw/clinicdb/test/masks/8.png"
+  },
+  {
+    "id": "1RY1r5J7H9b_nlbnW0d6lQknO_ykMCq8n",
+    "path": "data/raw/clinicdb/test/masks/89.png"
+  },
+  {
+    "id": "1SnxT_cs1QQJCAZzA__KnCCFrBd6SYieU",
+    "path": "data/raw/clinicdb/train/images/1.png"
+  },
+  {
+    "id": "1FLPsMfLUvAKl88ii0XfwrlK1krNEazCr",
+    "path": "data/raw/clinicdb/train/images/100.png"
+  },
+  {
+    "id": "1iCmYOoejtLDonQv-AD3LtP4CQr2y-wWu",
+    "path": "data/raw/clinicdb/train/images/101.png"
+  },
+  {
+    "id": "1wNcxj8YJRFn20aWNFJ7xmFZP7SmmxQ6p",
+    "path": "data/raw/clinicdb/train/images/102.png"
+  },
+  {
+    "id": "1Wv3N5rpliWoyeydB4TQXTuN0ezp0Dam-",
+    "path": "data/raw/clinicdb/train/images/103.png"
+  },
+  {
+    "id": "1JJNAA-N5csj3igxO5Dx2587mAVg9JKUJ",
+    "path": "data/raw/clinicdb/train/images/104.png"
+  },
+  {
+    "id": "1vlns3vc1X12rgULbo7pVqmibafHKb2bX",
+    "path": "data/raw/clinicdb/train/images/105.png"
+  },
+  {
+    "id": "1dgm6DlTyu6kgRdkX_rl9lG4P3S10FSt3",
+    "path": "data/raw/clinicdb/train/images/106.png"
+  },
+  {
+    "id": "1B4pPD8nJVbRQAfKMTGbUnkLl7SMOYz6r",
+    "path": "data/raw/clinicdb/train/images/107.png"
+  },
+  {
+    "id": "1fypLq4ELi_xHpUct5ppJrpUdVvcLBM2y",
+    "path": "data/raw/clinicdb/train/images/108.png"
+  },
+  {
+    "id": "17E4rV_yivM1TvkTmbipRGxdgd5s9ZHQ5",
+    "path": "data/raw/clinicdb/train/images/11.png"
+  },
+  {
+    "id": "1MWaP7iymhUoZcpGZ5KxqAUezdnIF07Fs",
+    "path": "data/raw/clinicdb/train/images/110.png"
+  },
+  {
+    "id": "16-N1YULIShjdmSWdziM2n3KvsGAJJcw8",
+    "path": "data/raw/clinicdb/train/images/111.png"
+  },
+  {
+    "id": "17ZF_QVVcN977i6OVjvctczaB4nxOc-kV",
+    "path": "data/raw/clinicdb/train/images/112.png"
+  },
+  {
+    "id": "1_1ywBJWKb12-T7QRDf3q6sUmAbCbIcVh",
+    "path": "data/raw/clinicdb/train/images/113.png"
+  },
+  {
+    "id": "1KAOMvND41S2Yu0wQ5xYYRRSNeaDyZ4V4",
+    "path": "data/raw/clinicdb/train/images/114.png"
+  },
+  {
+    "id": "1PgeVUFGJMJv9sd8dlrAKpNz-GsuXaJTL",
+    "path": "data/raw/clinicdb/train/images/115.png"
+  },
+  {
+    "id": "1D2e2bprA1yZZWFBlaXQr4gKkPy4LdaYC",
+    "path": "data/raw/clinicdb/train/images/116.png"
+  },
+  {
+    "id": "1zA5wlficqpoVV-68Ue9u5kHGui4NUybi",
+    "path": "data/raw/clinicdb/train/images/118.png"
+  },
+  {
+    "id": "1k8Pa4_VWyMqlboHBBy1-m_NCzQJmLpEI",
+    "path": "data/raw/clinicdb/train/images/119.png"
+  },
+  {
+    "id": "1f_g2wWIMmt6lBo29mFPe_sTRw8OTTUgF",
+    "path": "data/raw/clinicdb/train/images/12.png"
+  },
+  {
+    "id": "1u9OvuglkwxBdJQIq2hGmhiFtGY2egIuA",
+    "path": "data/raw/clinicdb/train/images/120.png"
+  },
+  {
+    "id": "1Q3D_tZdHd_8QQKCCkZjmxbhVN8rP7wTt",
+    "path": "data/raw/clinicdb/train/images/121.png"
+  },
+  {
+    "id": "1-851eFCND-_t-o4fnheLbhWxcD-XQd83",
+    "path": "data/raw/clinicdb/train/images/122.png"
+  },
+  {
+    "id": "1vR392d05a95RDWIKUEpPoq0qhqZilFRy",
+    "path": "data/raw/clinicdb/train/images/123.png"
+  },
+  {
+    "id": "142lqLDyp6W4gILWTrGvDpjsgzvqekBRp",
+    "path": "data/raw/clinicdb/train/images/124.png"
+  },
+  {
+    "id": "11qRg_wI7C3yXHfeX7305tXm5bEP0zstA",
+    "path": "data/raw/clinicdb/train/images/126.png"
+  },
+  {
+    "id": "1dMcwcyr8IaqWNS-DZ6gvFfn1agF4CTM8",
+    "path": "data/raw/clinicdb/train/images/127.png"
+  },
+  {
+    "id": "1vzajxt4BVyqvkLRICkdMMzxSXtpy8GGo",
+    "path": "data/raw/clinicdb/train/images/13.png"
+  },
+  {
+    "id": "1WGThX_nhPkXghXaFZxvx7tCmR5qRUtqt",
+    "path": "data/raw/clinicdb/train/images/130.png"
+  },
+  {
+    "id": "1bEybpxxm9zOasv8uHjbEy2oG_X8e0jvE",
+    "path": "data/raw/clinicdb/train/images/131.png"
+  },
+  {
+    "id": "1ec6OKpDNw68aXvu-7gqW7Oe5y74QDVuK",
+    "path": "data/raw/clinicdb/train/images/132.png"
+  },
+  {
+    "id": "17GbWqRht7RUmoWNwCK7VzzxXTZfujx4q",
+    "path": "data/raw/clinicdb/train/images/133.png"
+  },
+  {
+    "id": "1eGlPiYwVuNGqOewoOwHXorKYUtlZRux-",
+    "path": "data/raw/clinicdb/train/images/134.png"
+  },
+  {
+    "id": "1VzRrul2z21PBuANBZR664I64E3GmD9_R",
+    "path": "data/raw/clinicdb/train/images/135.png"
+  },
+  {
+    "id": "1xH9JPMYgkNyMnANuUi3aRjsWAreCJ6KC",
+    "path": "data/raw/clinicdb/train/images/136.png"
+  },
+  {
+    "id": "1qrMGO3P9co_Kut3k_sctSVn-qOyn8MgO",
+    "path": "data/raw/clinicdb/train/images/137.png"
+  },
+  {
+    "id": "1qnI4ZwBBAwLQrDlYJmvQc-scAdRIwZEj",
+    "path": "data/raw/clinicdb/train/images/138.png"
+  },
+  {
+    "id": "1EUWqBH6Xb7a8vURii_xFW9apXLWd13pX",
+    "path": "data/raw/clinicdb/train/images/14.png"
+  },
+  {
+    "id": "17QU_f_4SAF-OX6Is6GtqzV6EQxDxg6jx",
+    "path": "data/raw/clinicdb/train/images/140.png"
+  },
+  {
+    "id": "1CArGg8M9wsjFI-C94D_bN81fyax_BN_L",
+    "path": "data/raw/clinicdb/train/images/141.png"
+  },
+  {
+    "id": "1q9yIdFQZWkAc9-yVhAukZ1kep8X90o6E",
+    "path": "data/raw/clinicdb/train/images/142.png"
+  },
+  {
+    "id": "1h1lUn51o3qVx9ZRkvE1u9PU5ahLGxnhf",
+    "path": "data/raw/clinicdb/train/images/143.png"
+  },
+  {
+    "id": "1sDV3kcDrEWAm9mYqZKymzVs3_0iUB9M1",
+    "path": "data/raw/clinicdb/train/images/144.png"
+  },
+  {
+    "id": "1VsrltkmcSidg-uox4CdzMzBVs6kfS3gx",
+    "path": "data/raw/clinicdb/train/images/145.png"
+  },
+  {
+    "id": "1qKsqsQxNZZ97ODc5HDycWb0-7FpLS0VB",
+    "path": "data/raw/clinicdb/train/images/146.png"
+  },
+  {
+    "id": "1aQ7vd2FfhN8YWqg5PZz9wMychebxgfC5",
+    "path": "data/raw/clinicdb/train/images/147.png"
+  },
+  {
+    "id": "1xl24FLYMS_gRcjh_ev66Z0Ia_ikjNmaR",
+    "path": "data/raw/clinicdb/train/images/148.png"
+  },
+  {
+    "id": "1qB_IkvaOQf8pzfg6P3CYx3_loyGIcj8N",
+    "path": "data/raw/clinicdb/train/images/149.png"
+  },
+  {
+    "id": "1-4_aqdlrgGB03jYnHEgOtQKJEjOrnKBo",
+    "path": "data/raw/clinicdb/train/images/15.png"
+  },
+  {
+    "id": "1Na-y0rJYzBkSmdpzfpQuaQZG41j5tWk8",
+    "path": "data/raw/clinicdb/train/images/150.png"
+  },
+  {
+    "id": "12nSphnsWTKa3f015Vd5YSd-Tk_CIdmhI",
+    "path": "data/raw/clinicdb/train/images/151.png"
+  },
+  {
+    "id": "15-ULsx13xEheaDbjSu7ck8MCpfsqTBfN",
+    "path": "data/raw/clinicdb/train/images/152.png"
+  },
+  {
+    "id": "1TusoisIRp43EZDGHemjpLh5XcIvB9HzN",
+    "path": "data/raw/clinicdb/train/images/153.png"
+  },
+  {
+    "id": "1x26I8VkOYzD91C--ddATwF3N0V1VM7FM",
+    "path": "data/raw/clinicdb/train/images/154.png"
+  },
+  {
+    "id": "1pGH_pPgNBNAdhwuD3pnHjtSDuU6Ew7sF",
+    "path": "data/raw/clinicdb/train/images/155.png"
+  },
+  {
+    "id": "1ve55Wdpfw7djE3aIuxnYTY4QQCoBCrV4",
+    "path": "data/raw/clinicdb/train/images/157.png"
+  },
+  {
+    "id": "1sglnSuhSCllisTFRLJwZtkarhJH4ptKk",
+    "path": "data/raw/clinicdb/train/images/158.png"
+  },
+  {
+    "id": "1eAUPq0FYEB2_K_3Q7bvfFc2jw3Mk8bZg",
+    "path": "data/raw/clinicdb/train/images/16.png"
+  },
+  {
+    "id": "1srB3M_r8S5PIwcCuBXaTbU8pBuWqUYUk",
+    "path": "data/raw/clinicdb/train/images/160.png"
+  },
+  {
+    "id": "1TF_O5M5mEmwx0zJvFRgaNyZ5s1z6RCiw",
+    "path": "data/raw/clinicdb/train/images/161.png"
+  },
+  {
+    "id": "1VU0d7llku7wP-lULy7Hi2iMWk7IILpTU",
+    "path": "data/raw/clinicdb/train/images/162.png"
+  },
+  {
+    "id": "1Pqaw20i8Qx0Fx5KKx0gFptMRlwj3_fW3",
+    "path": "data/raw/clinicdb/train/images/164.png"
+  },
+  {
+    "id": "1-oJyhduopj6DyoP3QNLEnQDmWkO-TFYt",
+    "path": "data/raw/clinicdb/train/images/165.png"
+  },
+  {
+    "id": "1iTGGQi8rEQq8jkNvUu6IbP58e1Ktf1V3",
+    "path": "data/raw/clinicdb/train/images/166.png"
+  },
+  {
+    "id": "14JD_26jfE8rMVNB8tHbh-HEpJhPDuUkY",
+    "path": "data/raw/clinicdb/train/images/168.png"
+  },
+  {
+    "id": "1Ty5NYoHuwtXkB5sxdPoZwyOk5zMrCS3B",
+    "path": "data/raw/clinicdb/train/images/17.png"
+  },
+  {
+    "id": "13Qfn1y3DSOQupVlPcz9cIjhF8GwSIG4V",
+    "path": "data/raw/clinicdb/train/images/170.png"
+  },
+  {
+    "id": "1lOfnGJQLZNjocUi1YLdy6CtIVDNflhBs",
+    "path": "data/raw/clinicdb/train/images/172.png"
+  },
+  {
+    "id": "19qPlPJmM7X517B7FfJf8UA-Sx0l4Ij4Z",
+    "path": "data/raw/clinicdb/train/images/174.png"
+  },
+  {
+    "id": "1jpLL3U_P86hNBssnFb2T6i0a6RX43xjJ",
+    "path": "data/raw/clinicdb/train/images/175.png"
+  },
+  {
+    "id": "117Ftfmd4Y7MD-mIgb6Z1xbjZeAFao1GQ",
+    "path": "data/raw/clinicdb/train/images/176.png"
+  },
+  {
+    "id": "1CRGqcoibpR1jxAMT28Yn5POKlZtZ8_l6",
+    "path": "data/raw/clinicdb/train/images/177.png"
+  },
+  {
+    "id": "19DERblh6YSre0v_V6c9Jinpg2zyDxiox",
+    "path": "data/raw/clinicdb/train/images/178.png"
+  },
+  {
+    "id": "1GrdFe3jNA1n15Ogg-Dy1xSp7Kop5A0mR",
+    "path": "data/raw/clinicdb/train/images/179.png"
+  },
+  {
+    "id": "1mTD7i3m_S6yuAtnVd3MuK-p2vAYKDF6k",
+    "path": "data/raw/clinicdb/train/images/18.png"
+  },
+  {
+    "id": "1wGE1T00wRLIPjEpQPH0rieJDFGDPRu1U",
+    "path": "data/raw/clinicdb/train/images/180.png"
+  },
+  {
+    "id": "14gYwqBi39nTpMx4CDoG08MGuPoT5Otyx",
+    "path": "data/raw/clinicdb/train/images/183.png"
+  },
+  {
+    "id": "1BvqXMk1Y0iPg12KfB5709aJS4uWkC2pV",
+    "path": "data/raw/clinicdb/train/images/184.png"
+  },
+  {
+    "id": "11egaSpgm7shwZXh_7tdvZ2Y3S0oeqAO8",
+    "path": "data/raw/clinicdb/train/images/185.png"
+  },
+  {
+    "id": "1onTnbaYM4jrTep4_g2BNX_AQAoj1rkaX",
+    "path": "data/raw/clinicdb/train/images/186.png"
+  },
+  {
+    "id": "1aGv3fxubHUhpKq2yV4RArgcsjLoy2ZFw",
+    "path": "data/raw/clinicdb/train/images/187.png"
+  },
+  {
+    "id": "1V3OFDtynUl6ZFcosux5Ed8apO1egkCU5",
+    "path": "data/raw/clinicdb/train/images/188.png"
+  },
+  {
+    "id": "10r1JGJtSUdLK7KFIvE47HFAiTaUA_JJT",
+    "path": "data/raw/clinicdb/train/images/189.png"
+  },
+  {
+    "id": "13PEkK8nd1lIfZyYHgx8A_9lYdhH9eO1P",
+    "path": "data/raw/clinicdb/train/images/19.png"
+  },
+  {
+    "id": "1ETcA6utO04QEbxZo2chYLCvHNYtlPSQ6",
+    "path": "data/raw/clinicdb/train/images/190.png"
+  },
+  {
+    "id": "1okRQ2K_TrWPfUFGS0aTZlsqS874AdBym",
+    "path": "data/raw/clinicdb/train/images/192.png"
+  },
+  {
+    "id": "1aubzRfAQ4BRdr6JmCi8y1TrhMXN8oYk7",
+    "path": "data/raw/clinicdb/train/images/194.png"
+  },
+  {
+    "id": "1dFrl3ZXdvnGfDEzuPdTDoPwhMY-0zVxY",
+    "path": "data/raw/clinicdb/train/images/195.png"
+  },
+  {
+    "id": "1rMqeCSd7nA2BZgm9MeyT2P8_sntwlrjA",
+    "path": "data/raw/clinicdb/train/images/196.png"
+  },
+  {
+    "id": "1m2oj_EYSrZPhPAiQonpJUF78qmC6iQK8",
+    "path": "data/raw/clinicdb/train/images/2.png"
+  },
+  {
+    "id": "15-GGtkspuCHEVBGQEpJXidZFS0Hvsk_p",
+    "path": "data/raw/clinicdb/train/images/20.png"
+  },
+  {
+    "id": "14yJcV2J8KK2-cIIRINYjfhLqHuPDLAqL",
+    "path": "data/raw/clinicdb/train/images/201.png"
+  },
+  {
+    "id": "1amXROqM5a_Dxc9YUrNgRFS8XNJ3GqMX9",
+    "path": "data/raw/clinicdb/train/images/202.png"
+  },
+  {
+    "id": "1gEuNBvSJ03p0ahUseINkX8sRvwxVYUaU",
+    "path": "data/raw/clinicdb/train/images/204.png"
+  },
+  {
+    "id": "1F3ZLEQJmVE8lgF98JQq-nn8TFkFhZokm",
+    "path": "data/raw/clinicdb/train/images/205.png"
+  },
+  {
+    "id": "15vD8AVl1hyLmis2FHLF1SupUgergsA3K",
+    "path": "data/raw/clinicdb/train/images/206.png"
+  },
+  {
+    "id": "1QairTaXxvylSBqAJNAC9YysMF3MM6xZS",
+    "path": "data/raw/clinicdb/train/images/207.png"
+  },
+  {
+    "id": "1sQ9XDTsBWu72m1ninb2q56kYngphL3cw",
+    "path": "data/raw/clinicdb/train/images/208.png"
+  },
+  {
+    "id": "1xVNV0yo2yWAhQPp9iyIMqVUE6Urnt2MF",
+    "path": "data/raw/clinicdb/train/images/209.png"
+  },
+  {
+    "id": "1agevpkxA2IXjbPuXNPi0FvUCxcx0GT7D",
+    "path": "data/raw/clinicdb/train/images/21.png"
+  },
+  {
+    "id": "1D35aWVz8Vb15SswTWjy_eD9ssQsBotT7",
+    "path": "data/raw/clinicdb/train/images/210.png"
+  },
+  {
+    "id": "1SMBoL5p2Zpv_PGzjqdlX8mcPXSl2snqk",
+    "path": "data/raw/clinicdb/train/images/211.png"
+  },
+  {
+    "id": "17KcBz5SsN8OZTwhYMHgwUuPbmPn0rDeo",
+    "path": "data/raw/clinicdb/train/images/213.png"
+  },
+  {
+    "id": "1MOQWaH-1pQ36HvYnYuGlJ2K4xyU8tTm_",
+    "path": "data/raw/clinicdb/train/images/215.png"
+  },
+  {
+    "id": "1-8FzcuOTGF4HTbFeGW8vDFhnljVTEcY7",
+    "path": "data/raw/clinicdb/train/images/216.png"
+  },
+  {
+    "id": "1ToXC3hRxPUD55KzmqCPN2XRCA5npujyy",
+    "path": "data/raw/clinicdb/train/images/217.png"
+  },
+  {
+    "id": "1XD4CAsIu-_yE_8JtTo0j1l3uFpSL_I2B",
+    "path": "data/raw/clinicdb/train/images/219.png"
+  },
+  {
+    "id": "1F70P5DG8kPpswBXczXRqW_TUAUdO0oD0",
+    "path": "data/raw/clinicdb/train/images/22.png"
+  },
+  {
+    "id": "1Tc1V3uz_zudzIir053ZsJyEe7dQaAUwu",
+    "path": "data/raw/clinicdb/train/images/221.png"
+  },
+  {
+    "id": "1M9UoKal3RT6H4HSK_Z4x74tu78onrwfr",
+    "path": "data/raw/clinicdb/train/images/224.png"
+  },
+  {
+    "id": "1vPe6KQzl65u6IUku9VfZzrEXWXizuHNS",
+    "path": "data/raw/clinicdb/train/images/226.png"
+  },
+  {
+    "id": "1sZ8wNxATJIzgCUFG_bthPOOcn2WJa1EQ",
+    "path": "data/raw/clinicdb/train/images/227.png"
+  },
+  {
+    "id": "1D7ak6C4PJWu8ke24n5nNmB5h6G3SfofB",
+    "path": "data/raw/clinicdb/train/images/23.png"
+  },
+  {
+    "id": "13roisMKXGyGvf-3jt9hZwXVIIqKsEiub",
+    "path": "data/raw/clinicdb/train/images/230.png"
+  },
+  {
+    "id": "1M3-Ex_TL17rU3LuuhXS7pgy4SiprMIYZ",
+    "path": "data/raw/clinicdb/train/images/231.png"
+  },
+  {
+    "id": "1XworCqH4V-0haIMe-onhsJqmc_vCBBZC",
+    "path": "data/raw/clinicdb/train/images/233.png"
+  },
+  {
+    "id": "1_XqBfZkApZ8pdipdswmbARQrXMDjlaT1",
+    "path": "data/raw/clinicdb/train/images/234.png"
+  },
+  {
+    "id": "1ECdpuaQtEhoZJT5WggC271TMtyzuq-Rs",
+    "path": "data/raw/clinicdb/train/images/235.png"
+  },
+  {
+    "id": "10RjL1xb4q1WLfDr4iVyTjXba_VZysQJZ",
+    "path": "data/raw/clinicdb/train/images/236.png"
+  },
+  {
+    "id": "1CtDlYD6xnN-GXqExH7i8K_7mF3FQNJUz",
+    "path": "data/raw/clinicdb/train/images/237.png"
+  },
+  {
+    "id": "1wkTihbx-fqKJzs2pJb6SpacsTgrdW5Va",
+    "path": "data/raw/clinicdb/train/images/238.png"
+  },
+  {
+    "id": "1zQNKXxsOw2gawFyXFkduR3PKCOkfpzOP",
+    "path": "data/raw/clinicdb/train/images/239.png"
+  },
+  {
+    "id": "1uQRZavLC4metjslaHlhknOhDQPIxsU6Q",
+    "path": "data/raw/clinicdb/train/images/24.png"
+  },
+  {
+    "id": "1ygLaaVJDTB_jLUrfvlhn_NS5PxbWJF2B",
+    "path": "data/raw/clinicdb/train/images/240.png"
+  },
+  {
+    "id": "1VvOuYSH_WePDnq9P5BWEL68ge6jo3KRX",
+    "path": "data/raw/clinicdb/train/images/242.png"
+  },
+  {
+    "id": "190PG6q0udImRKLkqL1TU-ahzccBAC1Dm",
+    "path": "data/raw/clinicdb/train/images/243.png"
+  },
+  {
+    "id": "14NcqsQM5DRVo6i94wBjCMv85lScL1PFc",
+    "path": "data/raw/clinicdb/train/images/245.png"
+  },
+  {
+    "id": "1Ne9T8F7jZXY2u1Gj3TgZkuduo64_rsxJ",
+    "path": "data/raw/clinicdb/train/images/246.png"
+  },
+  {
+    "id": "1bVFla8TB-nttrwtxzHi6cje3ngbH30jp",
+    "path": "data/raw/clinicdb/train/images/247.png"
+  },
+  {
+    "id": "10Ycqd1SEF5Omp3J8vukGhRdbfHDwL6ik",
+    "path": "data/raw/clinicdb/train/images/249.png"
+  },
+  {
+    "id": "14m9Db-TsZoepvO5zT0KS7ovHLooHKBxI",
+    "path": "data/raw/clinicdb/train/images/25.png"
+  },
+  {
+    "id": "13veMI4KgCO4MljzmYes8XFvP2zKyKVUV",
+    "path": "data/raw/clinicdb/train/images/250.png"
+  },
+  {
+    "id": "1FsIqmK-cfoHkGfgT9LQHP-JJ4Zf2sT_9",
+    "path": "data/raw/clinicdb/train/images/251.png"
+  },
+  {
+    "id": "1RzNnv0SuVJqkaX9Xax1Yp35z4DRZmQ2e",
+    "path": "data/raw/clinicdb/train/images/252.png"
+  },
+  {
+    "id": "10zbMj7QlG7MTei-gpCcjrxDsrHnh211r",
+    "path": "data/raw/clinicdb/train/images/253.png"
+  },
+  {
+    "id": "1j14x_j9ArK2W9jMRhQd1mcpSsGZKSXUV",
+    "path": "data/raw/clinicdb/train/images/255.png"
+  },
+  {
+    "id": "1QdhqLtLcPKdSP6kGSQTQknxuARNMlj2P",
+    "path": "data/raw/clinicdb/train/images/256.png"
+  },
+  {
+    "id": "1-LIAQhMZuGd8S2Fl3-EO-OUtz6GmOs2d",
+    "path": "data/raw/clinicdb/train/images/257.png"
+  },
+  {
+    "id": "1XeozToVXEJ1QwXtQ_W_Gv08HMw5Y9su8",
+    "path": "data/raw/clinicdb/train/images/258.png"
+  },
+  {
+    "id": "1w9xKRUNIPz7oQXVsljuDbp2TFPP56UtX",
+    "path": "data/raw/clinicdb/train/images/259.png"
+  },
+  {
+    "id": "1J4b3QsaE0zVt5Xf-f1KSVBObUiSoysIB",
+    "path": "data/raw/clinicdb/train/images/26.png"
+  },
+  {
+    "id": "19LoDkMNoEmlWfQS99CiSjKlxYuWKbMtY",
+    "path": "data/raw/clinicdb/train/images/260.png"
+  },
+  {
+    "id": "1jQkivop8uQ16pE2o1nLsumiboJLh3S1q",
+    "path": "data/raw/clinicdb/train/images/261.png"
+  },
+  {
+    "id": "1ipNBXNdLITlWI3-nSG7Efne8DiJa1-oR",
+    "path": "data/raw/clinicdb/train/images/264.png"
+  },
+  {
+    "id": "1kzIMG1kp9LL01RkgpG0aMEbFZdcYhJtv",
+    "path": "data/raw/clinicdb/train/images/265.png"
+  },
+  {
+    "id": "1SHp0VUlU1cYw-541XR6YDtp7CbNEZG__",
+    "path": "data/raw/clinicdb/train/images/267.png"
+  },
+  {
+    "id": "1mUprD2ZqJ0oX4lMYh35fiO6nsbWOc3_5",
+    "path": "data/raw/clinicdb/train/images/268.png"
+  },
+  {
+    "id": "1OCn1CFQC7ltbDJnWBVF0wWLZvfFfAzlz",
+    "path": "data/raw/clinicdb/train/images/269.png"
+  },
+  {
+    "id": "1RUqpmZ4xqS8S2kb_Q31c9e84gpqNXZPy",
+    "path": "data/raw/clinicdb/train/images/270.png"
+  },
+  {
+    "id": "186ykUVzv0kydbI98osQcvB_PPrOsACZl",
+    "path": "data/raw/clinicdb/train/images/271.png"
+  },
+  {
+    "id": "1i_G_mRzG_N96Zt3S34O8nXNzpTY9XBeO",
+    "path": "data/raw/clinicdb/train/images/272.png"
+  },
+  {
+    "id": "1qB_CgUv59l0L5tssOsORzNK4ROeXyaS2",
+    "path": "data/raw/clinicdb/train/images/273.png"
+  },
+  {
+    "id": "1E4vXuGUDJJIs25XVr5ddaZ2B2jU2vz0k",
+    "path": "data/raw/clinicdb/train/images/274.png"
+  },
+  {
+    "id": "119HLDyGko04Zd4t2hy2KXqt_PaBak9l8",
+    "path": "data/raw/clinicdb/train/images/275.png"
+  },
+  {
+    "id": "1aRw4qVllPm4Nvvgt2DBVtAv0KTHP5CHC",
+    "path": "data/raw/clinicdb/train/images/276.png"
+  },
+  {
+    "id": "1OvMtG6-szhtX7nCa2tuDbrA7455W3-xR",
+    "path": "data/raw/clinicdb/train/images/277.png"
+  },
+  {
+    "id": "1dZebTnCQzOIMP0ngow0haRMDAeJ8BBSu",
+    "path": "data/raw/clinicdb/train/images/278.png"
+  },
+  {
+    "id": "1hF9H8uegueCf_KoLPZlhDWEexvI8PjQC",
+    "path": "data/raw/clinicdb/train/images/28.png"
+  },
+  {
+    "id": "1b7M6sqCcTXbfMWA2yzNZUUjL1OcG_ohZ",
+    "path": "data/raw/clinicdb/train/images/280.png"
+  },
+  {
+    "id": "1rTmoDqjxM8qFMNpgF0vB8QjwOKYCh7qn",
+    "path": "data/raw/clinicdb/train/images/281.png"
+  },
+  {
+    "id": "19wL0hTirdlv0MsXrRtbcbY58CDMVyYMS",
+    "path": "data/raw/clinicdb/train/images/282.png"
+  },
+  {
+    "id": "1T9e5Qahj8DXZ0xT_jQMYuFh0_g2SzaKD",
+    "path": "data/raw/clinicdb/train/images/283.png"
+  },
+  {
+    "id": "1anZCwPcB07tLOZrFhN9Lt4tWPC5UU1K5",
+    "path": "data/raw/clinicdb/train/images/284.png"
+  },
+  {
+    "id": "1w52Ft_VbGwLlTSYCvLkllidpFECkC_0r",
+    "path": "data/raw/clinicdb/train/images/285.png"
+  },
+  {
+    "id": "1TfSPKh7SWVUzm4tFD7d08ihuwm0u2Dbz",
+    "path": "data/raw/clinicdb/train/images/286.png"
+  },
+  {
+    "id": "1Xuq5tmG7RW7wYeU6WCI_s_ItA_6-e9IN",
+    "path": "data/raw/clinicdb/train/images/288.png"
+  },
+  {
+    "id": "1G0ofAzCluN_Vk6Hj3mRWvYB8-07_ko-q",
+    "path": "data/raw/clinicdb/train/images/289.png"
+  },
+  {
+    "id": "163B5S5o02epXXntvKMxGTFdHYZi9a71h",
+    "path": "data/raw/clinicdb/train/images/290.png"
+  },
+  {
+    "id": "1TShQ1LE4iFRNYs5fClg4LaltSvt6fBX7",
+    "path": "data/raw/clinicdb/train/images/291.png"
+  },
+  {
+    "id": "1Hul98V4_OnudT7H0R60Eh1f0jLZt1jBq",
+    "path": "data/raw/clinicdb/train/images/292.png"
+  },
+  {
+    "id": "1KbIzMrCTr_hGkyG4qeYlF0owyUnHpQPG",
+    "path": "data/raw/clinicdb/train/images/293.png"
+  },
+  {
+    "id": "1yo9994DBGeL8MXgIg87SIMC0VGro0dz6",
+    "path": "data/raw/clinicdb/train/images/294.png"
+  },
+  {
+    "id": "18TG4AN8I5tpCGIOce32WOyUHG8g6NQFJ",
+    "path": "data/raw/clinicdb/train/images/296.png"
+  },
+  {
+    "id": "1tNhcCet7ca9gMdPzAwvQ6DoqnymJ8Ayz",
+    "path": "data/raw/clinicdb/train/images/297.png"
+  },
+  {
+    "id": "1tGggug51M-9C7nSYf_1QjoyLLMX99AiW",
+    "path": "data/raw/clinicdb/train/images/298.png"
+  },
+  {
+    "id": "15l9q9w-bEpimvbRVvi1CwlM6Wdvu_V5C",
+    "path": "data/raw/clinicdb/train/images/299.png"
+  },
+  {
+    "id": "1j1DpijYADPgmV55n23QYTICPgYAziy0Q",
+    "path": "data/raw/clinicdb/train/images/30.png"
+  },
+  {
+    "id": "18cN7Ecc3j84qPP3W5fCAtngokqNCGC-a",
+    "path": "data/raw/clinicdb/train/images/300.png"
+  },
+  {
+    "id": "1fyOSBsgyCQ2c7tiOKMn35HlODYFWyKNk",
+    "path": "data/raw/clinicdb/train/images/301.png"
+  },
+  {
+    "id": "1LXUK2hXK3cHymztWr9d8tF6qUByZ2mZZ",
+    "path": "data/raw/clinicdb/train/images/302.png"
+  },
+  {
+    "id": "1-9lrHyI85nimcnOEeLkq44qhwX1IbMbY",
+    "path": "data/raw/clinicdb/train/images/303.png"
+  },
+  {
+    "id": "1pyptohYP8BxjQldTe7AcMCOFtyaxT_Cg",
+    "path": "data/raw/clinicdb/train/images/304.png"
+  },
+  {
+    "id": "1pS_2BINBoE_uTvCQgdsQJZLlMoC-dgYX",
+    "path": "data/raw/clinicdb/train/images/305.png"
+  },
+  {
+    "id": "1Et577WF867aKauuiFcF9ftenno2eyHKa",
+    "path": "data/raw/clinicdb/train/images/306.png"
+  },
+  {
+    "id": "1NaStYTDVazf_KD_m3_kHOiRW2nL2KOR4",
+    "path": "data/raw/clinicdb/train/images/308.png"
+  },
+  {
+    "id": "14Cj6DPgGN79dNT0X2cVwC3gCVowqaVwV",
+    "path": "data/raw/clinicdb/train/images/309.png"
+  },
+  {
+    "id": "10MTwj6CZkjgJ5SLOn1L9TM9UMKzxc8zh",
+    "path": "data/raw/clinicdb/train/images/31.png"
+  },
+  {
+    "id": "1hWsM0wCrQi8zh7NXccV-nC8z0Iu0t-OR",
+    "path": "data/raw/clinicdb/train/images/310.png"
+  },
+  {
+    "id": "1YsFrlNAhjiO_8o6tUJ8lck2yFkOzaHhX",
+    "path": "data/raw/clinicdb/train/images/311.png"
+  },
+  {
+    "id": "1edc6oIhgXuwfaTnIjkpmqzTz6GNZV5SV",
+    "path": "data/raw/clinicdb/train/images/313.png"
+  },
+  {
+    "id": "1kzTlBaLgwReWsyc__C4XPI91lVfjRdKO",
+    "path": "data/raw/clinicdb/train/images/315.png"
+  },
+  {
+    "id": "1lLBiYMTuAzVx_DICoybwjrgN11c4BACu",
+    "path": "data/raw/clinicdb/train/images/316.png"
+  },
+  {
+    "id": "1xZFZftOLVBXPfJXKGc65DV5o42aMAxc1",
+    "path": "data/raw/clinicdb/train/images/319.png"
+  },
+  {
+    "id": "1CAN56SYP8wdOyYBZgKqGTbPGI8P0paOW",
+    "path": "data/raw/clinicdb/train/images/32.png"
+  },
+  {
+    "id": "1inIVqOq_DHj8S6k-T_jHL24gqSfxXYaK",
+    "path": "data/raw/clinicdb/train/images/320.png"
+  },
+  {
+    "id": "1Rz37z-jouwEdz_OSJKChvvA24HwRINjB",
+    "path": "data/raw/clinicdb/train/images/322.png"
+  },
+  {
+    "id": "1PszkzyV4AGj_GOyII8iLez74LPQXFvPI",
+    "path": "data/raw/clinicdb/train/images/323.png"
+  },
+  {
+    "id": "1Lkk_8bYcxY92NDAzfa9Y1nxEITN-KF3S",
+    "path": "data/raw/clinicdb/train/images/324.png"
+  },
+  {
+    "id": "1niwKVLM3FSSRSYWzAiOT_8Ie5ViZ4xGm",
+    "path": "data/raw/clinicdb/train/images/325.png"
+  },
+  {
+    "id": "1_XpoFEnCMx4sNGVkHkZ7lv93m0ckffJO",
+    "path": "data/raw/clinicdb/train/images/326.png"
+  },
+  {
+    "id": "1k7JXn-Pt74Y9BDPuP9m5TXHhIOla6XUz",
+    "path": "data/raw/clinicdb/train/images/329.png"
+  },
+  {
+    "id": "1Hv6UMqTu18gk7I8jXxqAjShEeKBb8VIM",
+    "path": "data/raw/clinicdb/train/images/330.png"
+  },
+  {
+    "id": "1kLoh6GsSy-5PTwfTTom6Z06FKHQlTHLA",
+    "path": "data/raw/clinicdb/train/images/331.png"
+  },
+  {
+    "id": "1WKXxaRkVNLlhk6Ed0v6nyqd3dQVvgThZ",
+    "path": "data/raw/clinicdb/train/images/332.png"
+  },
+  {
+    "id": "1RNjpApDUAjh4PrLmrxf6eEsnUAPP-C4O",
+    "path": "data/raw/clinicdb/train/images/333.png"
+  },
+  {
+    "id": "1qZaYrky6z1iXYorXo4AvW0syXjAb1m5W",
+    "path": "data/raw/clinicdb/train/images/334.png"
+  },
+  {
+    "id": "1bigNF2_Ei7CQbjz6NjnFHINgzdHc2N3f",
+    "path": "data/raw/clinicdb/train/images/335.png"
+  },
+  {
+    "id": "1gctDTB9lTpyBvfxgGgHHv4K4bSeOEAX_",
+    "path": "data/raw/clinicdb/train/images/336.png"
+  },
+  {
+    "id": "1KuX1yVIBt1OqNW4G8Ml0HtftBHP1n41Y",
+    "path": "data/raw/clinicdb/train/images/337.png"
+  },
+  {
+    "id": "1EoR1KdewMNIlKZYt-iPZSl8FhsIC44WL",
+    "path": "data/raw/clinicdb/train/images/338.png"
+  },
+  {
+    "id": "1j1kXhNMjBEVu1q5I7gKWwlCkSO45uwCp",
+    "path": "data/raw/clinicdb/train/images/339.png"
+  },
+  {
+    "id": "1CNdFxNayfDYzzfvQLUbw2THTWjiaN2Xq",
+    "path": "data/raw/clinicdb/train/images/341.png"
+  },
+  {
+    "id": "163p0XKRZGgjPg8yTEE8jg-2MHTv_ojAw",
+    "path": "data/raw/clinicdb/train/images/342.png"
+  },
+  {
+    "id": "1OZMtLhq54OCrqPLhgaDgGUFAhrCxgfcU",
+    "path": "data/raw/clinicdb/train/images/344.png"
+  },
+  {
+    "id": "1GE5ukB76G1wstEX-a8GyGW7MAffdo31P",
+    "path": "data/raw/clinicdb/train/images/345.png"
+  },
+  {
+    "id": "1YSHCDhuazy8mN745cIQr0T2QCzLq5Z9H",
+    "path": "data/raw/clinicdb/train/images/346.png"
+  },
+  {
+    "id": "1jvNtjwAfgcFVeTIXE9chGljJOcaNMG9M",
+    "path": "data/raw/clinicdb/train/images/347.png"
+  },
+  {
+    "id": "1tCDn-3MMG5bC_zvFgN9Xgth1jtdO0TYg",
+    "path": "data/raw/clinicdb/train/images/349.png"
+  },
+  {
+    "id": "16Jf3cCVvlfZ5T-6PclY0hwF9uSWcUkVU",
+    "path": "data/raw/clinicdb/train/images/35.png"
+  },
+  {
+    "id": "1e-JTLhxCylYp-l0KkjYVn8DtAcpeGWaP",
+    "path": "data/raw/clinicdb/train/images/351.png"
+  },
+  {
+    "id": "13mJY19bydnXX8NLRwI7n2r9GBb41f7lH",
+    "path": "data/raw/clinicdb/train/images/354.png"
+  },
+  {
+    "id": "1hDhWdqEZjKyk-gIbWsG3IeqJVsr9iybC",
+    "path": "data/raw/clinicdb/train/images/356.png"
+  },
+  {
+    "id": "1vS4RtuqTopIvW6YBax7Ga-1q53ucSLpN",
+    "path": "data/raw/clinicdb/train/images/357.png"
+  },
+  {
+    "id": "1XtkmnXke_qry3HtO2ailSOQZGVB_wKD-",
+    "path": "data/raw/clinicdb/train/images/358.png"
+  },
+  {
+    "id": "1j4Y5D3JsDDkJrk7qStoWoIszSzVL07qy",
+    "path": "data/raw/clinicdb/train/images/361.png"
+  },
+  {
+    "id": "1TLJLsVG6mzECuPaHu-y0K_3tbx4ni0dJ",
+    "path": "data/raw/clinicdb/train/images/362.png"
+  },
+  {
+    "id": "1djNP70mc5nVylioGd7KLI76oPMEbFuP1",
+    "path": "data/raw/clinicdb/train/images/365.png"
+  },
+  {
+    "id": "11rX0v8vSXTk_BajhsybH423EKT4vty7M",
+    "path": "data/raw/clinicdb/train/images/366.png"
+  },
+  {
+    "id": "126cq_TQg4qZwUMt15ymoZG_Or_hOqFtg",
+    "path": "data/raw/clinicdb/train/images/367.png"
+  },
+  {
+    "id": "18fhA49baeL2YdIY6xqrVeEIreXS6_6kP",
+    "path": "data/raw/clinicdb/train/images/368.png"
+  },
+  {
+    "id": "1umXZBdtqlZ4rlBaypn8CD5MJfF49ozeg",
+    "path": "data/raw/clinicdb/train/images/369.png"
+  },
+  {
+    "id": "1W-ieiZqpYn6qC1Pm3XhGb7lgWws1AYdn",
+    "path": "data/raw/clinicdb/train/images/37.png"
+  },
+  {
+    "id": "1E5BWlvzQJbweY_I1MRKvKZRY7xWn-ga0",
+    "path": "data/raw/clinicdb/train/images/370.png"
+  },
+  {
+    "id": "1Vo1cWp0cHP7eyrMPPcaO2BXt8dyJq98l",
+    "path": "data/raw/clinicdb/train/images/371.png"
+  },
+  {
+    "id": "1ABTlLtG6UfjFxo6_FBuRcpgPhut7Km5p",
+    "path": "data/raw/clinicdb/train/images/372.png"
+  },
+  {
+    "id": "1OzN5_x91YiDg8du-ZEhwWd_mDb7g2IRx",
+    "path": "data/raw/clinicdb/train/images/373.png"
+  },
+  {
+    "id": "1OYVSPXiHzfF27mHeqFxwBmBFe25Mfe0o",
+    "path": "data/raw/clinicdb/train/images/374.png"
+  },
+  {
+    "id": "1XjkUi0yrDHZ2im3p5M0noFWdezihvoB4",
+    "path": "data/raw/clinicdb/train/images/375.png"
+  },
+  {
+    "id": "1BcMwLW8Hao69o4yEG9MU5k-tt8UQ7Jli",
+    "path": "data/raw/clinicdb/train/images/376.png"
+  },
+  {
+    "id": "1JlXbBJ-EpsG-yctjxTLLmDgUjpo2PSki",
+    "path": "data/raw/clinicdb/train/images/377.png"
+  },
+  {
+    "id": "1p9gZbGqL40VOLIZT3yok4V_h9ueGaHPv",
+    "path": "data/raw/clinicdb/train/images/379.png"
+  },
+  {
+    "id": "1zpQrsbC6mv-bwzvN9vSPMhE6x8ipR-di",
+    "path": "data/raw/clinicdb/train/images/38.png"
+  },
+  {
+    "id": "1MuAQzXW7Spz2slCP1wR1wMuOj6uA0HuD",
+    "path": "data/raw/clinicdb/train/images/380.png"
+  },
+  {
+    "id": "1kQ5gE0PpNKdHY6wuW2SfYQwrBF1Cz8ey",
+    "path": "data/raw/clinicdb/train/images/381.png"
+  },
+  {
+    "id": "1b4FsWEYGxptuuaiqSy41map_5DLFWn9M",
+    "path": "data/raw/clinicdb/train/images/382.png"
+  },
+  {
+    "id": "1KH4eet5_qaLqi1Vr_SDsd_uBWLjUE8Dv",
+    "path": "data/raw/clinicdb/train/images/383.png"
+  },
+  {
+    "id": "1F_XloXoU-4MRNOi6Xa76nV2-KZGKIi1o",
+    "path": "data/raw/clinicdb/train/images/384.png"
+  },
+  {
+    "id": "1xdwbj0fyWnTrjfjlcKZ0IypDfNNkzkWE",
+    "path": "data/raw/clinicdb/train/images/385.png"
+  },
+  {
+    "id": "1RflGKFvMFZaKALmRP0-cFQWCa5Gd-EbE",
+    "path": "data/raw/clinicdb/train/images/386.png"
+  },
+  {
+    "id": "19yHkLlHlCrRD-yWyYufmciJCcXbiY7dE",
+    "path": "data/raw/clinicdb/train/images/387.png"
+  },
+  {
+    "id": "14j0f4X-WxTp_L5JSnjxImEBvo316BUVh",
+    "path": "data/raw/clinicdb/train/images/388.png"
+  },
+  {
+    "id": "1wBtJiED4NNLi9YO7LEin-vuiHeGOGWVf",
+    "path": "data/raw/clinicdb/train/images/389.png"
+  },
+  {
+    "id": "1ByQ6XKrAhasYQ3upHye6OlI7iwq_l0yI",
+    "path": "data/raw/clinicdb/train/images/39.png"
+  },
+  {
+    "id": "1cz-m_p2-rKMBDPi2IL9k4NiT2d6RPs9j",
+    "path": "data/raw/clinicdb/train/images/391.png"
+  },
+  {
+    "id": "1S0BddW12xcUgJdQZ_foXvaTBLJXrR8NM",
+    "path": "data/raw/clinicdb/train/images/393.png"
+  },
+  {
+    "id": "1HVkDDOp-T_KMw-q5vKwCzpa2qbF_qMD0",
+    "path": "data/raw/clinicdb/train/images/395.png"
+  },
+  {
+    "id": "1kNRbSdma764hfnKjDJet7tmA1ejELqOy",
+    "path": "data/raw/clinicdb/train/images/396.png"
+  },
+  {
+    "id": "1W-i2ZqdygS2fhfRMuTpw0UOZgIK-qAPW",
+    "path": "data/raw/clinicdb/train/images/397.png"
+  },
+  {
+    "id": "1dCutPMUoTrJ00ntWue-949PLS-XTttuZ",
+    "path": "data/raw/clinicdb/train/images/398.png"
+  },
+  {
+    "id": "1gOJR1wIbU1H_rKhVxBsADVPQ1MYuvbse",
+    "path": "data/raw/clinicdb/train/images/399.png"
+  },
+  {
+    "id": "1ckHS4HOZrAdiZFFqkr5Vm49-zBOcAvpY",
+    "path": "data/raw/clinicdb/train/images/400.png"
+  },
+  {
+    "id": "1VKe3J4-QqqFI1ec4n8m8Zg81KWvV04yL",
+    "path": "data/raw/clinicdb/train/images/401.png"
+  },
+  {
+    "id": "144jjEET67hGGSLp9bc9k--TzZqCXV53X",
+    "path": "data/raw/clinicdb/train/images/402.png"
+  },
+  {
+    "id": "1Cf89WPaR1fa6bQeFLojUu3tSGKq-5d0l",
+    "path": "data/raw/clinicdb/train/images/403.png"
+  },
+  {
+    "id": "18tfM-xZqL2eX3xP461ApbdcdEJxLTIo5",
+    "path": "data/raw/clinicdb/train/images/404.png"
+  },
+  {
+    "id": "1OsA7bwfish2jKtNXuTyeAfQD7PIiKhmD",
+    "path": "data/raw/clinicdb/train/images/405.png"
+  },
+  {
+    "id": "1UOaFVtvFXQlUVwlK_7HmBVMhN7sCmUlt",
+    "path": "data/raw/clinicdb/train/images/406.png"
+  },
+  {
+    "id": "1Rqrphw8GbK46Q70H75qp9UTndUwEFuDR",
+    "path": "data/raw/clinicdb/train/images/407.png"
+  },
+  {
+    "id": "1_BLWT67oicapDiuwWQdkyKqqeNVYCT95",
+    "path": "data/raw/clinicdb/train/images/408.png"
+  },
+  {
+    "id": "1Kg7KQ4qo5McZWNulu4HJg3IPpyno1FmK",
+    "path": "data/raw/clinicdb/train/images/409.png"
+  },
+  {
+    "id": "1Ddf0HOyVGG4A894vqNpHeL_Qq-iIXCx0",
+    "path": "data/raw/clinicdb/train/images/41.png"
+  },
+  {
+    "id": "1GtcwHslraw3E7LkxTfRyZJvDLNXyiU2g",
+    "path": "data/raw/clinicdb/train/images/410.png"
+  },
+  {
+    "id": "1-pb-_4yJrQfcozJoS69k92878-SO8N2m",
+    "path": "data/raw/clinicdb/train/images/411.png"
+  },
+  {
+    "id": "1SpemINcus27YONCb__w6hi5eZnMiiuGV",
+    "path": "data/raw/clinicdb/train/images/412.png"
+  },
+  {
+    "id": "16jA8Im5L4KA2rGq0UxRJwyXX-owQpgVq",
+    "path": "data/raw/clinicdb/train/images/413.png"
+  },
+  {
+    "id": "1N2lWGt-OAFt8-G2Kf2pdvxTPnX_Tuao1",
+    "path": "data/raw/clinicdb/train/images/414.png"
+  },
+  {
+    "id": "1mBRxCKTtHDITAOsI_drmli8Fs0ilIMEW",
+    "path": "data/raw/clinicdb/train/images/415.png"
+  },
+  {
+    "id": "1VxOLR5QLTtLxr0g4CrluzqmofI15XDwA",
+    "path": "data/raw/clinicdb/train/images/417.png"
+  },
+  {
+    "id": "1jCSvOO87yOzZ29pTxZ4PP-iGRyJC4tUb",
+    "path": "data/raw/clinicdb/train/images/419.png"
+  },
+  {
+    "id": "1xWSjzWo6ZhCoqeT19uSVcApu6UXYVuLm",
+    "path": "data/raw/clinicdb/train/images/42.png"
+  },
+  {
+    "id": "1waCO68AvxkOOqtqKA9a-eVrOYkICqvNW",
+    "path": "data/raw/clinicdb/train/images/420.png"
+  },
+  {
+    "id": "1DDYjSMJg07aRu1WBaNv5eoPYExi2PvQ-",
+    "path": "data/raw/clinicdb/train/images/421.png"
+  },
+  {
+    "id": "1lkOyvmHIpGumkLa-SXcJFGMq2FJ5d__x",
+    "path": "data/raw/clinicdb/train/images/422.png"
+  },
+  {
+    "id": "1AJIqIraIeZwVI74B768JBNWPq3Ob4twk",
+    "path": "data/raw/clinicdb/train/images/423.png"
+  },
+  {
+    "id": "1HDfH084jFdhAQEmxNHuBix9g3BN60pcy",
+    "path": "data/raw/clinicdb/train/images/424.png"
+  },
+  {
+    "id": "1bBzqIkJhL72pjocA9mbMDhySQ2xswjP5",
+    "path": "data/raw/clinicdb/train/images/426.png"
+  },
+  {
+    "id": "1kmtR08IKopTEx8IoNBarfC8HZdLcF3PQ",
+    "path": "data/raw/clinicdb/train/images/427.png"
+  },
+  {
+    "id": "10dPixHt4EvW6E_qBpMXqs5Es3cNOKzlg",
+    "path": "data/raw/clinicdb/train/images/428.png"
+  },
+  {
+    "id": "1nH6CPEyc0OLCGwMTGHQsT1l9tk6WLtGy",
+    "path": "data/raw/clinicdb/train/images/429.png"
+  },
+  {
+    "id": "1lGd-bAjkA9UiPRwwy00pvzlS15CoqIEs",
+    "path": "data/raw/clinicdb/train/images/43.png"
+  },
+  {
+    "id": "1eUidyaNJ8J8M3TSbpUrRhkqRfedG6rF8",
+    "path": "data/raw/clinicdb/train/images/430.png"
+  },
+  {
+    "id": "1iM8PIu2NVkLJvClENNl5UbxotjNWGIdx",
+    "path": "data/raw/clinicdb/train/images/431.png"
+  },
+  {
+    "id": "1jd0lVlKzecJlzhpbr1UTZyzT-PlE9Sd7",
+    "path": "data/raw/clinicdb/train/images/432.png"
+  },
+  {
+    "id": "1yH3TJoTMa4UTWVkGzbKtyNCKuX4A9P-x",
+    "path": "data/raw/clinicdb/train/images/434.png"
+  },
+  {
+    "id": "1SsdKZ5xBpRA_r-tcT5QrL1zuknzE8uTf",
+    "path": "data/raw/clinicdb/train/images/435.png"
+  },
+  {
+    "id": "1pj0B-P7j6xovCl2rCTQ4qjHYHNJ23vwK",
+    "path": "data/raw/clinicdb/train/images/436.png"
+  },
+  {
+    "id": "1b2GQWN5ovcJwXY0fGo-wnrVVj-3KVu07",
+    "path": "data/raw/clinicdb/train/images/438.png"
+  },
+  {
+    "id": "1asnmW1L6jf8t7H9dVq8GBuvfXTeUvvM7",
+    "path": "data/raw/clinicdb/train/images/439.png"
+  },
+  {
+    "id": "1Bz0O40KF_IkpVhL3CpDqtGrR-OliImta",
+    "path": "data/raw/clinicdb/train/images/44.png"
+  },
+  {
+    "id": "1pbz-HuN_Fc6qvGed_v7uB_IUBBHTAF7A",
+    "path": "data/raw/clinicdb/train/images/442.png"
+  },
+  {
+    "id": "1jg5qHzWmRRasL-wcSQcqPpiDPrl2UcxU",
+    "path": "data/raw/clinicdb/train/images/444.png"
+  },
+  {
+    "id": "13jCjpJeHqcmHEu7VJc0G4gNlo07_APMw",
+    "path": "data/raw/clinicdb/train/images/445.png"
+  },
+  {
+    "id": "1J9pH49c4tuGyHseFk1Zf_gJL_OakNz4-",
+    "path": "data/raw/clinicdb/train/images/446.png"
+  },
+  {
+    "id": "1D_5n-SVLow_fw96Ij8U-lXOiZw-86y4-",
+    "path": "data/raw/clinicdb/train/images/447.png"
+  },
+  {
+    "id": "1Wu32Ea0fgGjpUPRW4ljdYQHk9sqsJBty",
+    "path": "data/raw/clinicdb/train/images/448.png"
+  },
+  {
+    "id": "1Sd73KmYiMUEn7y8yYtv4fIlmZFHYFVeX",
+    "path": "data/raw/clinicdb/train/images/449.png"
+  },
+  {
+    "id": "1IPDR7mlDHDH8fKjFgnD7-oWUCR4BYwOR",
+    "path": "data/raw/clinicdb/train/images/45.png"
+  },
+  {
+    "id": "1Ae0mJOGDmO-SaH5nyeMYXNlnJCe8ghVK",
+    "path": "data/raw/clinicdb/train/images/450.png"
+  },
+  {
+    "id": "1li0lrxjt9mwSEML7aIPoWf-dfvlKWcDr",
+    "path": "data/raw/clinicdb/train/images/452.png"
+  },
+  {
+    "id": "18qfhoeb9Pm44PSAct_WiJ5HJs8cXDB1V",
+    "path": "data/raw/clinicdb/train/images/453.png"
+  },
+  {
+    "id": "1G4c4wAG1RiGxz_eHk4qm9pKjJUbyi_yY",
+    "path": "data/raw/clinicdb/train/images/454.png"
+  },
+  {
+    "id": "17GRxEBLK19HahWlqn7LY5i2_j9ZngTYN",
+    "path": "data/raw/clinicdb/train/images/455.png"
+  },
+  {
+    "id": "1n5Poo0Dh9PJsriY9-h47JnbYxm-BX_ux",
+    "path": "data/raw/clinicdb/train/images/456.png"
+  },
+  {
+    "id": "1x6EfcM9bDiuoJiVE0CI7i3Op8VHfDtGi",
+    "path": "data/raw/clinicdb/train/images/457.png"
+  },
+  {
+    "id": "1DtCThzoIaMr3ocgPGjEUfRuSXTNGcksZ",
+    "path": "data/raw/clinicdb/train/images/458.png"
+  },
+  {
+    "id": "1wXh-clEB48j8FWF6tZ_Z7lwYyL7E7Kuj",
+    "path": "data/raw/clinicdb/train/images/459.png"
+  },
+  {
+    "id": "1AEy0izvQOiItL-zJEKHVmzspSNhi2GGe",
+    "path": "data/raw/clinicdb/train/images/46.png"
+  },
+  {
+    "id": "1_TWdMBsXcQ2vz-ba0sLr58NTxHAdRcOv",
+    "path": "data/raw/clinicdb/train/images/460.png"
+  },
+  {
+    "id": "1eWBcsobBB2Vf-sAHx99V35tEFue2n0IN",
+    "path": "data/raw/clinicdb/train/images/461.png"
+  },
+  {
+    "id": "1A_ENMmaoBJ28vZsn4FDLnatU9hTaCPpG",
+    "path": "data/raw/clinicdb/train/images/462.png"
+  },
+  {
+    "id": "1oYbr3vMlvqMxhWWATq7HZPVZbgaXliH_",
+    "path": "data/raw/clinicdb/train/images/463.png"
+  },
+  {
+    "id": "1M0J8iI0dVVARt6uGfdrJ9VvPb4obiBZK",
+    "path": "data/raw/clinicdb/train/images/464.png"
+  },
+  {
+    "id": "1jWPD5gLF4f8xy4FaSxCJcoekX3vr3U6P",
+    "path": "data/raw/clinicdb/train/images/465.png"
+  },
+  {
+    "id": "1CN4yYt40mdpKoug8Glmr8AiarU47V3y-",
+    "path": "data/raw/clinicdb/train/images/466.png"
+  },
+  {
+    "id": "1uuZjphTAOR20NPzgwpE2mzflHPIhNFSr",
+    "path": "data/raw/clinicdb/train/images/467.png"
+  },
+  {
+    "id": "1-jXIvMQEN0atHpcBykCFbaezE0xLUApJ",
+    "path": "data/raw/clinicdb/train/images/469.png"
+  },
+  {
+    "id": "1NFkSgxwUBn9mYH_pxfhG6t3ltb_cB-rd",
+    "path": "data/raw/clinicdb/train/images/47.png"
+  },
+  {
+    "id": "1dxURnbDt4mz4eemxiCLcwvmMwo72Tr1w",
+    "path": "data/raw/clinicdb/train/images/470.png"
+  },
+  {
+    "id": "1_0DtiVeuUfAWvEPKqSAL_ZbY1HajluCH",
+    "path": "data/raw/clinicdb/train/images/472.png"
+  },
+  {
+    "id": "1_QmVw1Z0MSwEmknWF2JHzVm-nfus-vUG",
+    "path": "data/raw/clinicdb/train/images/474.png"
+  },
+  {
+    "id": "1EANQTltC_puZEhrBhAh3Iu2tVf01QenJ",
+    "path": "data/raw/clinicdb/train/images/475.png"
+  },
+  {
+    "id": "1n7wGum6FCbfXZpPhOY9Lw5cipmFFwafE",
+    "path": "data/raw/clinicdb/train/images/476.png"
+  },
+  {
+    "id": "1KpKxAaWhlAN0Qpu_NjChlj71RnIci5HP",
+    "path": "data/raw/clinicdb/train/images/477.png"
+  },
+  {
+    "id": "1BWio89YebiDEiA-R_00CtDDnan1h6umd",
+    "path": "data/raw/clinicdb/train/images/478.png"
+  },
+  {
+    "id": "1BpyuHhKTtdaw6wsUbOdwfSzm_X4gqiaI",
+    "path": "data/raw/clinicdb/train/images/479.png"
+  },
+  {
+    "id": "19XwSk8E3cbztzt3lEqmHjrUUxani7054",
+    "path": "data/raw/clinicdb/train/images/48.png"
+  },
+  {
+    "id": "1E49Cw2x2XDEYtDjA9_zPUuUggTsWXy6Y",
+    "path": "data/raw/clinicdb/train/images/480.png"
+  },
+  {
+    "id": "1SK2If-yylln9ticqvbr6eqsh-ilPSLLN",
+    "path": "data/raw/clinicdb/train/images/481.png"
+  },
+  {
+    "id": "1JCRBgqutskcQZwgpJbDX2W-oT86w_TNn",
+    "path": "data/raw/clinicdb/train/images/482.png"
+  },
+  {
+    "id": "1EXmZINrBKz9maSHgbr1H6PxM1vpbbz1m",
+    "path": "data/raw/clinicdb/train/images/483.png"
+  },
+  {
+    "id": "1je1PAp9LuwlTzFX2Ke0RzchJyeMqwU3-",
+    "path": "data/raw/clinicdb/train/images/484.png"
+  },
+  {
+    "id": "1uxen6BbT0P7wPfIBVlh4S9_wdEslMyQd",
+    "path": "data/raw/clinicdb/train/images/485.png"
+  },
+  {
+    "id": "1ReMj8fNySkTJCmNm_AwCYpsR0R5sd3iR",
+    "path": "data/raw/clinicdb/train/images/489.png"
+  },
+  {
+    "id": "1yR79aMRo_I4AVHV6QIqhu9IrONKuLX94",
+    "path": "data/raw/clinicdb/train/images/49.png"
+  },
+  {
+    "id": "1TDAaecQymov_iKYsg--tH89OevAcI8km",
+    "path": "data/raw/clinicdb/train/images/490.png"
+  },
+  {
+    "id": "1UmyymNRkeHvUq_iAljw4i5HZZMOvuXZp",
+    "path": "data/raw/clinicdb/train/images/492.png"
+  },
+  {
+    "id": "1ViV2LhKiQfN75fxE25a8VXTgG-bboISQ",
+    "path": "data/raw/clinicdb/train/images/493.png"
+  },
+  {
+    "id": "117-ILlA2NSU59rN8W7cJfZUW_Y9Y4JB3",
+    "path": "data/raw/clinicdb/train/images/495.png"
+  },
+  {
+    "id": "1tHwV2EOCaFQlKXROAYMQlpk-IDNrkDPr",
+    "path": "data/raw/clinicdb/train/images/496.png"
+  },
+  {
+    "id": "1pK3Zv3V2J7i7cr5j2PF-0Sof8Xim2xSD",
+    "path": "data/raw/clinicdb/train/images/498.png"
+  },
+  {
+    "id": "1O0Ha9v4TB8cWdSqwdVFsKdx-WMT9pTKE",
+    "path": "data/raw/clinicdb/train/images/499.png"
+  },
+  {
+    "id": "1K5kbyB2v40gKeKHBdm9av2ADmQPGKOAD",
+    "path": "data/raw/clinicdb/train/images/50.png"
+  },
+  {
+    "id": "1acjdRTUwsAmn0PH_NNNyyNkxk_hSBG0s",
+    "path": "data/raw/clinicdb/train/images/500.png"
+  },
+  {
+    "id": "1xmPqBQ7wygU7iJprE4B4N5Q9BFy82g4x",
+    "path": "data/raw/clinicdb/train/images/501.png"
+  },
+  {
+    "id": "1IdABpBHDMJfRXOCGPX_gy87HfxGRiFJ0",
+    "path": "data/raw/clinicdb/train/images/502.png"
+  },
+  {
+    "id": "1rccxukrKFeu9irV4sPbcfIJ4gM1CuRcf",
+    "path": "data/raw/clinicdb/train/images/503.png"
+  },
+  {
+    "id": "1HTpXqSrkxoytRi3LonyCdZiWucEtOERA",
+    "path": "data/raw/clinicdb/train/images/504.png"
+  },
+  {
+    "id": "1wkZ31UZ65A6vqu7XoQ0Z-rWYqJidJLUO",
+    "path": "data/raw/clinicdb/train/images/508.png"
+  },
+  {
+    "id": "1N2AJE1JLpwA4FBCeAHU12fhOPgIrdff-",
+    "path": "data/raw/clinicdb/train/images/509.png"
+  },
+  {
+    "id": "1Rhk6cHufR7Agf_OYsOr5MEV2yXsOtIvb",
+    "path": "data/raw/clinicdb/train/images/51.png"
+  },
+  {
+    "id": "1CjJZSBFuaqPXUnHpEv1leppyHUq71TeY",
+    "path": "data/raw/clinicdb/train/images/510.png"
+  },
+  {
+    "id": "1alWIcqV_Ey4DPrAC_yduMHifI_UWB7TO",
+    "path": "data/raw/clinicdb/train/images/511.png"
+  },
+  {
+    "id": "1V0PkNs00J8wwDlVduGvNmUApc-3Y6MMe",
+    "path": "data/raw/clinicdb/train/images/512.png"
+  },
+  {
+    "id": "15_jB7SI1KrRmgAjus0n2oO_V-MGFq6_b",
+    "path": "data/raw/clinicdb/train/images/515.png"
+  },
+  {
+    "id": "1vf1uws5OWjYH7HSUim3y2X9Ho_L_xvMz",
+    "path": "data/raw/clinicdb/train/images/517.png"
+  },
+  {
+    "id": "1pwrZ9AP32I17q6zajIv94u66vwOsWO3W",
+    "path": "data/raw/clinicdb/train/images/518.png"
+  },
+  {
+    "id": "1AFhq6lsup6Cs-OLj9GlZ1Odu_ZWD4Ip9",
+    "path": "data/raw/clinicdb/train/images/519.png"
+  },
+  {
+    "id": "1XxRso6eJNm60J9jA-5h6lISkAySS7G2o",
+    "path": "data/raw/clinicdb/train/images/52.png"
+  },
+  {
+    "id": "1dPQ_RZ-uV-4lbrv8jhDGaLlZT8qrzcd-",
+    "path": "data/raw/clinicdb/train/images/520.png"
+  },
+  {
+    "id": "1a1XGGZiowqgpv96lj7Gky2qnEmOoXyV0",
+    "path": "data/raw/clinicdb/train/images/521.png"
+  },
+  {
+    "id": "1TXrAZANdZYGn2F2E-xbMZN0En9s0ijj8",
+    "path": "data/raw/clinicdb/train/images/522.png"
+  },
+  {
+    "id": "1jKgh9RQuGC5tHZyARMJHd8EUtx8qWvwl",
+    "path": "data/raw/clinicdb/train/images/523.png"
+  },
+  {
+    "id": "1JzWGQir4pI7UdlPnAeDff_VsBCHeHbtX",
+    "path": "data/raw/clinicdb/train/images/524.png"
+  },
+  {
+    "id": "1AFpxprBKQmOYK9JNtUvUKn2PTiJlXQq-",
+    "path": "data/raw/clinicdb/train/images/525.png"
+  },
+  {
+    "id": "1kMnItbxFZzxWs0dwELXzG9jiZRyNYfbT",
+    "path": "data/raw/clinicdb/train/images/526.png"
+  },
+  {
+    "id": "1AIH3Hb6raeB97WYpHbnGGQhKesqW0WYl",
+    "path": "data/raw/clinicdb/train/images/527.png"
+  },
+  {
+    "id": "1FdXI3Ymo5dKxYmcJdvIhs4CkS43sbzFL",
+    "path": "data/raw/clinicdb/train/images/529.png"
+  },
+  {
+    "id": "1-a1Wl2J-0WCpsdCCfNpnr6BhDf5-j_IY",
+    "path": "data/raw/clinicdb/train/images/53.png"
+  },
+  {
+    "id": "1_pH7MLpZFZ2WpxrJsdLEdnArdPvXkf5l",
+    "path": "data/raw/clinicdb/train/images/530.png"
+  },
+  {
+    "id": "1nKh2Z0FIi8siqHUna4PHIu4z8jdrYnxB",
+    "path": "data/raw/clinicdb/train/images/532.png"
+  },
+  {
+    "id": "1RPoqJVn--GxLKH-M1RrCFTfxZ49coqKd",
+    "path": "data/raw/clinicdb/train/images/533.png"
+  },
+  {
+    "id": "1T8dlWJRQV1Q06b32-bRsqkdFMa1-PowK",
+    "path": "data/raw/clinicdb/train/images/534.png"
+  },
+  {
+    "id": "1LztDXuo3Dhc0M5rNNo5rNbdy0IG1mDLn",
+    "path": "data/raw/clinicdb/train/images/535.png"
+  },
+  {
+    "id": "1JLgqlkJdnWuUGUdaWYGk-5539A69vc6l",
+    "path": "data/raw/clinicdb/train/images/536.png"
+  },
+  {
+    "id": "1jI9ziP1vTMVocSAmU1qZKVxFQfCQSM10",
+    "path": "data/raw/clinicdb/train/images/537.png"
+  },
+  {
+    "id": "1IusuelBKO7rSjBOeowQYfHTHbPT_EE6Y",
+    "path": "data/raw/clinicdb/train/images/538.png"
+  },
+  {
+    "id": "1k7yv3zgwX5ANCfSad0dHVWZkZzgPV4vx",
+    "path": "data/raw/clinicdb/train/images/54.png"
+  },
+  {
+    "id": "1QlNKsCdZXW-vtWsh7xGKkdz2GLe8rlzX",
+    "path": "data/raw/clinicdb/train/images/540.png"
+  },
+  {
+    "id": "1hDM7_u0h4e9S-6GGikdZr997Ai2fTkjs",
+    "path": "data/raw/clinicdb/train/images/541.png"
+  },
+  {
+    "id": "1LJoo2xDMMgymZmTegtOxiHDdtfLKpd1W",
+    "path": "data/raw/clinicdb/train/images/542.png"
+  },
+  {
+    "id": "1t4BZkMl3zfNYR-JL1MXhU4v4xYar3o88",
+    "path": "data/raw/clinicdb/train/images/543.png"
+  },
+  {
+    "id": "1ZOB0MrBclktQyghHRpKmAz918ILpkpCS",
+    "path": "data/raw/clinicdb/train/images/544.png"
+  },
+  {
+    "id": "1kXLhBImompsYcnK2C6YLgGsj4YVAXFzQ",
+    "path": "data/raw/clinicdb/train/images/545.png"
+  },
+  {
+    "id": "1GxOx4DmvGLSTfq_nvB7ZnHY_YAy75J6O",
+    "path": "data/raw/clinicdb/train/images/546.png"
+  },
+  {
+    "id": "14I7vaYaMIUzNUomd2dMLBroKweqWCbvQ",
+    "path": "data/raw/clinicdb/train/images/547.png"
+  },
+  {
+    "id": "1UG6kTL-suO_p2m1lVu1HlfUyPrjZzfRv",
+    "path": "data/raw/clinicdb/train/images/549.png"
+  },
+  {
+    "id": "1FR8oU6rkwwwszyut5J-TddPEpaBiCWzc",
+    "path": "data/raw/clinicdb/train/images/55.png"
+  },
+  {
+    "id": "1-nzt7sW0rNClRW7MbS7IfCLBYG-nowtB",
+    "path": "data/raw/clinicdb/train/images/550.png"
+  },
+  {
+    "id": "1R5mZQzFvplMsZt9RLl6EnwCDTttSk2C-",
+    "path": "data/raw/clinicdb/train/images/551.png"
+  },
+  {
+    "id": "1OP1wyLRxIAwzfdFML6BVvo0oOcKJX3XX",
+    "path": "data/raw/clinicdb/train/images/553.png"
+  },
+  {
+    "id": "1vYtCLa6LWbW3SKuUeCLRTFnJlMH15AVO",
+    "path": "data/raw/clinicdb/train/images/554.png"
+  },
+  {
+    "id": "1Gqklm0SNNf3-ApgaNSa1qPiT-ZWjQxiB",
+    "path": "data/raw/clinicdb/train/images/556.png"
+  },
+  {
+    "id": "1i1AYW0pCsvvEQ87IwLKYr7DQmgSZHubW",
+    "path": "data/raw/clinicdb/train/images/557.png"
+  },
+  {
+    "id": "1BfvuAYpkfORQN204TyZFGLxWX8MNDEk_",
+    "path": "data/raw/clinicdb/train/images/558.png"
+  },
+  {
+    "id": "1B3JzLQ4NOgS1Ue6qRlsWtjrkGc0fmFNy",
+    "path": "data/raw/clinicdb/train/images/559.png"
+  },
+  {
+    "id": "12H4aXGZ89L5S1fTWdsOij89OFxKSz2Qt",
+    "path": "data/raw/clinicdb/train/images/56.png"
+  },
+  {
+    "id": "1o1gsW-W_LE8lB-J7i7TLf-TnJfeGE3pD",
+    "path": "data/raw/clinicdb/train/images/560.png"
+  },
+  {
+    "id": "1XJSe8eaXux9ZKcJ6GB_3WxWnNa3n0GfZ",
+    "path": "data/raw/clinicdb/train/images/561.png"
+  },
+  {
+    "id": "12rlytclZ1wOpsezW4rVB0-d267l1_usV",
+    "path": "data/raw/clinicdb/train/images/562.png"
+  },
+  {
+    "id": "1VlsRS9g4FBhzZqKprxD1EG8gqlQYhCKk",
+    "path": "data/raw/clinicdb/train/images/563.png"
+  },
+  {
+    "id": "1bscRLCRH3jRi0JB3lXocRL-HgRxcBVP6",
+    "path": "data/raw/clinicdb/train/images/564.png"
+  },
+  {
+    "id": "1sXzvDXU2tN83L6ZTgvdygzTSe4ZQdzi2",
+    "path": "data/raw/clinicdb/train/images/566.png"
+  },
+  {
+    "id": "1XqoZzZAdnoyrY8Yqtk4nZO5oh48aJykg",
+    "path": "data/raw/clinicdb/train/images/567.png"
+  },
+  {
+    "id": "1ijHjU35HIqrcCYKz6Et0pcZOlfu6BbeD",
+    "path": "data/raw/clinicdb/train/images/57.png"
+  },
+  {
+    "id": "1IP7aUryrwLaLB7NvwOq4LQ1M2PSZXm5m",
+    "path": "data/raw/clinicdb/train/images/570.png"
+  },
+  {
+    "id": "1oyWGl5Q5OjotQvcT1dYQp3V669iQotb8",
+    "path": "data/raw/clinicdb/train/images/571.png"
+  },
+  {
+    "id": "1BodHsp_Bh9wXOeSLD3E7KQJD3FXSlR85",
+    "path": "data/raw/clinicdb/train/images/573.png"
+  },
+  {
+    "id": "1D8LNhtOa_-iupBF3DFxsDHS9Zo6Br4fj",
+    "path": "data/raw/clinicdb/train/images/574.png"
+  },
+  {
+    "id": "1GfYlFPXHzbZxoJw56aW9PSIRKTu0WZGh",
+    "path": "data/raw/clinicdb/train/images/577.png"
+  },
+  {
+    "id": "1yB6baqMrGcwrp1Bqv08XkuY5YK47v-KO",
+    "path": "data/raw/clinicdb/train/images/578.png"
+  },
+  {
+    "id": "1CBmKrvMjUh7Rm843lYT2ACST9ry4Dryw",
+    "path": "data/raw/clinicdb/train/images/579.png"
+  },
+  {
+    "id": "1jZziYn5jkx9HE87-ilyM8o9EGuTRqWEG",
+    "path": "data/raw/clinicdb/train/images/58.png"
+  },
+  {
+    "id": "1VY1LTcneJ-4Mt_NqsvT_ihZBWaS_SmM7",
+    "path": "data/raw/clinicdb/train/images/580.png"
+  },
+  {
+    "id": "12CvQ9FZw7Or7MJ0xPwbzkR9g84mxuwwU",
+    "path": "data/raw/clinicdb/train/images/581.png"
+  },
+  {
+    "id": "1lpCsVwc6WNF9-Ejagam50d40fOILvSLX",
+    "path": "data/raw/clinicdb/train/images/582.png"
+  },
+  {
+    "id": "1uIkG966KT6He_2t1yHwL0mNWO7G977oW",
+    "path": "data/raw/clinicdb/train/images/583.png"
+  },
+  {
+    "id": "1uXWPirEjrEq0jiibz_B7OqfVRlmh0y2G",
+    "path": "data/raw/clinicdb/train/images/584.png"
+  },
+  {
+    "id": "1y0QSVl7sBFdnPxCcECuPjTaaU8MvMNQu",
+    "path": "data/raw/clinicdb/train/images/585.png"
+  },
+  {
+    "id": "1XkARh5yFP0nnJMtt6d6EvpIQf3DVczMP",
+    "path": "data/raw/clinicdb/train/images/586.png"
+  },
+  {
+    "id": "13Z6XT0niGRAILV3lfi-s7WKmypVHzon9",
+    "path": "data/raw/clinicdb/train/images/587.png"
+  },
+  {
+    "id": "1qJuJOTvMZEtfkdYSoRai_-05TEyPN9Y3",
+    "path": "data/raw/clinicdb/train/images/588.png"
+  },
+  {
+    "id": "16hsjy7-D8LGm4UFFlM3dSPLBuoRyC2me",
+    "path": "data/raw/clinicdb/train/images/589.png"
+  },
+  {
+    "id": "1CHNjM5QIGGLseJioXXf_o6Jz1GINr9YS",
+    "path": "data/raw/clinicdb/train/images/592.png"
+  },
+  {
+    "id": "1gdJPZOuVg28dws5SYQdf-yeJl1Kv-WF1",
+    "path": "data/raw/clinicdb/train/images/595.png"
+  },
+  {
+    "id": "1QM00iFDtC6R_1tApwiP5xjtyPo7DeOjD",
+    "path": "data/raw/clinicdb/train/images/596.png"
+  },
+  {
+    "id": "1u7EF-2DrYnx4SsEDEs6uILjoeRwjcCx3",
+    "path": "data/raw/clinicdb/train/images/597.png"
+  },
+  {
+    "id": "1kcRAuP3owu8_T435m4N11Ac4EJ4NZYvQ",
+    "path": "data/raw/clinicdb/train/images/598.png"
+  },
+  {
+    "id": "11T84lGMmXnLbfxOrxhBqoSNhZwxxOGIv",
+    "path": "data/raw/clinicdb/train/images/599.png"
+  },
+  {
+    "id": "1ZTEK81qAJqZkS7qlHeZ1meGxTR5KTuA0",
+    "path": "data/raw/clinicdb/train/images/6.png"
+  },
+  {
+    "id": "1te0ogJiwclFBljsf1zLCJL9eJReQjavr",
+    "path": "data/raw/clinicdb/train/images/600.png"
+  },
+  {
+    "id": "12Kj2INEbDgl6FAa-4hTJT46Y8OyDC5h0",
+    "path": "data/raw/clinicdb/train/images/601.png"
+  },
+  {
+    "id": "1rJoGLqn9zqwDV06PMCUsOtY-6XQDkLRl",
+    "path": "data/raw/clinicdb/train/images/602.png"
+  },
+  {
+    "id": "1I0j08SKw5iZaCirACrbaSa8QdC31TuC1",
+    "path": "data/raw/clinicdb/train/images/603.png"
+  },
+  {
+    "id": "1ZXUPTF8NGvEZhaX5QlGxsehjb6zKxLaS",
+    "path": "data/raw/clinicdb/train/images/604.png"
+  },
+  {
+    "id": "1UcJSSGFCaiLuogk0WnpJPaXf560zLyVD",
+    "path": "data/raw/clinicdb/train/images/605.png"
+  },
+  {
+    "id": "1o6YCwtmh9m8bMCsWe3kKYdTjod3ZhpRi",
+    "path": "data/raw/clinicdb/train/images/606.png"
+  },
+  {
+    "id": "1rdc7nGTssi4ybDplsoG7w-f9KKQ81rOg",
+    "path": "data/raw/clinicdb/train/images/607.png"
+  },
+  {
+    "id": "17K3MVcyRxZzuvpUHgRWWANTSfBziXkbY",
+    "path": "data/raw/clinicdb/train/images/609.png"
+  },
+  {
+    "id": "1XSiQNJ1Pn_tPaVw8TNW6rM_cuD96m4kt",
+    "path": "data/raw/clinicdb/train/images/61.png"
+  },
+  {
+    "id": "1q7ebIW_bCQ1EvcB-RKGH_3jPOrSjL4in",
+    "path": "data/raw/clinicdb/train/images/610.png"
+  },
+  {
+    "id": "1eBU1dlZJAI4j-tUHuEI_vFWbPzc89wNM",
+    "path": "data/raw/clinicdb/train/images/611.png"
+  },
+  {
+    "id": "19dA3lZhTZnGSCMhHn4orGf_wA34Eu4JP",
+    "path": "data/raw/clinicdb/train/images/612.png"
+  },
+  {
+    "id": "1kbN6BJ8687B_pQLkUAzKk0OdY6sAJ1v3",
+    "path": "data/raw/clinicdb/train/images/62.png"
+  },
+  {
+    "id": "1HmLlMVkavox97iSgeeoQltUy1GG2z44C",
+    "path": "data/raw/clinicdb/train/images/63.png"
+  },
+  {
+    "id": "1Md4JVKDGu5-ssXmTOdunq9O3R6heMJlm",
+    "path": "data/raw/clinicdb/train/images/65.png"
+  },
+  {
+    "id": "1pryy-1dERkgCcDisjL2cxXxENfquhN2T",
+    "path": "data/raw/clinicdb/train/images/66.png"
+  },
+  {
+    "id": "1J13dKv0ugJGSlmjs7lHxvxnmvXwmzKCJ",
+    "path": "data/raw/clinicdb/train/images/67.png"
+  },
+  {
+    "id": "1qL0IsgkLyic59trLo5Ill3lKhr1zWdQH",
+    "path": "data/raw/clinicdb/train/images/68.png"
+  },
+  {
+    "id": "1Q-2i7MNF5pei5NKZsxQcKy2ftDD9k_TM",
+    "path": "data/raw/clinicdb/train/images/69.png"
+  },
+  {
+    "id": "1ATcmbLbvCKyfNPo8WhQpYzhud7IQuWCs",
+    "path": "data/raw/clinicdb/train/images/7.png"
+  },
+  {
+    "id": "1mz9j7bHi7uzzPlninCmjzQ-yjEudobbg",
+    "path": "data/raw/clinicdb/train/images/70.png"
+  },
+  {
+    "id": "1PromJvwwgGRbmR9EMxrlT7Fde9JgWcfe",
+    "path": "data/raw/clinicdb/train/images/71.png"
+  },
+  {
+    "id": "1wmGKrZ7fhycHDdS6D-5BcIb_ypHfzvAS",
+    "path": "data/raw/clinicdb/train/images/72.png"
+  },
+  {
+    "id": "1ac-6N33_fS2a7_Mf0KKHiHIVlq6_Ku8B",
+    "path": "data/raw/clinicdb/train/images/73.png"
+  },
+  {
+    "id": "1yL4OCLuFqgNn8SxuZHmJOSbT9fzd_pFQ",
+    "path": "data/raw/clinicdb/train/images/74.png"
+  },
+  {
+    "id": "1PeA2bb14aB_8IxhGTiCmhNJgBJzP4Zk1",
+    "path": "data/raw/clinicdb/train/images/75.png"
+  },
+  {
+    "id": "1Gp7z_ELVLkdfqC2OHo79ZKnXeK1LyYtE",
+    "path": "data/raw/clinicdb/train/images/76.png"
+  },
+  {
+    "id": "1tnnL0GGb_vVo9qKP8-vP8wHpL5mZZHrQ",
+    "path": "data/raw/clinicdb/train/images/77.png"
+  },
+  {
+    "id": "1ksk_TEcyfg2twcOqP2fd9rqhtL3sRXq-",
+    "path": "data/raw/clinicdb/train/images/78.png"
+  },
+  {
+    "id": "1lUcOTPBBp05gVQBXbyYyAqWjjb8ctgUu",
+    "path": "data/raw/clinicdb/train/images/79.png"
+  },
+  {
+    "id": "15yy1xFGM7wThePVQX_1NO9vDJaTnXzqx",
+    "path": "data/raw/clinicdb/train/images/82.png"
+  },
+  {
+    "id": "1KnJyv2oE_bz5_unMWhrnJZvybO6msgzT",
+    "path": "data/raw/clinicdb/train/images/83.png"
+  },
+  {
+    "id": "1jrF1dH70UJFCNC1iuqVARSzanHi4qM6o",
+    "path": "data/raw/clinicdb/train/images/84.png"
+  },
+  {
+    "id": "1WZsI_d1IkxVPvvirhcj_9bmVEOWmycDQ",
+    "path": "data/raw/clinicdb/train/images/85.png"
+  },
+  {
+    "id": "1P7dxfX7MGDXJRZdKK1Kn0vuwC6FKe3Ao",
+    "path": "data/raw/clinicdb/train/images/86.png"
+  },
+  {
+    "id": "1r6VY4fYG5SyqCOgRqXWeLWsrDD57CxT8",
+    "path": "data/raw/clinicdb/train/images/87.png"
+  },
+  {
+    "id": "1tWVO6hM4PM3EB-I5Abw7MSYBoRli64XY",
+    "path": "data/raw/clinicdb/train/images/88.png"
+  },
+  {
+    "id": "1f-ZiVa9UoIIgb_Nz4koku61CSBUwgSnl",
+    "path": "data/raw/clinicdb/train/images/9.png"
+  },
+  {
+    "id": "1DHiaDkGW9ESvTipFd1vb2yHnWY04ydKC",
+    "path": "data/raw/clinicdb/train/images/90.png"
+  },
+  {
+    "id": "1lKEMcbewwPVEj_x4ImV3Anxs_y_cEm1C",
+    "path": "data/raw/clinicdb/train/images/91.png"
+  },
+  {
+    "id": "1SnEqbesED5OOAsXYnG9hglAGUcYxPV1w",
+    "path": "data/raw/clinicdb/train/images/92.png"
+  },
+  {
+    "id": "12X4ES-yEw5tHGOYh3LHh3Jqrbi4Av90v",
+    "path": "data/raw/clinicdb/train/images/93.png"
+  },
+  {
+    "id": "1s1VM12DJwvdToHrBVijt5omGXdn6uq9_",
+    "path": "data/raw/clinicdb/train/images/94.png"
+  },
+  {
+    "id": "18nwLqdSEHuoELWeKp2ZXQWwv69ZtmF8U",
+    "path": "data/raw/clinicdb/train/images/95.png"
+  },
+  {
+    "id": "1PMQiQGvC_XBX38MWU54s-PXwLHuHT6k6",
+    "path": "data/raw/clinicdb/train/images/96.png"
+  },
+  {
+    "id": "1YJIUgzCkPyp66rgao23VOQrsmbaxfl1f",
+    "path": "data/raw/clinicdb/train/images/97.png"
+  },
+  {
+    "id": "1R6y18uPjFk3gpi4RcYMZLuioa1i8mtqF",
+    "path": "data/raw/clinicdb/train/images/98.png"
+  },
+  {
+    "id": "1FPnHiMHZVQKHEbWd54qnXqlMti3t-NoD",
+    "path": "data/raw/clinicdb/train/images/99.png"
+  },
+  {
+    "id": "1CpOxwux_9avGEIE-WxFADnl1wlWa70kn",
+    "path": "data/raw/clinicdb/train/masks/1.png"
+  },
+  {
+    "id": "1geUdmfgaYP74ZzbVDTMHdfxEpNsXK0uV",
+    "path": "data/raw/clinicdb/train/masks/100.png"
+  },
+  {
+    "id": "18fP18todbwpt7rV6biqp5OFSsgJTz7Qi",
+    "path": "data/raw/clinicdb/train/masks/101.png"
+  },
+  {
+    "id": "1xPsdnEWHFucId6N0hjpgZEqbCK75CZDx",
+    "path": "data/raw/clinicdb/train/masks/102.png"
+  },
+  {
+    "id": "1-njdrPSGeR3bg3U7HipJqRRFRE6gxLjg",
+    "path": "data/raw/clinicdb/train/masks/103.png"
+  },
+  {
+    "id": "14P-UkERXJ5bm9GXGhlsAs0Lo3FuK3xbo",
+    "path": "data/raw/clinicdb/train/masks/104.png"
+  },
+  {
+    "id": "1rmEo831yxrNqUB2BaqCDRXt3yNzmU2jX",
+    "path": "data/raw/clinicdb/train/masks/105.png"
+  },
+  {
+    "id": "1reXJ6aCBBI_HSu08Gy5Z3g8eXNY09i1A",
+    "path": "data/raw/clinicdb/train/masks/106.png"
+  },
+  {
+    "id": "1FLoCWX6T3Scxy5uxT7iU_Z9MM2CqK9PG",
+    "path": "data/raw/clinicdb/train/masks/107.png"
+  },
+  {
+    "id": "1-u8i7iazrlMFdDK3n51DeN8tJIZTVB5h",
+    "path": "data/raw/clinicdb/train/masks/108.png"
+  },
+  {
+    "id": "1KMNgojuMog7yT2xbfLhlK9Vk2B4TVlTD",
+    "path": "data/raw/clinicdb/train/masks/11.png"
+  },
+  {
+    "id": "1I35WkldCf7Zl086RI-Re3DvI6lUbPgea",
+    "path": "data/raw/clinicdb/train/masks/110.png"
+  },
+  {
+    "id": "1a42Y4tjfxavuPQV_9TxQUMROnJ5b8kiF",
+    "path": "data/raw/clinicdb/train/masks/111.png"
+  },
+  {
+    "id": "1gxTSk0CBu8X9X61BK5Tw6b8Kiaq85NpJ",
+    "path": "data/raw/clinicdb/train/masks/112.png"
+  },
+  {
+    "id": "1K75tME6YI4dK67SsWOzw84jqx009OHJa",
+    "path": "data/raw/clinicdb/train/masks/113.png"
+  },
+  {
+    "id": "1k1vuMMC57duVscBnvzRmNEFPb0Mf3EUO",
+    "path": "data/raw/clinicdb/train/masks/114.png"
+  },
+  {
+    "id": "1-Pe_tbhC6QO40KDjaRIHQeMY-w86BR_1",
+    "path": "data/raw/clinicdb/train/masks/115.png"
+  },
+  {
+    "id": "1ORL5TNT4y0TAfl8NBFe1u9U_61OkFBYO",
+    "path": "data/raw/clinicdb/train/masks/116.png"
+  },
+  {
+    "id": "10JhQFP5ebC3px1bhRuKNEyIS06hr5uJZ",
+    "path": "data/raw/clinicdb/train/masks/118.png"
+  },
+  {
+    "id": "1tHKGlpvY_T9YRXEkTRTr4vvMeCX0inRR",
+    "path": "data/raw/clinicdb/train/masks/119.png"
+  },
+  {
+    "id": "1sfTwazqgk15z25lTaT2sqKHuPAQaV-6B",
+    "path": "data/raw/clinicdb/train/masks/12.png"
+  },
+  {
+    "id": "1p_cMMDPo3Bewe_zDOvfTByuyVJlwCeqg",
+    "path": "data/raw/clinicdb/train/masks/120.png"
+  },
+  {
+    "id": "1hDFbwZGmzbvz1-YoEgOuwTZO__q2oIfn",
+    "path": "data/raw/clinicdb/train/masks/121.png"
+  },
+  {
+    "id": "1yprNjM9Dv_uGx22gzIDK-l6HT2t0L6Wf",
+    "path": "data/raw/clinicdb/train/masks/122.png"
+  },
+  {
+    "id": "1a1bGwT6OtUZl2lpdRiDsnyGjY0di7gLD",
+    "path": "data/raw/clinicdb/train/masks/123.png"
+  },
+  {
+    "id": "1wjJUvcMdBqM6k9JwpPotLo_7Lnntklih",
+    "path": "data/raw/clinicdb/train/masks/124.png"
+  },
+  {
+    "id": "1HiyLX48UadLFiIlMP668-XXvfKK_exkG",
+    "path": "data/raw/clinicdb/train/masks/126.png"
+  },
+  {
+    "id": "1iknvVLMCMfwVKtdZ_EEKSwCa57RhJvbD",
+    "path": "data/raw/clinicdb/train/masks/127.png"
+  },
+  {
+    "id": "1YNEUDsRBTyn_xLkVPdbkVe3Kr3YGIyMU",
+    "path": "data/raw/clinicdb/train/masks/13.png"
+  },
+  {
+    "id": "13glVGgG7miGoAIzJ-hbP8OoUlJhtPgy6",
+    "path": "data/raw/clinicdb/train/masks/130.png"
+  },
+  {
+    "id": "1ET_xCBq8IYcbC_9r9XzE1UIHzQJMdmGM",
+    "path": "data/raw/clinicdb/train/masks/131.png"
+  },
+  {
+    "id": "1XkZAqSAks6WZcgkuoHJPrmc0v07FKJ1d",
+    "path": "data/raw/clinicdb/train/masks/132.png"
+  },
+  {
+    "id": "1t5cwUp7zjaQbxS5ywof7GlxUfB-AvL5W",
+    "path": "data/raw/clinicdb/train/masks/133.png"
+  },
+  {
+    "id": "1IpL10U_nMVmnbu8jBPKIOLTcI3-MHWdY",
+    "path": "data/raw/clinicdb/train/masks/134.png"
+  },
+  {
+    "id": "1YDHGIp1CwKodqdTpUpN5Ua_py4AaGep0",
+    "path": "data/raw/clinicdb/train/masks/135.png"
+  },
+  {
+    "id": "15GgorTUriu5e2gB3HyT7U_4vnByjyuBZ",
+    "path": "data/raw/clinicdb/train/masks/136.png"
+  },
+  {
+    "id": "1HTcl_1wD4fvn0tXT-GGEKMEPcCp6zOXF",
+    "path": "data/raw/clinicdb/train/masks/137.png"
+  },
+  {
+    "id": "1vLP0zmZ4_UrZrHCBW4BWrndfWQoy1MHc",
+    "path": "data/raw/clinicdb/train/masks/138.png"
+  },
+  {
+    "id": "1_sGI1AjZgZLtZX6C5wcpynX9ffoIKSbY",
+    "path": "data/raw/clinicdb/train/masks/14.png"
+  },
+  {
+    "id": "1damPDOdQKZA1IqNn6hJy29Wty8jy4-EP",
+    "path": "data/raw/clinicdb/train/masks/140.png"
+  },
+  {
+    "id": "1IcZQiz2D5yL_Za7C1SD6d2kgX4ANCxfF",
+    "path": "data/raw/clinicdb/train/masks/141.png"
+  },
+  {
+    "id": "1XVj51mGxBrOTkwZe_UbZ5y83gtkycaFH",
+    "path": "data/raw/clinicdb/train/masks/142.png"
+  },
+  {
+    "id": "18LYw7u8JnyNzEhGnRkAfbbblhj59bSyW",
+    "path": "data/raw/clinicdb/train/masks/143.png"
+  },
+  {
+    "id": "18v1-HLOH7LCXPs8dUrM2rC9hJssev8o4",
+    "path": "data/raw/clinicdb/train/masks/144.png"
+  },
+  {
+    "id": "1Ikl-ur1XhG2UtmN8mqtBMlu1u9GG-D5j",
+    "path": "data/raw/clinicdb/train/masks/145.png"
+  },
+  {
+    "id": "1YUnzK3io0MCfqkknD0gdfpnDsG3QdvbO",
+    "path": "data/raw/clinicdb/train/masks/146.png"
+  },
+  {
+    "id": "1lZGsemP7LgJRQatf4k-5p0wgSxAWF-JH",
+    "path": "data/raw/clinicdb/train/masks/147.png"
+  },
+  {
+    "id": "1FJGdteMXMG7TLcqPFa_q8JrdREAhGSAg",
+    "path": "data/raw/clinicdb/train/masks/148.png"
+  },
+  {
+    "id": "1IsrH7RvLi7FkSwa5FAOt4l67RvbDXBMy",
+    "path": "data/raw/clinicdb/train/masks/149.png"
+  },
+  {
+    "id": "11iIaNeMQfjgpuFGnjvbbbseO5vMqqhxG",
+    "path": "data/raw/clinicdb/train/masks/15.png"
+  },
+  {
+    "id": "1pJDCeylUWaOkQB_iwHaMyCpaI1mixHa-",
+    "path": "data/raw/clinicdb/train/masks/150.png"
+  },
+  {
+    "id": "1M0gnlLTuUAyfTv1N5R6cX5IHc0wt-BGK",
+    "path": "data/raw/clinicdb/train/masks/151.png"
+  },
+  {
+    "id": "1xNS0sLSaVtqXBS_8UuNt_7PhbeSNK2mb",
+    "path": "data/raw/clinicdb/train/masks/152.png"
+  },
+  {
+    "id": "1blTcAswbhYgz_YUdmd4miLJg53iV5jVW",
+    "path": "data/raw/clinicdb/train/masks/153.png"
+  },
+  {
+    "id": "1yJZtCdI22M0AofZ9wF9Pw7KXjTnVqOmD",
+    "path": "data/raw/clinicdb/train/masks/154.png"
+  },
+  {
+    "id": "1nkm0MMn5aHLsxfCYruZFxQt6kTxG00PY",
+    "path": "data/raw/clinicdb/train/masks/155.png"
+  },
+  {
+    "id": "18Ylq7cw7xV-aKPy1Kt-TllrRD4CmZ2GA",
+    "path": "data/raw/clinicdb/train/masks/157.png"
+  },
+  {
+    "id": "1lDIq4z293-e8rnDl9JHVqcGGrBYsKWXw",
+    "path": "data/raw/clinicdb/train/masks/158.png"
+  },
+  {
+    "id": "1owQ_HdNiPTNO4BnM9TFBBRLDaFtx5cGa",
+    "path": "data/raw/clinicdb/train/masks/16.png"
+  },
+  {
+    "id": "1EB9ge2OW13bNTHy0JbbKi3waMQqjPqZO",
+    "path": "data/raw/clinicdb/train/masks/160.png"
+  },
+  {
+    "id": "140ObKeK_U-nHcCG21kEwW8PbAky5I1se",
+    "path": "data/raw/clinicdb/train/masks/161.png"
+  },
+  {
+    "id": "14AMEhklqri0vwmlnM9V1wR4CxKHpjWbr",
+    "path": "data/raw/clinicdb/train/masks/162.png"
+  },
+  {
+    "id": "1uZCr6DoEynch7oqVXrcImdfD-X2o8V_h",
+    "path": "data/raw/clinicdb/train/masks/164.png"
+  },
+  {
+    "id": "1CgL6XHZ45-MXzpijP3YVlGnHF4JUNFIu",
+    "path": "data/raw/clinicdb/train/masks/165.png"
+  },
+  {
+    "id": "1BhNlUxXPif-hZ-IFU-d4IBWsg4sA-Y3A",
+    "path": "data/raw/clinicdb/train/masks/166.png"
+  },
+  {
+    "id": "1cvw1KZY8ExMT2dTAMUgsxwEK5hcvXjyt",
+    "path": "data/raw/clinicdb/train/masks/168.png"
+  },
+  {
+    "id": "1ChmJMJUxnONAV7N8OIlSl9Za07E026AO",
+    "path": "data/raw/clinicdb/train/masks/17.png"
+  },
+  {
+    "id": "14CnNFrIfyY6Z9j4kFqBVaoXmDnlKjppU",
+    "path": "data/raw/clinicdb/train/masks/170.png"
+  },
+  {
+    "id": "1I4r6nhz6R8vhBThgyDRZ6S0MlTg6nYn-",
+    "path": "data/raw/clinicdb/train/masks/172.png"
+  },
+  {
+    "id": "1sLHOuPTTn_Lyov3Xn6O0TGt6-KX7yV6f",
+    "path": "data/raw/clinicdb/train/masks/174.png"
+  },
+  {
+    "id": "1gRheEuhH9S7tINy4qf312nHGkqmbyCoW",
+    "path": "data/raw/clinicdb/train/masks/175.png"
+  },
+  {
+    "id": "184oF4q9MwuN41BmZ1fB2C7BTPopuWu1S",
+    "path": "data/raw/clinicdb/train/masks/176.png"
+  },
+  {
+    "id": "1cGwOr_5gjX3fu2Jd3nish_PFREzsixCl",
+    "path": "data/raw/clinicdb/train/masks/177.png"
+  },
+  {
+    "id": "1aBC6q741fbF3KrLyK5k3gxkDVd-fPHHH",
+    "path": "data/raw/clinicdb/train/masks/178.png"
+  },
+  {
+    "id": "1yL3kKfbuJEgyWZ2nfSpgbWeIg20uUpNy",
+    "path": "data/raw/clinicdb/train/masks/179.png"
+  },
+  {
+    "id": "1aIFUHUKvnlgEJpNTSQYVTFvNub1YFlBY",
+    "path": "data/raw/clinicdb/train/masks/18.png"
+  },
+  {
+    "id": "1r2JpEb75O9SepyLwD-59CE1G1ApNOuaA",
+    "path": "data/raw/clinicdb/train/masks/180.png"
+  },
+  {
+    "id": "1yhnWyQXOsOSEoOtjBPJFLB6EOKkUWTUL",
+    "path": "data/raw/clinicdb/train/masks/183.png"
+  },
+  {
+    "id": "1qXa7jTQU6ceFe_E5-cbYSj9oj3lyRLwz",
+    "path": "data/raw/clinicdb/train/masks/184.png"
+  },
+  {
+    "id": "1gbrh9YfPAy7AjT7co9KjoKsLaVMkth8U",
+    "path": "data/raw/clinicdb/train/masks/185.png"
+  },
+  {
+    "id": "1febit89THCDrj9PmbvqLIr-B2GtfqDNe",
+    "path": "data/raw/clinicdb/train/masks/186.png"
+  },
+  {
+    "id": "11SNCD1spA0q5Qfw2EOfVZ4H6g-Eg_iQs",
+    "path": "data/raw/clinicdb/train/masks/187.png"
+  },
+  {
+    "id": "1e-kHJNmmLUfQRLMfdnhPDblURpgNCKXO",
+    "path": "data/raw/clinicdb/train/masks/188.png"
+  },
+  {
+    "id": "17QtqXXdueneF-BMyw95TCtPJ89oZ15CW",
+    "path": "data/raw/clinicdb/train/masks/189.png"
+  },
+  {
+    "id": "1uhsKY0Cn0KrQWrOlYldJI84rnVbh8i8a",
+    "path": "data/raw/clinicdb/train/masks/19.png"
+  },
+  {
+    "id": "1Y1kXPZYvh4d7I34QckHZTpgrM-lVTbg5",
+    "path": "data/raw/clinicdb/train/masks/190.png"
+  },
+  {
+    "id": "1i4yDfoEGHdHIh50YVKNlCjpbRP1Z0FaE",
+    "path": "data/raw/clinicdb/train/masks/192.png"
+  },
+  {
+    "id": "1ILhFn_MXzzHjfoYpl1NHhjpbi0m3SjGY",
+    "path": "data/raw/clinicdb/train/masks/194.png"
+  },
+  {
+    "id": "1KBHJztrd-8EmdTl9g4hNDzcIVAPKlCzZ",
+    "path": "data/raw/clinicdb/train/masks/195.png"
+  },
+  {
+    "id": "12F0JIqkl8uKO2gkDi7QHKKVJJSx5UuRE",
+    "path": "data/raw/clinicdb/train/masks/196.png"
+  },
+  {
+    "id": "12o0mUZDqoTMyMOUvqsneNuCU_Du8nNhY",
+    "path": "data/raw/clinicdb/train/masks/2.png"
+  },
+  {
+    "id": "1k6Y05lMnCq7ZFwZocUthAyHixphUBGTB",
+    "path": "data/raw/clinicdb/train/masks/20.png"
+  },
+  {
+    "id": "1xSOHMjfvmfkftrbj1BAxulUA7LLqtXUR",
+    "path": "data/raw/clinicdb/train/masks/201.png"
+  },
+  {
+    "id": "1qs-3j4ekUd_C87N-VD4GR286dpkzPlDz",
+    "path": "data/raw/clinicdb/train/masks/202.png"
+  },
+  {
+    "id": "1dwm36k3kvzVXvxQ6bbk0QT7tM2IVbLMA",
+    "path": "data/raw/clinicdb/train/masks/204.png"
+  },
+  {
+    "id": "13AvZZWtMg3KD50aFWSl-XcetxXlyRCQm",
+    "path": "data/raw/clinicdb/train/masks/205.png"
+  },
+  {
+    "id": "1jwje6kbByuesiZWLumXCo9W8E0wG_3BJ",
+    "path": "data/raw/clinicdb/train/masks/206.png"
+  },
+  {
+    "id": "1lsQsP0w6vPmE-7sywGQgWhitC4Vrld51",
+    "path": "data/raw/clinicdb/train/masks/207.png"
+  },
+  {
+    "id": "1_Hvg4WxgxK7TV7VDO9S9ENPFZMGaCjq3",
+    "path": "data/raw/clinicdb/train/masks/208.png"
+  },
+  {
+    "id": "1MkKVc42MTNJPquAKWYHpPDuATqcvIxc8",
+    "path": "data/raw/clinicdb/train/masks/209.png"
+  },
+  {
+    "id": "1PCR0m5E2wMnnRUb3qVtVPmKFFsKxvZzf",
+    "path": "data/raw/clinicdb/train/masks/21.png"
+  },
+  {
+    "id": "1LpKHsPzPy3AeaiE0mblc8rZLkuZwUDFJ",
+    "path": "data/raw/clinicdb/train/masks/210.png"
+  },
+  {
+    "id": "1TWBqumf4EytMpVH6mZ26DexPDHX3l-Wx",
+    "path": "data/raw/clinicdb/train/masks/211.png"
+  },
+  {
+    "id": "1p9a8BNN0tL2Z7D0KMgKR35gnw6DrXRaw",
+    "path": "data/raw/clinicdb/train/masks/213.png"
+  },
+  {
+    "id": "1Jsaaf7L8e2gGd5YkOQewvlJdwsdCmY5w",
+    "path": "data/raw/clinicdb/train/masks/215.png"
+  },
+  {
+    "id": "1uQiW59gzRfV6aK4ChN4sSwwe2SFQIsdI",
+    "path": "data/raw/clinicdb/train/masks/216.png"
+  },
+  {
+    "id": "1kUi8uLdTnDto-o6_WQs60-f1znh5qfeW",
+    "path": "data/raw/clinicdb/train/masks/217.png"
+  },
+  {
+    "id": "1XYPHEvpeFks4BJEP78ebfialUfvYiDiF",
+    "path": "data/raw/clinicdb/train/masks/219.png"
+  },
+  {
+    "id": "1etaizOnTJdW7Y5Mbcxh0VEoHoWLQna6s",
+    "path": "data/raw/clinicdb/train/masks/22.png"
+  },
+  {
+    "id": "1Cy3sYxJ0vLd2hFiabv7txOAN6E4cNbxO",
+    "path": "data/raw/clinicdb/train/masks/221.png"
+  },
+  {
+    "id": "1JxbOmfU9qiAhULCn47duM4OigI8k2WI2",
+    "path": "data/raw/clinicdb/train/masks/224.png"
+  },
+  {
+    "id": "1EE5iRybXezkC9zBNwnkg9y58s4QMmsdT",
+    "path": "data/raw/clinicdb/train/masks/226.png"
+  },
+  {
+    "id": "1qigFSVcg-BYC-__mjbaK8iSscWbtwW0H",
+    "path": "data/raw/clinicdb/train/masks/227.png"
+  },
+  {
+    "id": "1AMyJIQJqvqA09mPVzDgYfeIVCz5V3Uwz",
+    "path": "data/raw/clinicdb/train/masks/23.png"
+  },
+  {
+    "id": "1u_b9n8dSOqMLhzTkbprBXWghoqjss6pW",
+    "path": "data/raw/clinicdb/train/masks/230.png"
+  },
+  {
+    "id": "1JAN8CAHbvrk_5_ADOwoLLZpe8v1TjGGE",
+    "path": "data/raw/clinicdb/train/masks/231.png"
+  },
+  {
+    "id": "1Nm_7uqY5MWir7zbtY1pBLN2KN5Ilrfvr",
+    "path": "data/raw/clinicdb/train/masks/233.png"
+  },
+  {
+    "id": "1WrWn0u1VrW3GoFpRefMWM8JbCUtlhFNC",
+    "path": "data/raw/clinicdb/train/masks/234.png"
+  },
+  {
+    "id": "1zn4f3UQChqLcURLV-8Ti2cCKAsQnY_eK",
+    "path": "data/raw/clinicdb/train/masks/235.png"
+  },
+  {
+    "id": "1q5MnRCO72998JUsf7dmtTY09ldt0te7K",
+    "path": "data/raw/clinicdb/train/masks/236.png"
+  },
+  {
+    "id": "19plyh7t6YymUFdTDjXgJkTZy4zsbyh80",
+    "path": "data/raw/clinicdb/train/masks/237.png"
+  },
+  {
+    "id": "1oUHBOqPN0WlPgyr-ne5l_c8mtD6nUvuh",
+    "path": "data/raw/clinicdb/train/masks/238.png"
+  },
+  {
+    "id": "1QZXo7bGM6A3X2U4643aEEHiq5f19J6iu",
+    "path": "data/raw/clinicdb/train/masks/239.png"
+  },
+  {
+    "id": "1C62696zjg2bIPyB89rvZnYF3pfUlQwxO",
+    "path": "data/raw/clinicdb/train/masks/24.png"
+  },
+  {
+    "id": "1AUCUP0LA8lADE7ZYb2sPbO6_fofQuhgD",
+    "path": "data/raw/clinicdb/train/masks/240.png"
+  },
+  {
+    "id": "14iotP812Cu4iQbb91FzfyRYg_dSFh6f7",
+    "path": "data/raw/clinicdb/train/masks/242.png"
+  },
+  {
+    "id": "129Y4K5vDqDpGA1IgrkqbMGoxRLSriAXB",
+    "path": "data/raw/clinicdb/train/masks/243.png"
+  },
+  {
+    "id": "1DvNPFtlshcvY8Kg-XXzfR69AcsvHXvjE",
+    "path": "data/raw/clinicdb/train/masks/245.png"
+  },
+  {
+    "id": "1W5LJFmgAKebOUnA31SBagEIkCySrEtHu",
+    "path": "data/raw/clinicdb/train/masks/246.png"
+  },
+  {
+    "id": "1B3t2zOI3tveOzpEx0Bxhp-ggJ6GfOvHz",
+    "path": "data/raw/clinicdb/train/masks/247.png"
+  },
+  {
+    "id": "1dbxD_yav5rxU3epO7wRebNAir4Qm8r8U",
+    "path": "data/raw/clinicdb/train/masks/249.png"
+  },
+  {
+    "id": "1CxZDjgZTUJLE6Wjc6zKQecK-0PNUOUBQ",
+    "path": "data/raw/clinicdb/train/masks/25.png"
+  },
+  {
+    "id": "1N6LFS9m2ZyaM8Fb7oJP4_2NWt16Z1HR3",
+    "path": "data/raw/clinicdb/train/masks/250.png"
+  },
+  {
+    "id": "1yrUJ1KEnsZPHYYOFjeRmccI4kNGGhMpW",
+    "path": "data/raw/clinicdb/train/masks/251.png"
+  },
+  {
+    "id": "1YB-4T3hAYsQ0281ii3wycs3SBQWdlJfU",
+    "path": "data/raw/clinicdb/train/masks/252.png"
+  },
+  {
+    "id": "19oYwMhZxAPkVDHVuET_38o6FBljtZVpZ",
+    "path": "data/raw/clinicdb/train/masks/253.png"
+  },
+  {
+    "id": "1AL5vNw5mv8ZXAcId1wt71BJG9GxmxRia",
+    "path": "data/raw/clinicdb/train/masks/255.png"
+  },
+  {
+    "id": "1DCrdyNS9sF4mjEBTZWK4_o6xipzgeMKu",
+    "path": "data/raw/clinicdb/train/masks/256.png"
+  },
+  {
+    "id": "1Pv7biTX06wFqrfn_o9mN1aNNdplycdYw",
+    "path": "data/raw/clinicdb/train/masks/257.png"
+  },
+  {
+    "id": "1sW85dCbeiCEKhyjdCv4JTNhJTf61dsy_",
+    "path": "data/raw/clinicdb/train/masks/258.png"
+  },
+  {
+    "id": "1bx2wfBTleIHoJs0Vr22CZ8ws04vuUFb6",
+    "path": "data/raw/clinicdb/train/masks/259.png"
+  },
+  {
+    "id": "1tkrx0B7wiOtYvB9Tr199UPRxr-WOMgXL",
+    "path": "data/raw/clinicdb/train/masks/26.png"
+  },
+  {
+    "id": "1ItsyuEUu7mIRWGT0ZGKObjWPbEI2xTxV",
+    "path": "data/raw/clinicdb/train/masks/260.png"
+  },
+  {
+    "id": "1iinpnpQlDnRXYXEsHK8wsWXeoATlCBMg",
+    "path": "data/raw/clinicdb/train/masks/261.png"
+  },
+  {
+    "id": "14Ie6e_5rB2QSeKT8Snwo-YkFVsyqlNO_",
+    "path": "data/raw/clinicdb/train/masks/264.png"
+  },
+  {
+    "id": "1ngGHKIkVMTFOwP-xLHh1htT8k3ra9HXb",
+    "path": "data/raw/clinicdb/train/masks/265.png"
+  },
+  {
+    "id": "18xEarSlzM7-Ry_9AIXI3nfBqATPMVJyL",
+    "path": "data/raw/clinicdb/train/masks/267.png"
+  },
+  {
+    "id": "1gyvnJyHHdwPUcC15GcifrnM4VRSwAA1v",
+    "path": "data/raw/clinicdb/train/masks/268.png"
+  },
+  {
+    "id": "1cSP-k1pMpb_sBGkIGB4c7Edv7QKkaaKf",
+    "path": "data/raw/clinicdb/train/masks/269.png"
+  },
+  {
+    "id": "1dN44R_thyrdACz3aIZODdb4wgKvPlWBG",
+    "path": "data/raw/clinicdb/train/masks/270.png"
+  },
+  {
+    "id": "14a7t803neaWN_VmFSrByGe10EafntHjd",
+    "path": "data/raw/clinicdb/train/masks/271.png"
+  },
+  {
+    "id": "1tNdY6NxNZ1hkPsWOtstIlLCqIZddabjv",
+    "path": "data/raw/clinicdb/train/masks/272.png"
+  },
+  {
+    "id": "1XnntaEyKDZOoj4LsnVCnL7RMZcenCxI8",
+    "path": "data/raw/clinicdb/train/masks/273.png"
+  },
+  {
+    "id": "1Rxe5rLz4_YaCKaoSWTvAxVx-l2qg1oVG",
+    "path": "data/raw/clinicdb/train/masks/274.png"
+  },
+  {
+    "id": "1NUTw9yzk6w2FI64Mw862jG0cV5eK5T-Y",
+    "path": "data/raw/clinicdb/train/masks/275.png"
+  },
+  {
+    "id": "1c_EudqdvweQ0R5fwF59m_DmC-9Yg4IJJ",
+    "path": "data/raw/clinicdb/train/masks/276.png"
+  },
+  {
+    "id": "1T3sqR1HCOXZfW8w23TwYlH7jHR7Sdx1s",
+    "path": "data/raw/clinicdb/train/masks/277.png"
+  },
+  {
+    "id": "1hsLpL4hPcb8NrhmOn6qzXZsF90UTKQr6",
+    "path": "data/raw/clinicdb/train/masks/278.png"
+  },
+  {
+    "id": "1Hm3J3XzN_fjztnn6HJqXoF8OOb-8sFuu",
+    "path": "data/raw/clinicdb/train/masks/28.png"
+  },
+  {
+    "id": "1jF7RGqdl-nyLY9nyjAvp7V9lQPvQKh2c",
+    "path": "data/raw/clinicdb/train/masks/280.png"
+  },
+  {
+    "id": "1eZhB4Xd1iMCbI5r3FjSwVK7P0FbhXfch",
+    "path": "data/raw/clinicdb/train/masks/281.png"
+  },
+  {
+    "id": "1xVnltyxQUSkP2rgMmB8Wvh4Sh0Cq3E4r",
+    "path": "data/raw/clinicdb/train/masks/282.png"
+  },
+  {
+    "id": "14-l4UvkU-WKhFGUKiSt6swPdUEGaaayV",
+    "path": "data/raw/clinicdb/train/masks/283.png"
+  },
+  {
+    "id": "1AApIwyji3qjSTwCIhKD6K1PuaaBTHCcI",
+    "path": "data/raw/clinicdb/train/masks/284.png"
+  },
+  {
+    "id": "1Yheqinmxh5kSusFmaJAm84IqIg_eNW7U",
+    "path": "data/raw/clinicdb/train/masks/285.png"
+  },
+  {
+    "id": "1fycxZTc-y53uHNQuCthO2HOZiLHJgK5m",
+    "path": "data/raw/clinicdb/train/masks/286.png"
+  },
+  {
+    "id": "18vt9tMOtSEifdQa6CTZ5mFZOtuh5BaH1",
+    "path": "data/raw/clinicdb/train/masks/288.png"
+  },
+  {
+    "id": "1G9Z9_BzY9Om9_6MRtwXJ1VnlqPcuuc4k",
+    "path": "data/raw/clinicdb/train/masks/289.png"
+  },
+  {
+    "id": "1yZrKPcODhPMpszKAHeu9TrQtwfhD9FQT",
+    "path": "data/raw/clinicdb/train/masks/290.png"
+  },
+  {
+    "id": "1cNMfVFnfyBZNcanMDvjH84tfjqqG1lB-",
+    "path": "data/raw/clinicdb/train/masks/291.png"
+  },
+  {
+    "id": "1-plcfhhS0-NQ6KmOHcD_FYyuDnxS8g2R",
+    "path": "data/raw/clinicdb/train/masks/292.png"
+  },
+  {
+    "id": "1RiGvKc2RbWZhRAEKwe7l3ed65F08DQcy",
+    "path": "data/raw/clinicdb/train/masks/293.png"
+  },
+  {
+    "id": "1n-7Iec-u7s6cLkyU5JE8JbeAx2-h1mIQ",
+    "path": "data/raw/clinicdb/train/masks/294.png"
+  },
+  {
+    "id": "1U1wqyUKYnO2aJUcZbEN-RE7KzMQB9qaG",
+    "path": "data/raw/clinicdb/train/masks/296.png"
+  },
+  {
+    "id": "1dks_KsF-QivBZ0QfmRXW-H7lEiXhXJij",
+    "path": "data/raw/clinicdb/train/masks/297.png"
+  },
+  {
+    "id": "1yubTexwxeSN4scNG-rB7Zg_xMvittrdY",
+    "path": "data/raw/clinicdb/train/masks/298.png"
+  },
+  {
+    "id": "1Igmj-zOn-7-iFef2pJlOgIQayiWoQ08g",
+    "path": "data/raw/clinicdb/train/masks/299.png"
+  },
+  {
+    "id": "1u5qn_pHbN0mVJaAiZJBo0gTRm-yHBHLV",
+    "path": "data/raw/clinicdb/train/masks/30.png"
+  },
+  {
+    "id": "1_ZobIKeFYVWAalMCR5EQM4SYAtViLkm0",
+    "path": "data/raw/clinicdb/train/masks/300.png"
+  },
+  {
+    "id": "1QQ3wSro8qvZs8-3WT2aMAcjl-q8q9YBB",
+    "path": "data/raw/clinicdb/train/masks/301.png"
+  },
+  {
+    "id": "1cfjmFafh7-wEL2u9ukfg62AppiXbnyOb",
+    "path": "data/raw/clinicdb/train/masks/302.png"
+  },
+  {
+    "id": "16_ZwCYcc98CTC95j82403ayAh7BUMtYO",
+    "path": "data/raw/clinicdb/train/masks/303.png"
+  },
+  {
+    "id": "1HzBSDt6jo0xo45KhhK-i_TIV9Ay6IEgl",
+    "path": "data/raw/clinicdb/train/masks/304.png"
+  },
+  {
+    "id": "1CFo4xELN3_NZFptBqWDHNwR87C7mQybA",
+    "path": "data/raw/clinicdb/train/masks/305.png"
+  },
+  {
+    "id": "1c1-8KYQhE48zubOecH0x7uYYCtGnut2V",
+    "path": "data/raw/clinicdb/train/masks/306.png"
+  },
+  {
+    "id": "1s29COikzI0SfFNXftJk1nVk8fo0YWb-y",
+    "path": "data/raw/clinicdb/train/masks/308.png"
+  },
+  {
+    "id": "1jJTyl0jbowWOiw6pMQKKXQrqLvldLuK1",
+    "path": "data/raw/clinicdb/train/masks/309.png"
+  },
+  {
+    "id": "1-tJVk3LJdSXfNuAjeMSdale8INDAdGSk",
+    "path": "data/raw/clinicdb/train/masks/31.png"
+  },
+  {
+    "id": "15FO9h3q5TTkf434puw8WKpKZhPV-fMEh",
+    "path": "data/raw/clinicdb/train/masks/310.png"
+  },
+  {
+    "id": "1a4DXQNQnZtrkUmCE-w2y0CVoi0SMvlJp",
+    "path": "data/raw/clinicdb/train/masks/311.png"
+  },
+  {
+    "id": "1XvZHktiISLwOMGBRmK_OT67ZdLmxOP65",
+    "path": "data/raw/clinicdb/train/masks/313.png"
+  },
+  {
+    "id": "1xcdeyzYMcd96bK3KE6oHdo-UQzv5kRO8",
+    "path": "data/raw/clinicdb/train/masks/315.png"
+  },
+  {
+    "id": "1JfrKo_lpxD7qufolXt-l0PN9cwoDo0bV",
+    "path": "data/raw/clinicdb/train/masks/316.png"
+  },
+  {
+    "id": "1G9o8LKtwFscjA6d12d399d2-uqzU-4_I",
+    "path": "data/raw/clinicdb/train/masks/319.png"
+  },
+  {
+    "id": "1igN8-d9dt4AGdRP9Lwt_YeW45RK_OUyM",
+    "path": "data/raw/clinicdb/train/masks/32.png"
+  },
+  {
+    "id": "11_RKetcUzXxIrTHluzmQfvzl_NHYfK9I",
+    "path": "data/raw/clinicdb/train/masks/320.png"
+  },
+  {
+    "id": "1K53bW-3EIlG_1Tqf7s9IOYpvPDsfXrrj",
+    "path": "data/raw/clinicdb/train/masks/322.png"
+  },
+  {
+    "id": "1N_4dFmyUjYkGkchHwXK6C50N6Wp2G4qL",
+    "path": "data/raw/clinicdb/train/masks/323.png"
+  },
+  {
+    "id": "1paEmvripD7H3dRNvFK_ZpjjEQNaFuVL9",
+    "path": "data/raw/clinicdb/train/masks/324.png"
+  },
+  {
+    "id": "13ysvrvDY3u1BgmuSy2rSHgIv7g-SZiUE",
+    "path": "data/raw/clinicdb/train/masks/325.png"
+  },
+  {
+    "id": "1uL0e6S65o-Q42Zmq1VxYmk_WlgsI-V4q",
+    "path": "data/raw/clinicdb/train/masks/326.png"
+  },
+  {
+    "id": "14Px-xPh5dsUMv1EeSYr0IuijBGoAPvmd",
+    "path": "data/raw/clinicdb/train/masks/329.png"
+  },
+  {
+    "id": "1yKagZE5n-haU4wdEMMZCl5FaPwyLN17d",
+    "path": "data/raw/clinicdb/train/masks/330.png"
+  },
+  {
+    "id": "1jxBlnTN6Euh9aGe4wuSES63gVRM7ij6z",
+    "path": "data/raw/clinicdb/train/masks/331.png"
+  },
+  {
+    "id": "17_yosk2RUVNFas9AoZySXhUXNfxjtwSP",
+    "path": "data/raw/clinicdb/train/masks/332.png"
+  },
+  {
+    "id": "1iKCwaI7_OrQ-8-asikMRnjCsT4fDvYrL",
+    "path": "data/raw/clinicdb/train/masks/333.png"
+  },
+  {
+    "id": "1z24zBH0sQLxDQx_Ewk_la1c5y5g4unO0",
+    "path": "data/raw/clinicdb/train/masks/334.png"
+  },
+  {
+    "id": "1dALdoE5NX7qZ973FTgoC2EooQtWA-HS6",
+    "path": "data/raw/clinicdb/train/masks/335.png"
+  },
+  {
+    "id": "1yWMB3KkiVS27g_21-cc80g_i60rsUd3u",
+    "path": "data/raw/clinicdb/train/masks/336.png"
+  },
+  {
+    "id": "107A0cOCy4158r3MbWMeNy1-yqi7pd9Ph",
+    "path": "data/raw/clinicdb/train/masks/337.png"
+  },
+  {
+    "id": "14A0HDzZv6KgJ7aEE7da6wBvXxfNC-L6N",
+    "path": "data/raw/clinicdb/train/masks/338.png"
+  },
+  {
+    "id": "1yDv2VYHVv8pev0xVn73_fimWDxGqGcjE",
+    "path": "data/raw/clinicdb/train/masks/339.png"
+  },
+  {
+    "id": "1lElfCSQ1EF7g0KcIbJGiDN3EGKP5ji4c",
+    "path": "data/raw/clinicdb/train/masks/341.png"
+  },
+  {
+    "id": "1F1i9V2VhzJjqRZ532y1G3MLVPIKfONtc",
+    "path": "data/raw/clinicdb/train/masks/342.png"
+  },
+  {
+    "id": "1epB0Uxx5hSrB31W1LQeMxgQgpepMf5G-",
+    "path": "data/raw/clinicdb/train/masks/344.png"
+  },
+  {
+    "id": "1ysg9qcsaT8uHP5Rll257cqcpJ45_0-1m",
+    "path": "data/raw/clinicdb/train/masks/345.png"
+  },
+  {
+    "id": "1oezyZ7pNEwGiTLfRMFub6ipHvVi2nP7o",
+    "path": "data/raw/clinicdb/train/masks/346.png"
+  },
+  {
+    "id": "17QbhVb_MPLU8lr3BIhgAFR_HHOJxb1nr",
+    "path": "data/raw/clinicdb/train/masks/347.png"
+  },
+  {
+    "id": "1tYvyP2NAnDPFZhDA2fGoezuS4Y_czlNq",
+    "path": "data/raw/clinicdb/train/masks/349.png"
+  },
+  {
+    "id": "13aEvK7PSMI77NfwvlH-Yh_W4kJi-tGQn",
+    "path": "data/raw/clinicdb/train/masks/35.png"
+  },
+  {
+    "id": "1Z3mYI1_zIFvjwsCb8bl8XGBec-c8VGv2",
+    "path": "data/raw/clinicdb/train/masks/351.png"
+  },
+  {
+    "id": "1ySfGpIiob8S4NbOIJCYOCcAX9AoX3_hi",
+    "path": "data/raw/clinicdb/train/masks/354.png"
+  },
+  {
+    "id": "1lGsCN5kcRt75Ip5fh3NKy_05hcOtpvdc",
+    "path": "data/raw/clinicdb/train/masks/356.png"
+  },
+  {
+    "id": "1vizGsw66KXOvYeCIGGWp9VfqIgruhSYP",
+    "path": "data/raw/clinicdb/train/masks/357.png"
+  },
+  {
+    "id": "1K-cOvKkP-JaAwuyIgOkhDFz7nnAn6buR",
+    "path": "data/raw/clinicdb/train/masks/358.png"
+  },
+  {
+    "id": "1WZMjsWMh_DYTR-PbUTVVJ-waqbJeQ0QO",
+    "path": "data/raw/clinicdb/train/masks/361.png"
+  },
+  {
+    "id": "1DrY883xcB5ZTCNh9RPbWsfuT3aOmlL6I",
+    "path": "data/raw/clinicdb/train/masks/362.png"
+  },
+  {
+    "id": "1BjDwshzIgU99hf2YYeyDq-uHgOumyonk",
+    "path": "data/raw/clinicdb/train/masks/365.png"
+  },
+  {
+    "id": "1Et_vpz0X8NCFFn5e9fTEjuN0Bv1rJsJp",
+    "path": "data/raw/clinicdb/train/masks/366.png"
+  },
+  {
+    "id": "1fkfD09NgGY5qREeZJfkBHFXg5IFXUPre",
+    "path": "data/raw/clinicdb/train/masks/367.png"
+  },
+  {
+    "id": "1CMqD51Sk7HpaDcqgUkMYGcbGKmsTfa8u",
+    "path": "data/raw/clinicdb/train/masks/368.png"
+  },
+  {
+    "id": "1ZRSLxyKpzQMXMy_hx5MKARESyNbxwFpW",
+    "path": "data/raw/clinicdb/train/masks/369.png"
+  },
+  {
+    "id": "1OY4tWN4NR4Y0FSW1DyoUJ5JAlOJPaKA3",
+    "path": "data/raw/clinicdb/train/masks/37.png"
+  },
+  {
+    "id": "1rWtmQfhsOXp84CrEC8rY4UKOWREuYJxA",
+    "path": "data/raw/clinicdb/train/masks/370.png"
+  },
+  {
+    "id": "1gUdOjgPURYvQXTcNl7zEgl-vOyiPSV-H",
+    "path": "data/raw/clinicdb/train/masks/371.png"
+  },
+  {
+    "id": "1Wg9ZIK-1nvhi_UKBY8vM44mHovcSnF7w",
+    "path": "data/raw/clinicdb/train/masks/372.png"
+  },
+  {
+    "id": "1kLj03qUNMt_Mj8qaZ4ssYiGF313qO5cz",
+    "path": "data/raw/clinicdb/train/masks/373.png"
+  },
+  {
+    "id": "1FxeCoFA_1VC9ubrnRcwlxJ31BRTwGODh",
+    "path": "data/raw/clinicdb/train/masks/374.png"
+  },
+  {
+    "id": "1vjvg_u6Rq6TxeZ6nPMHXbI4RGV2QQTuv",
+    "path": "data/raw/clinicdb/train/masks/375.png"
+  },
+  {
+    "id": "1KyFm47DNN9LW0Qw15KwZxSRqYlbrLZLq",
+    "path": "data/raw/clinicdb/train/masks/376.png"
+  },
+  {
+    "id": "1xS9FvxtkDW4waxtAX3dNYtvrN3q42eVQ",
+    "path": "data/raw/clinicdb/train/masks/377.png"
+  },
+  {
+    "id": "1S4mXb5OYFGMCsoKtRYM_BUNjjQJykS8H",
+    "path": "data/raw/clinicdb/train/masks/379.png"
+  },
+  {
+    "id": "1S04MXvvrkaCq2UKVTB1QzFvEsgtiHEPu",
+    "path": "data/raw/clinicdb/train/masks/38.png"
+  },
+  {
+    "id": "1feNFtsMOnnvacIOAjJN1BTmZDWkeLZ4J",
+    "path": "data/raw/clinicdb/train/masks/380.png"
+  },
+  {
+    "id": "1xNQyajLJJUJqCUhIG6P6pZblOLpFRJUj",
+    "path": "data/raw/clinicdb/train/masks/381.png"
+  },
+  {
+    "id": "16yHDCJpAo1N_zOGaYBEkkAXlJ95hKr2w",
+    "path": "data/raw/clinicdb/train/masks/382.png"
+  },
+  {
+    "id": "13FbYj_MXFRcsEWsZRRK9maSv4P2yHbRM",
+    "path": "data/raw/clinicdb/train/masks/383.png"
+  },
+  {
+    "id": "1A08N9uX3v1FnKwWAUKKZ6yC4U7f-7aJO",
+    "path": "data/raw/clinicdb/train/masks/384.png"
+  },
+  {
+    "id": "1cf1Hsoua8z-oML_fokRPPQOsFrMijEzc",
+    "path": "data/raw/clinicdb/train/masks/385.png"
+  },
+  {
+    "id": "1lfRUpGHt9C6mnjvRSTJMmUVKBaC5LPTZ",
+    "path": "data/raw/clinicdb/train/masks/386.png"
+  },
+  {
+    "id": "1biLkgwl2rMIQj2qUrGSiYSXu52Q9pDxc",
+    "path": "data/raw/clinicdb/train/masks/387.png"
+  },
+  {
+    "id": "1GlNPb5aX7kVs-eZimh7w2F7HeP_Suncl",
+    "path": "data/raw/clinicdb/train/masks/388.png"
+  },
+  {
+    "id": "1kyFvGWVSgqVlYk_x4KjNGAzKGuFCluBd",
+    "path": "data/raw/clinicdb/train/masks/389.png"
+  },
+  {
+    "id": "1s4PaDNLQEPaCpRkjiMzO2Kh5HBrHuATK",
+    "path": "data/raw/clinicdb/train/masks/39.png"
+  },
+  {
+    "id": "1F-skXh6jJXTrHDrux5woESxMolGZ2UsU",
+    "path": "data/raw/clinicdb/train/masks/391.png"
+  },
+  {
+    "id": "11qRA-W-Z6aPvqb9pnplfOXEJv9NItPFF",
+    "path": "data/raw/clinicdb/train/masks/393.png"
+  },
+  {
+    "id": "1gNPAbh329jfc5S1GECT0n2XbVjKq7mmv",
+    "path": "data/raw/clinicdb/train/masks/395.png"
+  },
+  {
+    "id": "1N2LRtkBp4PP1FRrA2K70Yko2TgoC6hgl",
+    "path": "data/raw/clinicdb/train/masks/396.png"
+  },
+  {
+    "id": "1KdB2AjdszhlwASOPnhXPXyPH5FkHTe1N",
+    "path": "data/raw/clinicdb/train/masks/397.png"
+  },
+  {
+    "id": "1667yxlQuk_t374sTkiIrR17ja_RTGhhh",
+    "path": "data/raw/clinicdb/train/masks/398.png"
+  },
+  {
+    "id": "1cwfKeykb_yydInygIjx7OpiJmDMicHoN",
+    "path": "data/raw/clinicdb/train/masks/399.png"
+  },
+  {
+    "id": "1x4IluSbnPcl5pwxPZOR59ToMPAjEawR2",
+    "path": "data/raw/clinicdb/train/masks/400.png"
+  },
+  {
+    "id": "1YJZ_FbnYD50w4qisnF0hO6tMbjFAZrj0",
+    "path": "data/raw/clinicdb/train/masks/401.png"
+  },
+  {
+    "id": "1PYvBhJbASQlv7T8fq0ivNB7UVQz_0M6m",
+    "path": "data/raw/clinicdb/train/masks/402.png"
+  },
+  {
+    "id": "1agF5hpKmJhoNAKBe8LCPjbYJBkSjTqFI",
+    "path": "data/raw/clinicdb/train/masks/403.png"
+  },
+  {
+    "id": "11zpt0lldnq84AQFveU3BvQi6xdfVxwnA",
+    "path": "data/raw/clinicdb/train/masks/404.png"
+  },
+  {
+    "id": "1CJz44NCmCyZHDV8TmKHgp_bXoAjJXwr5",
+    "path": "data/raw/clinicdb/train/masks/405.png"
+  },
+  {
+    "id": "1u8TqlHKWTdIg0tW2GBMUDA9PzPFeM43u",
+    "path": "data/raw/clinicdb/train/masks/406.png"
+  },
+  {
+    "id": "1rTUZ4bKdjjBIwKsX3kogfle0sgR8glqo",
+    "path": "data/raw/clinicdb/train/masks/407.png"
+  },
+  {
+    "id": "1GLW0BuB1b7nQrNZjFtoTD9uzOB6x9BCD",
+    "path": "data/raw/clinicdb/train/masks/408.png"
+  },
+  {
+    "id": "10-PQyQ70ZYf8ZVgwlZ5cpE7uQGtiT4L_",
+    "path": "data/raw/clinicdb/train/masks/409.png"
+  },
+  {
+    "id": "1cvVl_9_tixVlansADYnFMhB2Z7Anz9BS",
+    "path": "data/raw/clinicdb/train/masks/41.png"
+  },
+  {
+    "id": "1OS2-zIEpkaHs677kHx3IZ-ILc1O_a2pz",
+    "path": "data/raw/clinicdb/train/masks/410.png"
+  },
+  {
+    "id": "1SiVHpEbizZRIZnHqImathoNswj5uVgXm",
+    "path": "data/raw/clinicdb/train/masks/411.png"
+  },
+  {
+    "id": "11GxV2V5Q_t4GeNywvQBJ0XKjwxiwpDvY",
+    "path": "data/raw/clinicdb/train/masks/412.png"
+  },
+  {
+    "id": "11JcWnpqUflQFGROzVTb2uxOepBA6U8H_",
+    "path": "data/raw/clinicdb/train/masks/413.png"
+  },
+  {
+    "id": "1P-iVtdm75an9cbV3Dn17OAKXXo3q9zUu",
+    "path": "data/raw/clinicdb/train/masks/414.png"
+  },
+  {
+    "id": "1GOEYvbgM75lManXe1ZCMrCpX3HxR9U7U",
+    "path": "data/raw/clinicdb/train/masks/415.png"
+  },
+  {
+    "id": "16xXDWTQCw3_fRRHxtVjVyNCEfdxJ6Nmo",
+    "path": "data/raw/clinicdb/train/masks/417.png"
+  },
+  {
+    "id": "1GWcdrV8lBdcoxK1XaXs7UXbQy2OkAtdF",
+    "path": "data/raw/clinicdb/train/masks/419.png"
+  },
+  {
+    "id": "1fnf_9i2XmY4IawyvXnidRyVyQz0VwQP6",
+    "path": "data/raw/clinicdb/train/masks/42.png"
+  },
+  {
+    "id": "1GGPLpxzA6p9SHC9LvYAOF5WvfhEUVdig",
+    "path": "data/raw/clinicdb/train/masks/420.png"
+  },
+  {
+    "id": "1-UexE36fMplhFJGMaHBimkjXSnZ62t7S",
+    "path": "data/raw/clinicdb/train/masks/421.png"
+  },
+  {
+    "id": "1c6CtwLFjKVXHAcNDyGZOkWx_RGAHi97o",
+    "path": "data/raw/clinicdb/train/masks/422.png"
+  },
+  {
+    "id": "1LJlre9dMRbzrG9HpftX0b9g5XabRFeCB",
+    "path": "data/raw/clinicdb/train/masks/423.png"
+  },
+  {
+    "id": "1R8-IW7us7F65lpk3J2pk5RUrINd_cooV",
+    "path": "data/raw/clinicdb/train/masks/424.png"
+  },
+  {
+    "id": "1BQ4I5t34G3tC2qtzgzGzMFNR50ks_o8z",
+    "path": "data/raw/clinicdb/train/masks/426.png"
+  },
+  {
+    "id": "1ynqv7GFfzpZeYCEQfJSuewANBQ5YVO2R",
+    "path": "data/raw/clinicdb/train/masks/427.png"
+  },
+  {
+    "id": "1CRnD2TFqMDFiOgBBlMV_Nkdtqgp3mgcc",
+    "path": "data/raw/clinicdb/train/masks/428.png"
+  },
+  {
+    "id": "1F8i2x73TbJqi-9trEdwp0QCWETH7ipog",
+    "path": "data/raw/clinicdb/train/masks/429.png"
+  },
+  {
+    "id": "1ccnZrZXQ0zR6SIVQf1iPMXJ_xVJmRVvV",
+    "path": "data/raw/clinicdb/train/masks/43.png"
+  },
+  {
+    "id": "1mnZMJ74WHGoy6NL2Ho1qi-QDyIEnSLJG",
+    "path": "data/raw/clinicdb/train/masks/430.png"
+  },
+  {
+    "id": "1oxSaryfc1ZwFTcL1yZXr1ClBe983eWKU",
+    "path": "data/raw/clinicdb/train/masks/431.png"
+  },
+  {
+    "id": "1obzlxDlpzNdexxBMlTmh0sW2nNdtS2-K",
+    "path": "data/raw/clinicdb/train/masks/432.png"
+  },
+  {
+    "id": "1Jam3kRorrf57N4ewekGaWDkye17xoGhc",
+    "path": "data/raw/clinicdb/train/masks/434.png"
+  },
+  {
+    "id": "18bQ6b_TQYMuHZ8FrDRLFWv1Pu_HO7EkF",
+    "path": "data/raw/clinicdb/train/masks/435.png"
+  },
+  {
+    "id": "1Ze5EhnBLyWnFCFh993bcVDWnW6ieIM73",
+    "path": "data/raw/clinicdb/train/masks/436.png"
+  },
+  {
+    "id": "1c2DLUKZ_ADh6k-65d4MUef1FcgWZJQ_W",
+    "path": "data/raw/clinicdb/train/masks/438.png"
+  },
+  {
+    "id": "1wP_l1wMc3DenaPCnv9mrcrMWoQM-OS8o",
+    "path": "data/raw/clinicdb/train/masks/439.png"
+  },
+  {
+    "id": "1RbiAwgSDkkpdZLEQMYEr_GHLIjugb6Nk",
+    "path": "data/raw/clinicdb/train/masks/44.png"
+  },
+  {
+    "id": "1RRTS1V0wHjBH6E1BJwsSGxY654zY23GP",
+    "path": "data/raw/clinicdb/train/masks/442.png"
+  },
+  {
+    "id": "19oLgKvEI_jYSViJBdplD7O4g0lXCjrdF",
+    "path": "data/raw/clinicdb/train/masks/444.png"
+  },
+  {
+    "id": "1oz7RTXIrhN1DYMm6AxYaVp6szP8d9PeA",
+    "path": "data/raw/clinicdb/train/masks/445.png"
+  },
+  {
+    "id": "1Yda7CUIqALkXcV-J4lBrzR8jiZSEbgrg",
+    "path": "data/raw/clinicdb/train/masks/446.png"
+  },
+  {
+    "id": "13zIQ3YdracEmZchEkp543tE0hrLLgHlV",
+    "path": "data/raw/clinicdb/train/masks/447.png"
+  },
+  {
+    "id": "122swwpBbVrAGGZj4udSCTwMojd9ZMVUa",
+    "path": "data/raw/clinicdb/train/masks/448.png"
+  },
+  {
+    "id": "1sUInuS-iv8QncaqSPloywe0YyZRrDxkk",
+    "path": "data/raw/clinicdb/train/masks/449.png"
+  },
+  {
+    "id": "1O0bICmAB7jrSG6pIr4p7LFtEah8OKK8R",
+    "path": "data/raw/clinicdb/train/masks/45.png"
+  },
+  {
+    "id": "1A_VRyFQNWS_NGifAV82NAim6GHSxYNRk",
+    "path": "data/raw/clinicdb/train/masks/450.png"
+  },
+  {
+    "id": "1SmIxKREptSbYoRaaTvGHnZxfXrTDzdUK",
+    "path": "data/raw/clinicdb/train/masks/452.png"
+  },
+  {
+    "id": "1S8ZYqoS0FzuLOoXwblA3WrRm17muTsJ7",
+    "path": "data/raw/clinicdb/train/masks/453.png"
+  },
+  {
+    "id": "1kx_Wf-guWrKOYtwckUQ0t66Yus_eAmXj",
+    "path": "data/raw/clinicdb/train/masks/454.png"
+  },
+  {
+    "id": "1OG2wcaaGVq9Gh885Pf2YVOKkGv98-PLS",
+    "path": "data/raw/clinicdb/train/masks/455.png"
+  },
+  {
+    "id": "1neIXzyYlE8Y2UF_g7IlJOt0AOJdRQ0am",
+    "path": "data/raw/clinicdb/train/masks/456.png"
+  },
+  {
+    "id": "14Ie-KXijgvny-SStEFpToMCoCOQYMFbV",
+    "path": "data/raw/clinicdb/train/masks/457.png"
+  },
+  {
+    "id": "1sDYczeZslksnqWSaN1_0wtb3webvjl33",
+    "path": "data/raw/clinicdb/train/masks/458.png"
+  },
+  {
+    "id": "1uHm4dwGMB_9SI9F5MZr6pM3VlbkC-xzT",
+    "path": "data/raw/clinicdb/train/masks/459.png"
+  },
+  {
+    "id": "1sB5cCUu22-8MS_x5Y3pzbyzK8JQ61lQf",
+    "path": "data/raw/clinicdb/train/masks/46.png"
+  },
+  {
+    "id": "16wTfb6ffTNgKkexjfouWB0i7yyPO5nb7",
+    "path": "data/raw/clinicdb/train/masks/460.png"
+  },
+  {
+    "id": "1jdksjawqIsvT4Ac46jHFzy2n8tFyAGUg",
+    "path": "data/raw/clinicdb/train/masks/461.png"
+  },
+  {
+    "id": "1Qdi6HTG7lBYXKS51FVbGmWzYU3w8PIsq",
+    "path": "data/raw/clinicdb/train/masks/462.png"
+  },
+  {
+    "id": "1E0dQAut55IPBmz_CuNNGL6WkVeyLb4PF",
+    "path": "data/raw/clinicdb/train/masks/463.png"
+  },
+  {
+    "id": "168hYa_M6-HV8fVX9RdK3difB_Q0VqlfV",
+    "path": "data/raw/clinicdb/train/masks/464.png"
+  },
+  {
+    "id": "1_W-bfcV5wkP3e3ElHv_wpBgCon6k_F3u",
+    "path": "data/raw/clinicdb/train/masks/465.png"
+  },
+  {
+    "id": "1qtDP-wwLVG2xhddHSW4M-GF2khL13FYD",
+    "path": "data/raw/clinicdb/train/masks/466.png"
+  },
+  {
+    "id": "1TC2gbxOALgK1VTiTH4DOYyO5E0-OSShG",
+    "path": "data/raw/clinicdb/train/masks/467.png"
+  },
+  {
+    "id": "1g1VpVAPt2yRZZ3EcJvfArf85woplWqS-",
+    "path": "data/raw/clinicdb/train/masks/469.png"
+  },
+  {
+    "id": "1GwDOf2lT7Jv7IM-ZbEMGPkXsBT658_ts",
+    "path": "data/raw/clinicdb/train/masks/47.png"
+  },
+  {
+    "id": "1Hr3wfL18fIyiPDJvdprJLd8naVhS9CTZ",
+    "path": "data/raw/clinicdb/train/masks/470.png"
+  },
+  {
+    "id": "1yjmhqdlnK7eGYkPgPaNDgQcBxAEASbyS",
+    "path": "data/raw/clinicdb/train/masks/472.png"
+  },
+  {
+    "id": "1ansPHFiSSKTjT35Qz-lFoJmmSuLpUUa7",
+    "path": "data/raw/clinicdb/train/masks/474.png"
+  },
+  {
+    "id": "1rq5frSIN1_gb_SG9cPL5iUdkFBeZM8KX",
+    "path": "data/raw/clinicdb/train/masks/475.png"
+  },
+  {
+    "id": "1cMPpDG3twWFlcgiec9IVCYUK5ob3bUiW",
+    "path": "data/raw/clinicdb/train/masks/476.png"
+  },
+  {
+    "id": "1Lgfdh419F76amibwnJXjsZdEbSSmtCDl",
+    "path": "data/raw/clinicdb/train/masks/477.png"
+  },
+  {
+    "id": "1wmXHCOquLLnIBPQErSuQ54BXaIAa8DpF",
+    "path": "data/raw/clinicdb/train/masks/478.png"
+  },
+  {
+    "id": "1R2hztCGKtdjBvWmNZP3yH6-_DUZjSFd_",
+    "path": "data/raw/clinicdb/train/masks/479.png"
+  },
+  {
+    "id": "1ETmiN96HLIAjP_em6QDrPeSYg6Yx5oAd",
+    "path": "data/raw/clinicdb/train/masks/48.png"
+  },
+  {
+    "id": "1uqmsHpJF4JGlZXRR_PNmg96CUtzPAipX",
+    "path": "data/raw/clinicdb/train/masks/480.png"
+  },
+  {
+    "id": "1Dbdl7ABOVfduZIlSbcdTm-NR8t-tt_Hf",
+    "path": "data/raw/clinicdb/train/masks/481.png"
+  },
+  {
+    "id": "1Fz5X0p5sU9hhJ265nFBxfPbCfx3PdvgX",
+    "path": "data/raw/clinicdb/train/masks/482.png"
+  },
+  {
+    "id": "1PJded6_5Bj0r44PSVAngrcTjyUMTicRB",
+    "path": "data/raw/clinicdb/train/masks/483.png"
+  },
+  {
+    "id": "1_LlYvf4EfOrt_g3_YvxCzPsOoaFcwFyj",
+    "path": "data/raw/clinicdb/train/masks/484.png"
+  },
+  {
+    "id": "1YeekkoyM5MjTfqpg7vlaxNEVvtcLsnHF",
+    "path": "data/raw/clinicdb/train/masks/485.png"
+  },
+  {
+    "id": "1xtRjeATw1Os4azXg80q9xi51vOMLClLD",
+    "path": "data/raw/clinicdb/train/masks/489.png"
+  },
+  {
+    "id": "1znuHcjTH80ElhVGaE4_04WiF-5CxDeKY",
+    "path": "data/raw/clinicdb/train/masks/49.png"
+  },
+  {
+    "id": "17MwYI8bXNz97rbUNQ3tR5ietRK11FOaN",
+    "path": "data/raw/clinicdb/train/masks/490.png"
+  },
+  {
+    "id": "15KmTAojgh3l9BBGza7qouQLWCdsTBjoz",
+    "path": "data/raw/clinicdb/train/masks/492.png"
+  },
+  {
+    "id": "1iM3j1WCoD-sglH0RsmdqY761gr_vWUWd",
+    "path": "data/raw/clinicdb/train/masks/493.png"
+  },
+  {
+    "id": "14oxf7bteq8z4Fw2n4SyQjYs6P3fBYff3",
+    "path": "data/raw/clinicdb/train/masks/495.png"
+  },
+  {
+    "id": "1PWbrNHgOdorr6H3RUCE5ZddNrjkjjB2d",
+    "path": "data/raw/clinicdb/train/masks/496.png"
+  },
+  {
+    "id": "1uhBw0MwRLDuM9-sWP_YYEoBsxwIPfZNI",
+    "path": "data/raw/clinicdb/train/masks/498.png"
+  },
+  {
+    "id": "1pydnPxWXmnbI-EW0dMqe4iRkD5NQWFe-",
+    "path": "data/raw/clinicdb/train/masks/499.png"
+  },
+  {
+    "id": "1D9IQ0aYLkHXCypSnHtC9dKOwDB1hbYUX",
+    "path": "data/raw/clinicdb/train/masks/50.png"
+  },
+  {
+    "id": "1EzrG4ha-ThGsAgScQmoJeDeQH6z1YiJq",
+    "path": "data/raw/clinicdb/train/masks/500.png"
+  },
+  {
+    "id": "1TsKcy7GPFr5Ubx0UzFB8OucWNJXnKpoT",
+    "path": "data/raw/clinicdb/train/masks/501.png"
+  },
+  {
+    "id": "1F11gdTp7xVT3eKuW7uMW5phQpIgDYDAZ",
+    "path": "data/raw/clinicdb/train/masks/502.png"
+  },
+  {
+    "id": "1nCSku8Fc2lbiEi0reclhRm5Qy_5F9zXK",
+    "path": "data/raw/clinicdb/train/masks/503.png"
+  },
+  {
+    "id": "1IiaMo4ql0ftXh5OPfmpvcX4IcmGenTif",
+    "path": "data/raw/clinicdb/train/masks/504.png"
+  },
+  {
+    "id": "1UeWiyPB9JwzJeLUKndJQVJfA5LZNOlKP",
+    "path": "data/raw/clinicdb/train/masks/508.png"
+  },
+  {
+    "id": "1_59A-7WTXjgWba_5SZ3sAvdS-mz0XfNB",
+    "path": "data/raw/clinicdb/train/masks/509.png"
+  },
+  {
+    "id": "1FrSONIoiPhZ-NHfDnUw6qXyiPcLReS3X",
+    "path": "data/raw/clinicdb/train/masks/51.png"
+  },
+  {
+    "id": "19TK7_v5q2tPQylAIXrKahfKdqb4Mu53U",
+    "path": "data/raw/clinicdb/train/masks/510.png"
+  },
+  {
+    "id": "1latWgB8iB0aWEMDMOYv_4nimdJ_OZF-F",
+    "path": "data/raw/clinicdb/train/masks/511.png"
+  },
+  {
+    "id": "1eBd8PRpRznIEJaSLhFnntaDC1LLP9Ihl",
+    "path": "data/raw/clinicdb/train/masks/512.png"
+  },
+  {
+    "id": "1L6KVpvk4zHYBGQiMAWiVoM91WDTY6kM3",
+    "path": "data/raw/clinicdb/train/masks/515.png"
+  },
+  {
+    "id": "1o2CFiDAQlefinQe8ZuWn_zubgQ6FhXr4",
+    "path": "data/raw/clinicdb/train/masks/517.png"
+  },
+  {
+    "id": "1kzilSCe_A4uHckEt1rxpCUIRqwAB41IH",
+    "path": "data/raw/clinicdb/train/masks/518.png"
+  },
+  {
+    "id": "1kQKzfboPV8PPDx3h4g22dVNY9HYZu2Uk",
+    "path": "data/raw/clinicdb/train/masks/519.png"
+  },
+  {
+    "id": "1QTSQRi_ln3NIXxTJy9-tJN4QrNLl_VIl",
+    "path": "data/raw/clinicdb/train/masks/52.png"
+  },
+  {
+    "id": "12hmKbBvsLwPz3P-mkhjYAHNRDa6v9BGW",
+    "path": "data/raw/clinicdb/train/masks/520.png"
+  },
+  {
+    "id": "1iK44jh4H0tQ0HTDCa0vq7ubSoOSOXddS",
+    "path": "data/raw/clinicdb/train/masks/521.png"
+  },
+  {
+    "id": "11g6IwGT4Z2RIW827JjXYD8gY5TZBZ4hO",
+    "path": "data/raw/clinicdb/train/masks/522.png"
+  },
+  {
+    "id": "10imTXEyUZWtBdH-AT4mnnMrhpX3YILF3",
+    "path": "data/raw/clinicdb/train/masks/523.png"
+  },
+  {
+    "id": "1mm9FHBJ5WT31achs6xXWEf3fIioE4DnH",
+    "path": "data/raw/clinicdb/train/masks/524.png"
+  },
+  {
+    "id": "1XY5ocLTaebSJzL9hJRFdev-c4v8R3mVG",
+    "path": "data/raw/clinicdb/train/masks/525.png"
+  },
+  {
+    "id": "1qwrPsVVQ33-6d-kBNu8hQJgCHELL5Y9P",
+    "path": "data/raw/clinicdb/train/masks/526.png"
+  },
+  {
+    "id": "1jlFF7fdGmPf1w3GBHBc1FLRnwVslddKu",
+    "path": "data/raw/clinicdb/train/masks/527.png"
+  },
+  {
+    "id": "106ihsr1UEuCGCisBXqpVJKhTcla5dfs6",
+    "path": "data/raw/clinicdb/train/masks/529.png"
+  },
+  {
+    "id": "1Stk0UIDtwm4eeWjA1P9Q3gd2allW-ilE",
+    "path": "data/raw/clinicdb/train/masks/53.png"
+  },
+  {
+    "id": "1DO2m2av_GzaEQKcQNy9zQ4LKJTMKpXLE",
+    "path": "data/raw/clinicdb/train/masks/530.png"
+  },
+  {
+    "id": "1A4-y-NlCczC-xqE5PGBASe3G3PkuRkz7",
+    "path": "data/raw/clinicdb/train/masks/532.png"
+  },
+  {
+    "id": "1TVbK2OAZBTl46emjlQRZyYgAeaPVKCjS",
+    "path": "data/raw/clinicdb/train/masks/533.png"
+  },
+  {
+    "id": "13eNRFBJitpMknPr_SYC2PzcMaX5IKb0Z",
+    "path": "data/raw/clinicdb/train/masks/534.png"
+  },
+  {
+    "id": "1GBEcNOs1Y55sLO5TrZsBV5bDWAksUSg-",
+    "path": "data/raw/clinicdb/train/masks/535.png"
+  },
+  {
+    "id": "1N3ljEKmh_wJZIvJZcCd9dIbi-vMjoVWO",
+    "path": "data/raw/clinicdb/train/masks/536.png"
+  },
+  {
+    "id": "1zLDoFUsL3A95LFSp0xsg-WAEHooxXtR3",
+    "path": "data/raw/clinicdb/train/masks/537.png"
+  },
+  {
+    "id": "1GDSF8CGm-3nPwqL4KDZL7k1dXqfuuswV",
+    "path": "data/raw/clinicdb/train/masks/538.png"
+  },
+  {
+    "id": "1esgk_3vO1X0h9osNGCUTILONkGisvkNH",
+    "path": "data/raw/clinicdb/train/masks/54.png"
+  },
+  {
+    "id": "168DlEDGJ58LOSPq7H9B3wpY6WUNH3FCF",
+    "path": "data/raw/clinicdb/train/masks/540.png"
+  },
+  {
+    "id": "17g7D68maAjBvqzHYYPUIyzsnB-VsL7Mo",
+    "path": "data/raw/clinicdb/train/masks/541.png"
+  },
+  {
+    "id": "19JdcPqNwzHPawqVdGjSPA25by2x3vGC0",
+    "path": "data/raw/clinicdb/train/masks/542.png"
+  },
+  {
+    "id": "1Z_eZnOBP-guCis6Cukcghyj5L-TV2Bch",
+    "path": "data/raw/clinicdb/train/masks/543.png"
+  },
+  {
+    "id": "1mUAcHDHuINqX5khwYv3DE68g9t0XqPCE",
+    "path": "data/raw/clinicdb/train/masks/544.png"
+  },
+  {
+    "id": "17co6j2m7O1L1OnEjgspLaI_ofY7xL_xu",
+    "path": "data/raw/clinicdb/train/masks/545.png"
+  },
+  {
+    "id": "1YWABJKcK7yDWplHnHnkZwpu0Ml0y4IIP",
+    "path": "data/raw/clinicdb/train/masks/546.png"
+  },
+  {
+    "id": "1fCuby7Z2fzDW1LcwKzzmxV8M8-OcU0RH",
+    "path": "data/raw/clinicdb/train/masks/547.png"
+  },
+  {
+    "id": "1dTq38whuYcUxgsxNjhh9eX6bRF_O8-eU",
+    "path": "data/raw/clinicdb/train/masks/549.png"
+  },
+  {
+    "id": "1ScQG5u9lZkv_JBq3ImFvP7L--AK4Pe7g",
+    "path": "data/raw/clinicdb/train/masks/55.png"
+  },
+  {
+    "id": "1aBRfLEJSewyMPLdaUO-c_3kWvtwFwqVp",
+    "path": "data/raw/clinicdb/train/masks/550.png"
+  },
+  {
+    "id": "1fZvGt9WVf426WVnSLmYwOivOtb3Cf6Jr",
+    "path": "data/raw/clinicdb/train/masks/551.png"
+  },
+  {
+    "id": "1VB1a00G3QjfpK-9JYQA9GtRlpMPmGJRo",
+    "path": "data/raw/clinicdb/train/masks/553.png"
+  },
+  {
+    "id": "1JFY_Vzy5bY-qKWPnq7AKSJQPDk6JNzrd",
+    "path": "data/raw/clinicdb/train/masks/554.png"
+  },
+  {
+    "id": "1Kg53CkzXiqSG5s1Ck8oh5o8e_s8AJVth",
+    "path": "data/raw/clinicdb/train/masks/556.png"
+  },
+  {
+    "id": "1lFGL3MOdRQUmxOX6nqD_mQOzkfooWUgh",
+    "path": "data/raw/clinicdb/train/masks/557.png"
+  },
+  {
+    "id": "1wJNmgK5tl4vZHPFhmbEhL75dkC59wz7W",
+    "path": "data/raw/clinicdb/train/masks/558.png"
+  },
+  {
+    "id": "1ZqTXEj6zFZch57z6OL96PtGYpwKdzfIW",
+    "path": "data/raw/clinicdb/train/masks/559.png"
+  },
+  {
+    "id": "1bFcStlw0LDyDUqFtRKbG5y87TCPGOceB",
+    "path": "data/raw/clinicdb/train/masks/56.png"
+  },
+  {
+    "id": "1I7uU0eOl_ExFsw4CRFi8_VSmjFWjXcXc",
+    "path": "data/raw/clinicdb/train/masks/560.png"
+  },
+  {
+    "id": "1UvxD4t8O6Pkym5CSkEg5a3HMVw0YsuIT",
+    "path": "data/raw/clinicdb/train/masks/561.png"
+  },
+  {
+    "id": "1a0wZm54RjDGWX9OeqM_wkOeX2qw-EAJp",
+    "path": "data/raw/clinicdb/train/masks/562.png"
+  },
+  {
+    "id": "1YeXctO49npk7x-foHCfcK9duvNWKyBwS",
+    "path": "data/raw/clinicdb/train/masks/563.png"
+  },
+  {
+    "id": "1nXfND_n-8rqwm7hWIyChJy72i96KGm0u",
+    "path": "data/raw/clinicdb/train/masks/564.png"
+  },
+  {
+    "id": "1Kq0h5aNfgFP1MdwL6st7N8ZduJLmQbZV",
+    "path": "data/raw/clinicdb/train/masks/566.png"
+  },
+  {
+    "id": "1Nut9y7zW-uPhZBQOCmirM5XVdHR_sB7f",
+    "path": "data/raw/clinicdb/train/masks/567.png"
+  },
+  {
+    "id": "1M24Ge8MZpVV6zIJFQqrPWKit5lau4oOC",
+    "path": "data/raw/clinicdb/train/masks/57.png"
+  },
+  {
+    "id": "1-IRABEIoWI70IeYaKCFvXEQJkiDBlGbM",
+    "path": "data/raw/clinicdb/train/masks/570.png"
+  },
+  {
+    "id": "1KMkfDUQvAJfCfWzm59VqrEIAfRfd06wU",
+    "path": "data/raw/clinicdb/train/masks/571.png"
+  },
+  {
+    "id": "1ryoEUoe6uKZf9IYamoQ_2vlYYWmnRdEw",
+    "path": "data/raw/clinicdb/train/masks/573.png"
+  },
+  {
+    "id": "1g6qczdSy4TIin9ruMnE3hhMsYGgDKEyn",
+    "path": "data/raw/clinicdb/train/masks/574.png"
+  },
+  {
+    "id": "1XEk4esdVPCXxT-70d2POMbqkWgbGYQ2s",
+    "path": "data/raw/clinicdb/train/masks/577.png"
+  },
+  {
+    "id": "1GVZNcXSr1YJH3K7drx9vmZ7bhDgnc5of",
+    "path": "data/raw/clinicdb/train/masks/578.png"
+  },
+  {
+    "id": "1UzLxGaP4t-cQKkPryRhe0qeWOIWXgf2N",
+    "path": "data/raw/clinicdb/train/masks/579.png"
+  },
+  {
+    "id": "1uRm-9BxNe5LuHYXqbKtUMKwjdqd7ZP7n",
+    "path": "data/raw/clinicdb/train/masks/58.png"
+  },
+  {
+    "id": "1Ij4fPq0oNErUv3_-_rRcj2PjavS1N70L",
+    "path": "data/raw/clinicdb/train/masks/580.png"
+  },
+  {
+    "id": "13J-g3qKWiEkK5jFbau2Ftf7QJsK2SZ6z",
+    "path": "data/raw/clinicdb/train/masks/581.png"
+  },
+  {
+    "id": "1u5Iwck7mjFgZ5aF1kpIUtjpQ2l6Bg6Yg",
+    "path": "data/raw/clinicdb/train/masks/582.png"
+  },
+  {
+    "id": "1IQwgvCyjkxiSn3BznUR0rN9hsGu3k8rE",
+    "path": "data/raw/clinicdb/train/masks/583.png"
+  },
+  {
+    "id": "161ks8_RmqTk20uX_yfceh_r9tQPFh72Z",
+    "path": "data/raw/clinicdb/train/masks/584.png"
+  },
+  {
+    "id": "1HgpOf35I4OXWIRocnVk_mWKqptgJ3L0e",
+    "path": "data/raw/clinicdb/train/masks/585.png"
+  },
+  {
+    "id": "14ErElWjGjyTYYvaqlGJlJOHhc5L_fwq8",
+    "path": "data/raw/clinicdb/train/masks/586.png"
+  },
+  {
+    "id": "15sueYr8CwLSqXTE64T7FLL5ocX18pMWy",
+    "path": "data/raw/clinicdb/train/masks/587.png"
+  },
+  {
+    "id": "1Knxd52wizV06IUuZ2Gop14KhRCgQ6J52",
+    "path": "data/raw/clinicdb/train/masks/588.png"
+  },
+  {
+    "id": "1b0nIEY-9ImqAIVTqeHR3v02EkYQlbMrl",
+    "path": "data/raw/clinicdb/train/masks/589.png"
+  },
+  {
+    "id": "1tOVU0K3fStBDSpCbqm0feRAxBBtIrXmz",
+    "path": "data/raw/clinicdb/train/masks/592.png"
+  },
+  {
+    "id": "1HM7uNNp-5THtgpl2ucJI9rfOApQpsjyH",
+    "path": "data/raw/clinicdb/train/masks/595.png"
+  },
+  {
+    "id": "1u5PJKlqUDfAxy8grUEX9XqqYMLPoTmDm",
+    "path": "data/raw/clinicdb/train/masks/596.png"
+  },
+  {
+    "id": "1yf9N3wPOlEDnQcfq4w88gd9pWaNEaWsZ",
+    "path": "data/raw/clinicdb/train/masks/597.png"
+  },
+  {
+    "id": "1iEloP30bNwyFwTOwXtrH8YY6n5oTPlxj",
+    "path": "data/raw/clinicdb/train/masks/598.png"
+  },
+  {
+    "id": "1MnsYO2bE-PtEAXL4hfEjZxLddLhCOj7v",
+    "path": "data/raw/clinicdb/train/masks/599.png"
+  },
+  {
+    "id": "18NmHjKv3lE8wSnzqZC-Drc3i6yrhm2xL",
+    "path": "data/raw/clinicdb/train/masks/6.png"
+  },
+  {
+    "id": "1ZE-3vimmhWqOrjRaR6csUTZTkrO8l50K",
+    "path": "data/raw/clinicdb/train/masks/600.png"
+  },
+  {
+    "id": "1i9GpXfQjzLx9gugDHJ0sPC4_lA4-ytE0",
+    "path": "data/raw/clinicdb/train/masks/601.png"
+  },
+  {
+    "id": "1qB6EhR9bYz_z-RifpMvK_ckTJa39f77P",
+    "path": "data/raw/clinicdb/train/masks/602.png"
+  },
+  {
+    "id": "1uzJpcsbTzEZljA7fvWS7EsYmqnrFiEDv",
+    "path": "data/raw/clinicdb/train/masks/603.png"
+  },
+  {
+    "id": "1vpZSJpwok8kjb5X0bFWKjJXtm4J50xt8",
+    "path": "data/raw/clinicdb/train/masks/604.png"
+  },
+  {
+    "id": "1grKHoxi6GQtG9xc4VSYQ2D-8dGJBxBk0",
+    "path": "data/raw/clinicdb/train/masks/605.png"
+  },
+  {
+    "id": "1zXvipj1REiehOjy1n8cd4NIfcvfuQNFw",
+    "path": "data/raw/clinicdb/train/masks/606.png"
+  },
+  {
+    "id": "1EVFC5OTk6Q0B0braK-uAMVawOH43oHgm",
+    "path": "data/raw/clinicdb/train/masks/607.png"
+  },
+  {
+    "id": "1fC7JMBw4nyYrHaT2Kyi5c14DRNMaGn2-",
+    "path": "data/raw/clinicdb/train/masks/609.png"
+  },
+  {
+    "id": "1d-vt1ga5Xr0Ymm129nUT41MyB5KV-LaH",
+    "path": "data/raw/clinicdb/train/masks/61.png"
+  },
+  {
+    "id": "1KtwxVaX-QYQUb4Cy5ejsEyLaSLAcO5Pt",
+    "path": "data/raw/clinicdb/train/masks/610.png"
+  },
+  {
+    "id": "1BpctMV0L43uv0sibOh1gvhBNcGXHutfM",
+    "path": "data/raw/clinicdb/train/masks/611.png"
+  },
+  {
+    "id": "18BBDM6KGVT7oybA3a1BSApH_hIEGloTR",
+    "path": "data/raw/clinicdb/train/masks/612.png"
+  },
+  {
+    "id": "1S3c9KMnlLyBS5DKFzh47UtaTgLTp4OW0",
+    "path": "data/raw/clinicdb/train/masks/62.png"
+  },
+  {
+    "id": "15KN_L2Q_QAewg-nMJRa4p-_hVbFNVToB",
+    "path": "data/raw/clinicdb/train/masks/63.png"
+  },
+  {
+    "id": "1OOcSZs4H6YzYr2y0KBARPuJYSRLRrLZk",
+    "path": "data/raw/clinicdb/train/masks/65.png"
+  },
+  {
+    "id": "1L7h3RAcjETn8YNbiyDj1LoaWPiH_n8Gu",
+    "path": "data/raw/clinicdb/train/masks/66.png"
+  },
+  {
+    "id": "1atCDQ1h3xVBJbqHgcmdS0INqPJhTzsDN",
+    "path": "data/raw/clinicdb/train/masks/67.png"
+  },
+  {
+    "id": "1Dqp8GT7JD4VM0PLAP488hh2lKuJsfIG8",
+    "path": "data/raw/clinicdb/train/masks/68.png"
+  },
+  {
+    "id": "1f5WcpC7p9bFyrE3bGx_5OhnyXOyWdMrw",
+    "path": "data/raw/clinicdb/train/masks/69.png"
+  },
+  {
+    "id": "1OOzm2hJO6Gn9p9Kplumoi9GYSXNwt3GU",
+    "path": "data/raw/clinicdb/train/masks/7.png"
+  },
+  {
+    "id": "1ezbii_KG9DfjhyX5Ei3_p-K-qvsyFnxx",
+    "path": "data/raw/clinicdb/train/masks/70.png"
+  },
+  {
+    "id": "1ov64vO0Hfpmg45-D5D5Fomla2WeI0Xjx",
+    "path": "data/raw/clinicdb/train/masks/71.png"
+  },
+  {
+    "id": "1vXBLIeGHwl1EchOdEOCBg6dGUpGnB2fZ",
+    "path": "data/raw/clinicdb/train/masks/72.png"
+  },
+  {
+    "id": "1giPkq27yLZXfIcW59tr_UT-xUQcG120i",
+    "path": "data/raw/clinicdb/train/masks/73.png"
+  },
+  {
+    "id": "1Ikp14CArpyi9GrgEbQCrQERFpAtcVLrR",
+    "path": "data/raw/clinicdb/train/masks/74.png"
+  },
+  {
+    "id": "1f_RFvfv8zvgpKm1SxHkKv9qQ2Q3N-NFU",
+    "path": "data/raw/clinicdb/train/masks/75.png"
+  },
+  {
+    "id": "10JgUY62GRSbxXxtZJM-EUimVidvSU9Cr",
+    "path": "data/raw/clinicdb/train/masks/76.png"
+  },
+  {
+    "id": "1jKFLCYCEIrkxaGTZNhru9KEQgxMDL1fJ",
+    "path": "data/raw/clinicdb/train/masks/77.png"
+  },
+  {
+    "id": "1KEkhL_qliG88EFLl6KydVsao9xNdtb5o",
+    "path": "data/raw/clinicdb/train/masks/78.png"
+  },
+  {
+    "id": "1JM1h5Kpv6LYmJJxUO9cs4S8jx89-Bz7C",
+    "path": "data/raw/clinicdb/train/masks/79.png"
+  },
+  {
+    "id": "1BqUvvORsJdnZu1H0E66ZSmTvAr9796IR",
+    "path": "data/raw/clinicdb/train/masks/82.png"
+  },
+  {
+    "id": "1hqFGZXaWVrEHEHQl3ogaPbURkGj5gsb8",
+    "path": "data/raw/clinicdb/train/masks/83.png"
+  },
+  {
+    "id": "1YpMPJsryeQty8ciUoG_EaGPn2VvKeFn0",
+    "path": "data/raw/clinicdb/train/masks/84.png"
+  },
+  {
+    "id": "1_dd5BL9sqCwkefLx70TPdxWauz4vWLh3",
+    "path": "data/raw/clinicdb/train/masks/85.png"
+  },
+  {
+    "id": "1b3UCkA_fsxb1hX8LWPGwtvVFJAn_Z5bJ",
+    "path": "data/raw/clinicdb/train/masks/86.png"
+  },
+  {
+    "id": "1KE8f_cK9YLz2Un8jHG8pvib65oqDJK4u",
+    "path": "data/raw/clinicdb/train/masks/87.png"
+  },
+  {
+    "id": "1ysHF551bxuOLE5SSxA_XbZFCXCX5moXB",
+    "path": "data/raw/clinicdb/train/masks/88.png"
+  },
+  {
+    "id": "1FlpbxOha1L5SejLtm2dHlayiR1TXFVLS",
+    "path": "data/raw/clinicdb/train/masks/9.png"
+  },
+  {
+    "id": "1CwbpOdnPTWoF23KUrLZTwCl39wqCPu1E",
+    "path": "data/raw/clinicdb/train/masks/90.png"
+  },
+  {
+    "id": "1H0e9fys2Krik-no8XLID0nLe4CJU0210",
+    "path": "data/raw/clinicdb/train/masks/91.png"
+  },
+  {
+    "id": "18lsGq5lzt6s8Q6eiCy5wMwIw1D9MJtns",
+    "path": "data/raw/clinicdb/train/masks/92.png"
+  },
+  {
+    "id": "1Jd0wxSvquvqXaRwxihaTzQfTRyNpUKVh",
+    "path": "data/raw/clinicdb/train/masks/93.png"
+  },
+  {
+    "id": "1KvVXfJYoNJZZdiUSRYoSiTUUn1lOLtiD",
+    "path": "data/raw/clinicdb/train/masks/94.png"
+  },
+  {
+    "id": "1A2mruyRiGEp4SAzGBO2J9jQGO9n-ZXAy",
+    "path": "data/raw/clinicdb/train/masks/95.png"
+  },
+  {
+    "id": "1bg0M7wt0pRJ9L9guGqZh10AR0zmX_q0Y",
+    "path": "data/raw/clinicdb/train/masks/96.png"
+  },
+  {
+    "id": "1sfBGwyEqmI5L-MdMA3dD0n8VdYdNX54W",
+    "path": "data/raw/clinicdb/train/masks/97.png"
+  },
+  {
+    "id": "1svGtdeqrlOsNvHb5uk1bimHsssXGLKn7",
+    "path": "data/raw/clinicdb/train/masks/98.png"
+  },
+  {
+    "id": "1IG5bLzrWx3cUjtNU0kNvBDHUzT_FBAN6",
+    "path": "data/raw/clinicdb/train/masks/99.png"
+  },
+  {
+    "id": "1BT_9vc-_uqkhxr1Jei0UI0ZwG9q037cu",
+    "path": "data/raw/clinicdb/val/images/10.png"
+  },
+  {
+    "id": "1wwfq3bRUx1nFGh-z9WoI2iCU69Cqkqaa",
+    "path": "data/raw/clinicdb/val/images/109.png"
+  },
+  {
+    "id": "1BY-GFdDXZi3Gy7i1QmCxTxV-ZMykXlRN",
+    "path": "data/raw/clinicdb/val/images/163.png"
+  },
+  {
+    "id": "1PIfr535HK4oCV15owwPfASvm7Wk1QRo3",
+    "path": "data/raw/clinicdb/val/images/173.png"
+  },
+  {
+    "id": "1kDx5mx74aeb-e52DrLNegvy03beMz8rg",
+    "path": "data/raw/clinicdb/val/images/181.png"
+  },
+  {
+    "id": "1rFYIUTclRAEdIyW0ggyE4837PNmAmDGr",
+    "path": "data/raw/clinicdb/val/images/191.png"
+  },
+  {
+    "id": "18FymFnASLA3-yIaCh8xuMNyPfhy1nTHL",
+    "path": "data/raw/clinicdb/val/images/197.png"
+  },
+  {
+    "id": "1oB2DRxM0uuWgKUN_9AsKycpqcdmBT8Q7",
+    "path": "data/raw/clinicdb/val/images/198.png"
+  },
+  {
+    "id": "1hQVjBeBMVQJFlPEsqYcZWgjVHv9UFQ4R",
+    "path": "data/raw/clinicdb/val/images/200.png"
+  },
+  {
+    "id": "1B9U68eq4NSuriGjixuzMH133mdGgNVdJ",
+    "path": "data/raw/clinicdb/val/images/203.png"
+  },
+  {
+    "id": "1RJfzO2zBRpsGyamD3dPE9YxUAQnu1Krg",
+    "path": "data/raw/clinicdb/val/images/214.png"
+  },
+  {
+    "id": "1aLijJgQJ0uaLZzLY2FixejhyetD-HX0i",
+    "path": "data/raw/clinicdb/val/images/218.png"
+  },
+  {
+    "id": "1MKKabziJqFNV80dtN8BP-RgGuh3qimjP",
+    "path": "data/raw/clinicdb/val/images/228.png"
+  },
+  {
+    "id": "1Bsc46N0EdL0Ogk11xIP41Lt8NxI2fIih",
+    "path": "data/raw/clinicdb/val/images/229.png"
+  },
+  {
+    "id": "19uHi2VRVzDHVKFAcb4D-ZjuD9RkAWNoM",
+    "path": "data/raw/clinicdb/val/images/241.png"
+  },
+  {
+    "id": "1E-nspELy_qZdcrKChzCiPpnlvrtefQ3L",
+    "path": "data/raw/clinicdb/val/images/244.png"
+  },
+  {
+    "id": "1eQ8nvtStpdwCiuFJQdsGgptHXflpUu4M",
+    "path": "data/raw/clinicdb/val/images/254.png"
+  },
+  {
+    "id": "12BEIdtTyk_9PRBuIDTA1Rj5u8DEq1Q0p",
+    "path": "data/raw/clinicdb/val/images/262.png"
+  },
+  {
+    "id": "1RCauMby0rl0Sxe1uO_GpebSSwEy8s_DT",
+    "path": "data/raw/clinicdb/val/images/266.png"
+  },
+  {
+    "id": "1ylJuk7HtX4Ru1nJ5LnL5U2GzKCYrJrKZ",
+    "path": "data/raw/clinicdb/val/images/279.png"
+  },
+  {
+    "id": "1dOvOdd62DjksNQ91DHVTaUA4gUL6rQLG",
+    "path": "data/raw/clinicdb/val/images/295.png"
+  },
+  {
+    "id": "1KfcnAV4Brqc97ubrnOSR85VKBWavr4XT",
+    "path": "data/raw/clinicdb/val/images/3.png"
+  },
+  {
+    "id": "1ZhJx86hYcpeUQJcjIPpfBYdYIxd5i5K1",
+    "path": "data/raw/clinicdb/val/images/307.png"
+  },
+  {
+    "id": "1P5mjF7UjyGugMCtR_7CZVl5JxKU0e9o2",
+    "path": "data/raw/clinicdb/val/images/312.png"
+  },
+  {
+    "id": "1FlqerAQLB6UEZUIQtS8VQOcCA_RkLeZT",
+    "path": "data/raw/clinicdb/val/images/314.png"
+  },
+  {
+    "id": "18LIuIezFe0MAh_LdAXaTrk0hcjzeXRtL",
+    "path": "data/raw/clinicdb/val/images/318.png"
+  },
+  {
+    "id": "1VtmG-dnoByk7Y8I8v18UArJEc3W5XQfc",
+    "path": "data/raw/clinicdb/val/images/33.png"
+  },
+  {
+    "id": "1EiBvFkjc2vmY9GDxiXhLJV3a7xzLhfEE",
+    "path": "data/raw/clinicdb/val/images/34.png"
+  },
+  {
+    "id": "1p9FAf0-PG7m7zw4kT7E8ZyfZN_aIISX_",
+    "path": "data/raw/clinicdb/val/images/343.png"
+  },
+  {
+    "id": "1JFci5WR9XocuOaoXgHB3QdsinBijq-mb",
+    "path": "data/raw/clinicdb/val/images/348.png"
+  },
+  {
+    "id": "1K0GUiYfffab_Ov0PvaX2imnRFCRo8eDY",
+    "path": "data/raw/clinicdb/val/images/350.png"
+  },
+  {
+    "id": "1ARMTW3xFJPw6FZX918YYtDXsccmLjxyK",
+    "path": "data/raw/clinicdb/val/images/353.png"
+  },
+  {
+    "id": "1zMK0ddjxuhC5M1CB1AyVyemulGmXpiez",
+    "path": "data/raw/clinicdb/val/images/355.png"
+  },
+  {
+    "id": "17Ph7_uG6CC3_AvWaimk7GnE8um5708gi",
+    "path": "data/raw/clinicdb/val/images/36.png"
+  },
+  {
+    "id": "1wzg8nrp9cvtWwjiNQnakdYH5qp9eM_dI",
+    "path": "data/raw/clinicdb/val/images/364.png"
+  },
+  {
+    "id": "16kH6fsC8PjfmtUCREFJssWMk8OO50aGd",
+    "path": "data/raw/clinicdb/val/images/392.png"
+  },
+  {
+    "id": "1b6GN2xRNSwXa0IirZwyNQph12zJAovdd",
+    "path": "data/raw/clinicdb/val/images/4.png"
+  },
+  {
+    "id": "1DPtNOz0ljc6ZZTZKmiCxz98hxjiHhCah",
+    "path": "data/raw/clinicdb/val/images/418.png"
+  },
+  {
+    "id": "1bfQsB2BCTju1fEVms3RJdAaSKNpEqNtK",
+    "path": "data/raw/clinicdb/val/images/433.png"
+  },
+  {
+    "id": "1BdmlHiVzz4Tf0tgaSfvyANzEwzQ_yFS-",
+    "path": "data/raw/clinicdb/val/images/437.png"
+  },
+  {
+    "id": "1ZKhfk0Sx-dF0NbuTWY13o9LdDXqxwWw_",
+    "path": "data/raw/clinicdb/val/images/443.png"
+  },
+  {
+    "id": "1aPvhthMtkV1JIl7pvnC4CpUTq-RZMjVv",
+    "path": "data/raw/clinicdb/val/images/471.png"
+  },
+  {
+    "id": "1pwlZdbt3YIrmreoJo2qUhBOahta3M3Tw",
+    "path": "data/raw/clinicdb/val/images/473.png"
+  },
+  {
+    "id": "19Eodrmrczc2iG2_MFZlBhuUI8N6-ehOe",
+    "path": "data/raw/clinicdb/val/images/486.png"
+  },
+  {
+    "id": "1It1FqttwhqboJRtRJ7pPEDPqgTrQtQBz",
+    "path": "data/raw/clinicdb/val/images/491.png"
+  },
+  {
+    "id": "1p_on9sh3DGj38aVGinp8H55u61H-u8J9",
+    "path": "data/raw/clinicdb/val/images/497.png"
+  },
+  {
+    "id": "1w8AiJFH_aggL7mWbkogoY5OfP396EsUV",
+    "path": "data/raw/clinicdb/val/images/506.png"
+  },
+  {
+    "id": "1rJLYD0_nQxc4NF8uX1LRt8QHjdOw8YL0",
+    "path": "data/raw/clinicdb/val/images/507.png"
+  },
+  {
+    "id": "1hgEXWf3tDq7fZCrXfbZEmefqOgxGaBBI",
+    "path": "data/raw/clinicdb/val/images/514.png"
+  },
+  {
+    "id": "1HqwG_cA8HLsJz1aP8028c8Roo5OxzuKJ",
+    "path": "data/raw/clinicdb/val/images/516.png"
+  },
+  {
+    "id": "1jgGzd-vKXBbMHHEF1xt8Nr9PqOk6wKiD",
+    "path": "data/raw/clinicdb/val/images/531.png"
+  },
+  {
+    "id": "1SjgsILZqq10ZK7znJrMQRVZTVQWZgsj-",
+    "path": "data/raw/clinicdb/val/images/548.png"
+  },
+  {
+    "id": "1OhLPHAlOMHR7kjB8LBnI9-CBvNye5-ph",
+    "path": "data/raw/clinicdb/val/images/552.png"
+  },
+  {
+    "id": "1cQ_bv0MmMFIo38hBnlTTRXi2Q7cmEC75",
+    "path": "data/raw/clinicdb/val/images/555.png"
+  },
+  {
+    "id": "1Lpx6A6eItUJygM2cJGR09MSvusTkwrDy",
+    "path": "data/raw/clinicdb/val/images/565.png"
+  },
+  {
+    "id": "1Q9u5QnIRHIWZpXkOXk2rMvrrA3cWVf0T",
+    "path": "data/raw/clinicdb/val/images/568.png"
+  },
+  {
+    "id": "1duClAUWgZBH4oBbFG6f3tIB6U0ZrLPgh",
+    "path": "data/raw/clinicdb/val/images/569.png"
+  },
+  {
+    "id": "1p-5IwLCwjq9MQMW2elFiC5HSr3mYgN8S",
+    "path": "data/raw/clinicdb/val/images/576.png"
+  },
+  {
+    "id": "1PPVLOQdFdd2Av3g-YhdURw5W6g3be6cF",
+    "path": "data/raw/clinicdb/val/images/60.png"
+  },
+  {
+    "id": "1mGDIpw4lLG4uotixQOUDthjB6UMYTXN1",
+    "path": "data/raw/clinicdb/val/images/80.png"
+  },
+  {
+    "id": "19lIvQ1QSu7uZ_LFBe4Nj8Z-FpRwbE6s9",
+    "path": "data/raw/clinicdb/val/images/81.png"
+  },
+  {
+    "id": "1P7_AnAV7f6M7eNnlHmpSEBMbZUhdmGos",
+    "path": "data/raw/clinicdb/val/masks/10.png"
+  },
+  {
+    "id": "1-fbC7orJh2Y-qVNAZwHKviAMWIhoIyir",
+    "path": "data/raw/clinicdb/val/masks/109.png"
+  },
+  {
+    "id": "1JDGfPHOokpqFsRQkLpC7EqI_YOxlD0hk",
+    "path": "data/raw/clinicdb/val/masks/163.png"
+  },
+  {
+    "id": "1jNBUqrC413C_RNQuntlpW19Ild-26VYH",
+    "path": "data/raw/clinicdb/val/masks/173.png"
+  },
+  {
+    "id": "1o9ftRiQNrnsF5CHgykblz0qL91uXgadT",
+    "path": "data/raw/clinicdb/val/masks/181.png"
+  },
+  {
+    "id": "1XR1HjdV7Ydn29s8QyUHuv0QlO49Yv63l",
+    "path": "data/raw/clinicdb/val/masks/191.png"
+  },
+  {
+    "id": "1AR_ljEz_nSAb0on49r2nKm0JawA-hj9A",
+    "path": "data/raw/clinicdb/val/masks/197.png"
+  },
+  {
+    "id": "161DC5SR2mWH1hGDQ0yVmFPcl6ObsGOIY",
+    "path": "data/raw/clinicdb/val/masks/198.png"
+  },
+  {
+    "id": "152Qdxp-HaOrwwnsCGtRlL4i3k1DhMYtj",
+    "path": "data/raw/clinicdb/val/masks/200.png"
+  },
+  {
+    "id": "1M6aVCG8-ouDdcq4TZks6MAc0OeNWttJq",
+    "path": "data/raw/clinicdb/val/masks/203.png"
+  },
+  {
+    "id": "1Z0YpEMfacVL2VZIIvgF89e3VN8DPnPOe",
+    "path": "data/raw/clinicdb/val/masks/214.png"
+  },
+  {
+    "id": "1M0ob3331qNU9uhljx4ZYYuPEKTE4uiFu",
+    "path": "data/raw/clinicdb/val/masks/218.png"
+  },
+  {
+    "id": "1Iv2NKTMEjXynX6ZTAKOaLm3SFr6ltDXq",
+    "path": "data/raw/clinicdb/val/masks/228.png"
+  },
+  {
+    "id": "1WNNj9oKHbRgAtxcJD0OFBnRnOnVNwNmP",
+    "path": "data/raw/clinicdb/val/masks/229.png"
+  },
+  {
+    "id": "1_UnDadEP0ItdXqes--Amk9LSqsq0o5cC",
+    "path": "data/raw/clinicdb/val/masks/241.png"
+  },
+  {
+    "id": "1sVSnyIw8yUh9sDUpotWPiyG8gITsBly6",
+    "path": "data/raw/clinicdb/val/masks/244.png"
+  },
+  {
+    "id": "1z2ZkrsU6Lqv9wfbxKXjEHx27nDEsqd0l",
+    "path": "data/raw/clinicdb/val/masks/254.png"
+  },
+  {
+    "id": "1uxGAakWVJuxdM7B9dZcggx1lvz_LWgQN",
+    "path": "data/raw/clinicdb/val/masks/262.png"
+  },
+  {
+    "id": "1JDnYE86dh5y2wJtngAJFwvetFim-et3a",
+    "path": "data/raw/clinicdb/val/masks/266.png"
+  },
+  {
+    "id": "1Bjyoy4yp-JQbiswKffPgrtKJuBlvPKk_",
+    "path": "data/raw/clinicdb/val/masks/279.png"
+  },
+  {
+    "id": "1zzmRIbtLQDyvr8iKZmOtwmhmG2iZhEG5",
+    "path": "data/raw/clinicdb/val/masks/295.png"
+  },
+  {
+    "id": "1Px88dH2tx874WHXsPjvqwT3viQIDWyQb",
+    "path": "data/raw/clinicdb/val/masks/3.png"
+  },
+  {
+    "id": "1nTLpKLATP-kKLHSHdxfSh2kwh-yrRnoH",
+    "path": "data/raw/clinicdb/val/masks/307.png"
+  },
+  {
+    "id": "17qDPNxsBv0V8Z8qbN8RmK4cbUCYfDlhc",
+    "path": "data/raw/clinicdb/val/masks/312.png"
+  },
+  {
+    "id": "1uoOCQd5GTiAwqgF26J_aqn2kiShFmsoC",
+    "path": "data/raw/clinicdb/val/masks/314.png"
+  },
+  {
+    "id": "1YsVku-n2_pMSITrG_CfFIRol9PAngtAv",
+    "path": "data/raw/clinicdb/val/masks/318.png"
+  },
+  {
+    "id": "1huQVrrcJgOoi8i3DotkUvMqpcYDzXhMz",
+    "path": "data/raw/clinicdb/val/masks/33.png"
+  },
+  {
+    "id": "1iX54B4F-DmARMlGGH-9ErvBTCqDhj3SM",
+    "path": "data/raw/clinicdb/val/masks/34.png"
+  },
+  {
+    "id": "13J39MHfcALF9fL5Unf69sv7TFtE_ibN8",
+    "path": "data/raw/clinicdb/val/masks/343.png"
+  },
+  {
+    "id": "1I0suptVLn3jSlVdyPKzBSvRw6HzUpMOf",
+    "path": "data/raw/clinicdb/val/masks/348.png"
+  },
+  {
+    "id": "19fYPDYIGeb2hqHCAsk1ageiGorBmMdQY",
+    "path": "data/raw/clinicdb/val/masks/350.png"
+  },
+  {
+    "id": "1SXChYsyjcOLf8_4dzbAUttrDq_lfLfTo",
+    "path": "data/raw/clinicdb/val/masks/353.png"
+  },
+  {
+    "id": "1yFLqT0eshFTppWADFHcl89lNiSjVzByJ",
+    "path": "data/raw/clinicdb/val/masks/355.png"
+  },
+  {
+    "id": "1zcmD5goM8CiGDPajcdTcQ6gsTn7v0afc",
+    "path": "data/raw/clinicdb/val/masks/36.png"
+  },
+  {
+    "id": "1fJFaQLzrkqEfJ4mau64bqIM1rXQyYjA4",
+    "path": "data/raw/clinicdb/val/masks/364.png"
+  },
+  {
+    "id": "1M-waFbuhAc2GHlhR2XXu05zbHOqqtEjB",
+    "path": "data/raw/clinicdb/val/masks/392.png"
+  },
+  {
+    "id": "1hACMEn8hR5nHBBIN7ZQOKso_3nq7r4gy",
+    "path": "data/raw/clinicdb/val/masks/4.png"
+  },
+  {
+    "id": "1vW2oVF-ZoPj4NnkRzKhJ87D48QX3EvfW",
+    "path": "data/raw/clinicdb/val/masks/418.png"
+  },
+  {
+    "id": "1GmU6JA7bZ4bHZYUvb9egHl3LepJcbyqe",
+    "path": "data/raw/clinicdb/val/masks/433.png"
+  },
+  {
+    "id": "1fINtg7dtQuYEcCFSGWnB217jcIT5PrhM",
+    "path": "data/raw/clinicdb/val/masks/437.png"
+  },
+  {
+    "id": "1CdM8vsZxVZsF0bzXg_ckanAS4n4nJ5ml",
+    "path": "data/raw/clinicdb/val/masks/443.png"
+  },
+  {
+    "id": "1p73nsf793_ZcsqFTULH-dRnIG7hSRuDR",
+    "path": "data/raw/clinicdb/val/masks/471.png"
+  },
+  {
+    "id": "1SlA_5O6BFLR5C1Fqm1dFztcBTdwtHxm4",
+    "path": "data/raw/clinicdb/val/masks/473.png"
+  },
+  {
+    "id": "1TxTJoeG1kQofDY3HYfZGyyxWDr8t221Z",
+    "path": "data/raw/clinicdb/val/masks/486.png"
+  },
+  {
+    "id": "1ulE5iZjehvu197q9TR077Lt8m61R2Uup",
+    "path": "data/raw/clinicdb/val/masks/491.png"
+  },
+  {
+    "id": "1rseIYpXr_vKHNq0YXAMSfSVEhVvHd8u4",
+    "path": "data/raw/clinicdb/val/masks/497.png"
+  },
+  {
+    "id": "1W5lzwu3xoZCzB1umxXT9dXpUGIVUX0Ga",
+    "path": "data/raw/clinicdb/val/masks/506.png"
+  },
+  {
+    "id": "1bJxI7RNKYJz8Q_Vhh3coUM0-hCTys4zJ",
+    "path": "data/raw/clinicdb/val/masks/507.png"
+  },
+  {
+    "id": "11JQe6pcta3GGvVi-Qb_HYKSNnad5l1ds",
+    "path": "data/raw/clinicdb/val/masks/514.png"
+  },
+  {
+    "id": "1Y748lbJdmbcNXjBOUUtHN5-SJWTNoCk2",
+    "path": "data/raw/clinicdb/val/masks/516.png"
+  },
+  {
+    "id": "1B3HGqmw4-aG9AW6f7PPBcXMQfzRLsZI2",
+    "path": "data/raw/clinicdb/val/masks/531.png"
+  },
+  {
+    "id": "1tM-nPJeCcMlSIM6UAWp4wfuCtG8hmELf",
+    "path": "data/raw/clinicdb/val/masks/548.png"
+  },
+  {
+    "id": "169c1RbTeqUsXefw1u2Y1uOZZp_ZED-v0",
+    "path": "data/raw/clinicdb/val/masks/552.png"
+  },
+  {
+    "id": "14M7AyZpgd8qtrKpEN-gWwf5TYp88N9HE",
+    "path": "data/raw/clinicdb/val/masks/555.png"
+  },
+  {
+    "id": "1yrg5s7daGVf0p3IxsJOIp7S11_nBeL4I",
+    "path": "data/raw/clinicdb/val/masks/565.png"
+  },
+  {
+    "id": "1OqLTOuxm9unRNtSC8mC0kRIsOzsuNv0j",
+    "path": "data/raw/clinicdb/val/masks/568.png"
+  },
+  {
+    "id": "1eZy_kPOPY3qnl9ica9_0-gU5vyjoSm7g",
+    "path": "data/raw/clinicdb/val/masks/569.png"
+  },
+  {
+    "id": "1N_ehf4z9wTYZ9IcBj5gAuTxp8tuhE2i8",
+    "path": "data/raw/clinicdb/val/masks/576.png"
+  },
+  {
+    "id": "1gi8IFOuQwKSx5M2mX1v378spRUz8XcQK",
+    "path": "data/raw/clinicdb/val/masks/60.png"
+  },
+  {
+    "id": "1O6L4LMJjPSh39HNU4eNYccdYlLD9lA-M",
+    "path": "data/raw/clinicdb/val/masks/80.png"
+  },
+  {
+    "id": "1h3fX6eT9s68mwEdZ5CUqCtMov-VfEP0c",
+    "path": "data/raw/clinicdb/val/masks/81.png"
+  },
+  {
+    "id": "1KUjHaITi6lWNxveLQpd9_lhYyEStcYMb",
+    "path": "data/raw/clinicdb/test_list_clinicdb.txt"
+  },
+  {
+    "id": "1h70afJzCwBabuwgeZEXwJSJCjzPvS6GL",
+    "path": "data/raw/clinicdb/train_list_clinicdb.txt"
+  },
+  {
+    "id": "1CanipjakqvNQUZYpKe-KJ0TkQB-Ky7AY",
+    "path": "data/raw/clinicdb/val_list_clinicdb.txt"
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "ClinicDB": {
+    "status": "completed",
+    "best_epoch": 200,
+    "best_val_dice": 0.8972018541793843,
+    "epochs": 200,
+    "elapsed_seconds": 4211.3127987,
+    "test": {
+      "normalized": {
+        "n": 62,
+        "dice": 0.9127831473375879,
+        "iou": 0.8519139923548302,
+        "dice_bootstrap95": [
+          0.8853242751312551,
+          0.9361318116974434
+        ],
+        "uncertainty_unit": "image; correlated frames may make CI optimistic"
+      },
+      "fixed_threshold": {
+        "n": 62,
+        "dice": 0.9127831473375879,
+        "iou": 0.8519139923548302,
+        "dice_bootstrap95": [
+          0.8853242751312551,
+          0.9361318116974434
+        ],
+        "uncertainty_unit": "image; correlated frames may make CI optimistic"
+      }
+    },
+    "checkpoint_sha256": "7b952f9f588511d9474446de10e84d705f23396f07bed6aada5a67dd242a61dd",
+    "manifest_sha256": "312d7060c9eace996ee5b3e2aea569f2fbeed4d359350626dc3d06f5608db86f"
+  },
+  "CWFID": {
+    "status": "completed",
+    "best_epoch": 128,
+    "best_val_dice": 0.8930041631669413,
+    "epochs": 200,
+    "elapsed_seconds": 409.93815369999993,
+    "test": {
+      "normalized": {
+        "n": 21,
+        "dice": 0.8798404667458994,
+        "iou": 0.7858559258990477,
+        "dice_bootstrap95": [
+          0.87264782598032,
+          0.8866164250361014
+        ],
+        "uncertainty_unit": "image; correlated frames may make CI optimistic"
+      },
+      "fixed_threshold": {
+        "n": 21,
+        "dice": 0.8798404667458994,
+        "iou": 0.7858559258990477,
+        "dice_bootstrap95": [
+          0.87264782598032,
+          0.8866164250361014
+        ],
+        "uncertainty_unit": "image; correlated frames may make CI optimistic"
+      }
+    },
+    "checkpoint_sha256": "d14c0540b114204bc2e4c173b24995e7d84a7a486abc55fd8cf2551ae48af7f9",
+    "manifest_sha256": "937555ecc441464d6f4994d121e18d42f1d82dce6d04b015e04d029854e9512e"
+  }
+}
